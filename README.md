@@ -180,6 +180,10 @@ womens-football-dashboard/
    ```
    jupyter notebook
    ```
+   pip install jupyter
+   ```
+
+   ```
 
 ---
 
