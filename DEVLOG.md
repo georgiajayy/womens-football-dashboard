@@ -115,3 +115,45 @@ and tested who shot from inside the box.
 
 **Next time:** Add the shot map to my README, then decide the dashboard's
 wider focus.
+
+## Session 4
+
+**Goal:** Analyse England's whole Euro 2025 tournament and build the
+dashboard's tournament overview chart.
+
+**What I did:** Wrote five guiding questions for the dashboard, including
+a future-facing one about Euro 2029 in Germany. Loaded all six of England's
+matches at once with a for loop (22,853 events), summarised shots, xG and
+goals for every team in every match, reshaped it into one row per match,
+and built a styled chart of England's journey with xG and goals labelled.
+
+**What I learned:**
+
+- Guiding questions: writing down what I want to find out before coding
+  keeps the project focused.
+- For loops: repeat the same steps for each item in a list, like loading
+  six matches without copying code six times. Indentation shows which
+  lines are inside the loop.
+- pd.concat: stacks tables on top of each other, like joining clips on a timeline.
+- merge: joins two tables on a shared column, like a SQL JOIN.
+- ~ means "not" when filtering.
+- f-strings: build text with values slotted in, like "0.73 (1)".
+- True counts as 1 when adding up, which makes counting goals easy.
+
+**What confused me:**
+
+- A cell showed nothing when I ran it.
+  Resolved: cells that only create variables don't display anything.
+  Adding a display line or print() confirms it worked.
+
+**Things I noticed in the data:**
+
+- Combining matches increased the columns from 88 to 108, because
+  concat keeps every column from every match.
+- England's story: out-created by France in a 2–1 opening defeat, dominant
+  against the Netherlands and Wales, level on chances with Sweden,
+  much stronger than Italy but needing extra time, then out-created
+  by Spain in the final but winning on penalties.
+- England's 16 goals matched their real tournament total, a good sanity check.
+
+**Next time:** Session 5, the player view: who drove England's attack?

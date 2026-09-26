@@ -11,6 +11,13 @@ as many shots as England (23 vs 8) and generated 2.14 xG to England's 0.88.
 But shot for shot, England's chances were just as good, with a slightly
 higher average xG per shot. Spain's advantage came from volume, not quality.
 
+![England's Euro 2025 journey: xG and goals match by match](england_journey_xg.png)
+
+**England's journey:** England were out-created in their opening defeat
+to France, dominated the Netherlands and Wales, were level on chances
+with Sweden, and were clearly stronger than Italy. In the final, Spain
+created more than twice England's xG, but England held on and won on penalties.
+
 ---
 
 ## About the project
@@ -18,6 +25,15 @@ higher average xG per shot. Spain's advantage came from volume, not quality.
 Men's football is one of the most heavily analysed sports in the world, but the women's game receives a fraction of that attention, despite rapidly growing audiences, investment and professionalism. This project aims to help close that gap by turning detailed match data into clear, interactive visuals that anyone can explore.
 
 The dashboard will cover competitions including the FA Women's Super League, the UEFA Women's Euros and the FIFA Women's World Cup, using event data where every pass, shot, tackle and carry is recorded with its location on the pitch.
+
+### Guiding questions
+
+1. How did England's attacking threat change match by match?
+2. Did England deserve their results?
+3. Who drove England's attack?
+4. How did England defend?
+5. Looking ahead: what does the data suggest about England's chances
+   of a third consecutive title at Euro 2029 in Germany?
 
 ### Why I'm building this
 
@@ -59,7 +75,8 @@ Data provided by [StatsBomb](https://github.com/statsbomb/open-data).
 - [x] Set up the project environment and GitHub repository
 - [x] Load StatsBomb data and filter to women's competitions
 - [x] Explore a full match and understand the event data
-- [ ] Choose the project's focus and key questions
+- [x] Choose the project's focus (England's Euro 2025 journey)
+- [x] Build tournament overview chart (xG and goals, match by match)
 - [x] Build first visualisation (shot map of the Euro 2025 final)
 - [ ] Build further visualisations (passing networks, player comparisons)
 - [ ] Assemble the interactive Streamlit dashboard
@@ -75,11 +92,14 @@ Data provided by [StatsBomb](https://github.com/statsbomb/open-data).
 womens-football-dashboard/
 ├── 01_exploration.ipynb           # Exploring the StatsBomb data
 ├── 02_shot_map.ipynb              # Shot map and xG analysis of the final
+├── 03_england_journey.ipynb       # England's six matches: xG and goals
+├── england_journey_xg.png         # Tournament overview chart
 ├── shot_map_euro2025_final.png    # Saved shot map image
 ├── DEVLOG.md                      # Session-by-session development log
 ├── requirements.txt               # Python libraries needed to run the project
 ├── .gitignore                     # Files excluded from the repository
 └── README.md                      # You are here
+
 ```
 
 ---
