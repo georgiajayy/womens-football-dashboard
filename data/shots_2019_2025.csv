@@ -1,0 +1,1595 @@
+tournament,match_id,team,player,minute,period,shot_type,shot_outcome,shot_statsbomb_xg,shot_key_pass_id,x,y
+World Cup 2019,69301,Sweden Women's,Kosovare Asllani,10,1,Open Play,Goal,0.1051876,,104.7,45.5
+World Cup 2019,69301,Sweden Women's,Eva Sofia Jakobsson,15,1,Open Play,Saved to Post,0.039003637,ab485447-f5f4-4b3d-ade6-e3c62741fbbc,110.9,53.1
+World Cup 2019,69301,Sweden Women's,Eva Sofia Jakobsson,21,1,Open Play,Goal,0.035328,5506b1d4-fe6c-460d-acdc-104cd85884ba,107.8,26.1
+World Cup 2019,69301,England Women's,Lucy Bronze,22,1,Open Play,Saved,0.018010672,,93.7,51.1
+World Cup 2019,69301,England Women's,Francesca Kirby,30,1,Open Play,Goal,0.1007295,6c67714a-6078-4494-8621-81133201ca20,108.0,52.7
+World Cup 2019,69301,Sweden Women's,Hanna Erica Maria Glas,43,1,Open Play,Saved,0.0069027855,,83.6,47.1
+World Cup 2019,69301,Sweden Women's,Emma Stina Blackstenius,48,1,Open Play,Off T,0.124659725,,105.4,25.5
+World Cup 2019,69301,England Women's,Ellen White,50,1,Open Play,Saved,0.13908964,3135fc04-58d9-4af1-b988-3f91aae3b077,108.4,53.3
+World Cup 2019,69301,England Women's,Alex Greenwood,49,2,Open Play,Blocked,0.0068381405,ed0caa5a-357b-40a8-91c4-0f11996105b3,84.3,31.3
+World Cup 2019,69301,England Women's,Jade Moore,49,2,Open Play,Off T,0.0066160476,41712793-25b9-4051-85b8-94921b7be61f,81.9,35.2
+World Cup 2019,69301,England Women's,Jill Scott,56,2,Open Play,Blocked,0.020786265,ba0e9c8e-5e2b-407a-9bd5-f2dd03d3648c,88.6,39.9
+World Cup 2019,69301,England Women's,Stephanie Houghton,61,2,Open Play,Off T,0.057167698,90d6e184-8eeb-4290-acd5-0ab20017ec6c,117.5,48.2
+World Cup 2019,69301,England Women's,Lucy Bronze,63,2,Open Play,Wayward,0.0044258432,,63.1,79.4
+World Cup 2019,69301,Sweden Women's,Julia Zigiotti-Olme,65,2,Open Play,Saved,0.04116787,3e586e16-02db-4a26-b0d3-15e7a9ce6ed2,95.7,39.3
+World Cup 2019,69301,England Women's,Jade Moore,82,2,Open Play,Off T,0.0064325384,,82.9,38.3
+World Cup 2019,69301,Sweden Women's,Eva Sofia Jakobsson,87,2,Open Play,Saved,0.070376985,26d9f32e-b7df-4828-b356-8ce05394a17a,102.9,51.5
+World Cup 2019,69301,England Women's,Lucy Bronze,89,2,Open Play,Blocked,0.094765656,,107.0,37.7
+World Cup 2019,69301,England Women's,Karen Julia Carney,90,2,Open Play,Saved,0.018981313,,89.3,33.5
+World Cup 2019,69301,Sweden Women's,Julia Zigiotti-Olme,90,2,Open Play,Saved,0.12665191,,109.0,33.4
+World Cup 2019,68355,Nigeria Women's,Francisca Ordega,1,1,Open Play,Saved,0.057198483,3f6cf8ec-5481-45f8-941a-6991e8070237,114.0,47.9
+World Cup 2019,68355,Germany Women's,Lina Magull,5,1,Open Play,Blocked,0.14670533,59b9d232-cf10-499f-83ef-cf29d3beaae6,111.2,38.8
+World Cup 2019,68355,Germany Women's,Alexandra Popp,16,1,Open Play,Blocked,0.04000731,,100.5,30.0
+World Cup 2019,68355,Germany Women's,Alexandra Popp,19,1,Open Play,Goal,0.13878757,fa990e1e-7db8-4869-9f43-0032e8eea708,115.3,40.1
+World Cup 2019,68355,Germany Women's,Sara Däbritz,26,1,Penalty,Goal,0.7835,,108.0,40.0
+World Cup 2019,68355,Germany Women's,Svenja Huth,41,1,Open Play,Off T,0.070565134,a22adea9-c92b-4b77-9446-99fa384539d9,110.7,50.9
+World Cup 2019,68355,Nigeria Women's,Uchenna Kanu,48,1,Open Play,Blocked,0.07187568,33df2477-30ce-4ae6-9eb4-d379dc10d5ad,109.3,44.6
+World Cup 2019,68355,Nigeria Women's,Chinwendu Ihezuo,51,2,Open Play,Off T,0.029893473,5d181a47-afcd-4435-b9bf-57df00219b34,112.9,26.0
+World Cup 2019,68355,Germany Women's,Sara Däbritz,54,2,Open Play,Blocked,0.009825332,b19c7629-6d5e-4b53-8dab-b82a4cab2b3a,90.5,25.8
+World Cup 2019,68355,Germany Women's,Giulia Gwinn,55,2,Open Play,Saved,0.028502364,bde85a5d-3678-4316-8d10-120a84017c14,90.8,42.1
+World Cup 2019,68355,Germany Women's,Giulia Gwinn,57,2,Open Play,Off T,0.08775732,4817abaa-3f77-470d-926b-42deda34f045,105.7,51.8
+World Cup 2019,68355,Nigeria Women's,Halimatu Ibrahim Ayinde,58,2,Open Play,Blocked,0.022084724,2ca216b4-d836-4c7f-9920-ffea9e359358,88.1,33.8
+World Cup 2019,68355,Germany Women's,Alexandra Popp,69,2,Open Play,Wayward,0.059986897,23e893f4-5155-4c4d-8078-2c91d7101625,106.2,44.4
+World Cup 2019,68355,Germany Women's,Alexandra Popp,71,2,Open Play,Wayward,0.015224432,,85.3,39.8
+World Cup 2019,68355,Nigeria Women's,Chinaza Uchendu,76,2,Open Play,Saved,0.09182156,da2ee2f4-4330-4ea5-ada4-421682b970f1,105.0,34.9
+World Cup 2019,68355,Germany Women's,Sara Däbritz,78,2,Open Play,Off T,0.1182996,95d7c311-80b4-4cd5-9cee-dc87cf84f1f2,110.4,27.1
+World Cup 2019,68355,Germany Women's,Lea Schüller,81,2,Open Play,Goal,0.17814477,,103.2,45.4
+World Cup 2019,68355,Nigeria Women's,Ugochi Desire Oparanozie,90,2,Free Kick,Off T,0.009257831,,95.4,19.4
+World Cup 2019,68355,Nigeria Women's,Alice Ogebe,94,2,Open Play,Blocked,0.030399311,,103.1,53.7
+World Cup 2019,22983,Spain Women's,Lucía García Córdoba,7,1,Open Play,Off T,0.22421794,2358b514-cd10-497e-8570-d1d0f2d2b865,114.7,39.9
+World Cup 2019,22983,Spain Women's,Jennifer Hermoso Fuentes,9,1,Open Play,Blocked,0.07512525,182c64b9-84e7-421c-97cf-078f16c65aa6,105.6,28.7
+World Cup 2019,22983,Spain Women's,Virginia Torrecilla Reyes,22,1,Open Play,Off T,0.03910049,348a998f-bc16-4d71-a347-c4a22e75b6e9,103.5,50.8
+World Cup 2019,22983,Spain Women's,Jennifer Hermoso Fuentes,25,1,Open Play,Blocked,0.05772186,,101.4,34.0
+World Cup 2019,22983,Spain Women's,Marta Corredera Rueda,25,1,Open Play,Blocked,0.018082924,,90.2,46.1
+World Cup 2019,22983,Spain Women's,Nahikari García Pérez,28,1,Open Play,Saved,0.0528759,5903b3d6-00cc-4b3a-9db5-3a45eddb6c90,116.7,29.3
+World Cup 2019,22983,Spain Women's,María Francesca Caldentey Oliver,31,1,Open Play,Off T,0.030794984,14f173b3-e72b-4a22-be97-4a99659645a7,94.6,32.3
+World Cup 2019,22983,Spain Women's,Virginia Torrecilla Reyes,34,1,Open Play,Off T,0.035329483,a2ea014f-68ca-400e-b5b0-bb6b61bd3d45,97.5,31.7
+World Cup 2019,22983,Spain Women's,Nahikari García Pérez,34,1,Open Play,Blocked,0.05199621,9bcaa049-c5c0-4d23-883a-435911b09063,102.7,41.2
+World Cup 2019,22983,Spain Women's,Jennifer Hermoso Fuentes,38,1,Open Play,Saved,0.11008457,a7544ee9-ecaa-416b-af6f-03ab4eb84fb7,111.0,43.9
+World Cup 2019,22983,Spain Women's,Patricia Guijarro Gutiérrez,49,2,Open Play,Blocked,0.05587824,a6656d53-9037-48b7-9dcb-543ed65edc47,101.9,42.7
+World Cup 2019,22983,Spain Women's,Patricia Guijarro Gutiérrez,50,2,Open Play,Saved,0.061234664,0a1a55bf-efbe-42ef-9a86-d02c046c276f,112.2,33.4
+World Cup 2019,22983,China PR Women's,Yasha Gu,51,2,Open Play,Blocked,0.02244288,a82ab851-8136-4af3-a541-0afd34315792,109.7,23.4
+World Cup 2019,22983,Spain Women's,Nahikari García Pérez,51,2,Open Play,Off T,0.04613964,e0247cf4-8a10-4e3c-9370-a469ad581c12,104.3,56.7
+World Cup 2019,22983,Spain Women's,Lucía García Córdoba,55,2,Open Play,Blocked,0.10503859,,110.7,40.7
+World Cup 2019,22983,Spain Women's,Patricia Guijarro Gutiérrez,60,2,Open Play,Saved,0.07555749,dd156d61-a764-48f5-89e8-f6f5f0b9d160,98.6,44.2
+World Cup 2019,22983,Spain Women's,Marta Corredera Rueda,63,2,Open Play,Off T,0.02540156,dca22c7a-a12a-4991-9f3c-d9b542c953d2,90.8,36.3
+World Cup 2019,22983,Spain Women's,Irene Paredes Hernandez,65,2,Open Play,Off T,0.081345715,e9e8eecd-981d-4faf-a04b-43410877b911,112.9,37.1
+World Cup 2019,22983,Spain Women's,Alexia Putellas Segura,70,2,Free Kick,Saved,0.035064805,,90.8,47.6
+World Cup 2019,22983,Spain Women's,Jennifer Hermoso Fuentes,75,2,Open Play,Off T,0.16159105,4982ba08-369e-4101-949c-03a809d767bd,107.0,38.9
+World Cup 2019,22983,Spain Women's,Alexia Putellas Segura,78,2,Open Play,Saved,0.102161944,acdd9d30-14c9-4bc0-b955-e80252527698,111.2,42.4
+World Cup 2019,22983,Spain Women's,Patricia Guijarro Gutiérrez,82,2,Open Play,Saved,0.053752,,96.5,43.4
+World Cup 2019,22983,Spain Women's,Patricia Guijarro Gutiérrez,83,2,Open Play,Off T,0.02965763,e1442407-ca10-4761-aec9-86215604ea79,91.9,35.9
+World Cup 2019,22983,Spain Women's,Jennifer Hermoso Fuentes,84,2,Open Play,Saved,0.11540245,7ca1506c-b851-4bbe-a207-6b1db78bcb5a,112.0,49.7
+World Cup 2019,22983,Spain Women's,Andrea Sánchez Falcón,85,2,Open Play,Saved,0.037568115,,106.3,29.3
+World Cup 2019,22983,Spain Women's,Leila Ouahabi El Ouahabi,90,2,Open Play,Blocked,0.01588236,,85.2,38.8
+World Cup 2019,69208,Germany Women's,Alexandra Popp,3,1,Open Play,Saved,0.05745492,27afbf98-e2d1-4ad5-94b5-adb566ec1380,111.1,44.3
+World Cup 2019,69208,Germany Women's,Lina Magull,5,1,Free Kick,Saved,0.08606018,,99.9,31.5
+World Cup 2019,69208,Germany Women's,Sara Däbritz,6,1,Open Play,Saved,0.021565653,cfba1bcb-a39c-4970-aa0c-e1a7c819798b,90.5,42.0
+World Cup 2019,69208,Sweden Women's,Eva Sofia Jakobsson,11,1,Open Play,Saved,0.047469076,201035c1-3ba8-462f-b7de-6b09b4a1890c,109.8,28.0
+World Cup 2019,69208,Sweden Women's,Magdalena Lilly Eriksson,12,1,Open Play,Off T,0.12573287,8edc5c92-ae25-4a53-81f2-091e11b1fce2,116.3,35.0
+World Cup 2019,69208,Germany Women's,Lina Magull,15,1,Open Play,Goal,0.22935413,76bbef52-5eb1-468b-bb9e-1098163afaff,106.9,43.1
+World Cup 2019,69208,Germany Women's,Lea Schüller,18,1,Open Play,Saved,0.15565853,2524c50c-2e5b-42ad-8645-33d5418f773e,109.2,38.6
+World Cup 2019,69208,Sweden Women's,Eva Sofia Jakobsson,21,1,Open Play,Goal,0.24652642,e7ce3ea3-3c79-40fb-a6df-4c04f65fbc18,104.4,48.7
+World Cup 2019,69208,Germany Women's,Linda Dallmann,26,1,Open Play,Blocked,0.04392866,b218266e-c070-4cec-8734-9f4ad06ffa1c,103.4,53.1
+World Cup 2019,69208,Sweden Women's,Linda Brigitta Sembrant,31,1,Open Play,Off T,0.00612663,becb76b3-64b3-4936-bf59-49636ee48ea7,84.1,27.1
+World Cup 2019,69208,Sweden Women's,Emma Stina Blackstenius,35,1,Open Play,Saved,0.07386077,7d0f8032-ddf3-45a5-94b8-5c139021f2f4,104.0,53.0
+World Cup 2019,69208,Sweden Women's,Fridolina Rolfö,42,1,Open Play,Blocked,0.08899339,,110.6,45.4
+World Cup 2019,69208,Sweden Women's,Fridolina Rolfö,47,2,Open Play,Saved,0.08922878,3c9a0f8e-bcef-45de-b0bd-847e80d45af2,111.9,32.7
+World Cup 2019,69208,Sweden Women's,Emma Stina Blackstenius,47,2,Open Play,Goal,0.21020292,,115.6,42.1
+World Cup 2019,69208,Germany Women's,Sara Däbritz,57,2,Open Play,Off T,0.005945709,,74.2,39.1
+World Cup 2019,69208,Sweden Women's,Emma Stina Blackstenius,70,2,Open Play,Blocked,0.20310664,28a58fcf-1d6f-4ab1-b4e1-37c4dd57bd39,107.1,46.3
+World Cup 2019,69208,Germany Women's,Giulia Gwinn,71,2,Open Play,Wayward,0.027614046,,94.9,40.9
+World Cup 2019,69208,Sweden Women's,Eva Sofia Jakobsson,77,2,Open Play,Saved,0.17136087,33f9f243-7838-4222-b1ae-55c971fab0cf,107.5,50.1
+World Cup 2019,69208,Germany Women's,Alexandra Popp,80,2,Open Play,Blocked,0.022642145,d9b9aaab-4f48-4ea9-83f5-214b09450c21,90.8,32.0
+World Cup 2019,69208,Germany Women's,Lena Oberdorf,87,2,Open Play,Off T,0.07722952,35c0b730-b314-479e-8023-9cbcc09991f4,113.5,35.0
+World Cup 2019,69208,Sweden Women's,Emma Stina Blackstenius,87,2,Open Play,Off T,0.060056932,ec26fbe9-1f07-4934-94cc-4424c7b895f6,96.2,40.2
+World Cup 2019,69208,Germany Women's,Sara Däbritz,90,2,Open Play,Saved,0.02963601,ad0eb47b-8dae-4a68-8d78-fb30349925c6,103.1,23.1
+World Cup 2019,69208,Germany Women's,Svenja Huth,91,2,Open Play,Blocked,0.025642619,0eaeb32c-53dc-45ac-99ba-69f51f9900dc,94.7,49.2
+World Cup 2019,69208,Germany Women's,Marina Hegering,92,2,Open Play,Off T,0.4872568,26f0cf5a-662c-4ad8-a8e2-7b020599460c,117.9,36.9
+World Cup 2019,22949,Germany Women's,Sara Däbritz,1,1,Free Kick,Blocked,0.009016308,,88.7,55.6
+World Cup 2019,22949,Spain Women's,Nahikari García Pérez,13,1,Open Play,Off T,0.28555807,d128b290-4470-439f-a13e-5ff15bc12776,103.4,38.5
+World Cup 2019,22949,Spain Women's,Silvia Meseguer Bellido,15,1,Open Play,Off T,0.11566309,02744e81-607d-4ea7-a728-eaf34494bc7a,100.9,38.5
+World Cup 2019,22949,Germany Women's,Giulia Gwinn,16,1,Open Play,Saved,0.014924447,,113.1,55.6
+World Cup 2019,22949,Germany Women's,Giulia Gwinn,17,1,Open Play,Off T,0.007808205,5f8979aa-fd3d-47ac-af7e-cb09fd5f7ab2,86.4,50.5
+World Cup 2019,22949,Spain Women's,Virginia Torrecilla Reyes,20,1,Open Play,Blocked,0.019942386,,89.1,38.8
+World Cup 2019,22949,Spain Women's,Marta Corredera Rueda,21,1,Open Play,Saved,0.0063287783,7d00dd09-33ca-40e6-8518-3e99d9cafe9b,108.4,9.7
+World Cup 2019,22949,Germany Women's,Svenja Huth,31,1,Open Play,Saved,0.0434791,1bc7a5ed-ebab-4b6d-828c-4ba018d2e4cb,107.5,56.5
+World Cup 2019,22949,Spain Women's,Jennifer Hermoso Fuentes,32,1,Open Play,Blocked,0.0380251,ad85ab58-b940-4ceb-9031-0826a6dc96ce,114.5,28.2
+World Cup 2019,22949,Spain Women's,Silvia Meseguer Bellido,32,1,Open Play,Blocked,0.020451138,,92.1,46.4
+World Cup 2019,22949,Spain Women's,Jennifer Hermoso Fuentes,35,1,Open Play,Blocked,0.044276487,,99.0,49.5
+World Cup 2019,22949,Spain Women's,Virginia Torrecilla Reyes,35,1,Open Play,Blocked,0.033650126,,95.2,39.0
+World Cup 2019,22949,Germany Women's,Alexandra Popp,41,1,Open Play,Saved,0.11853174,f7119d22-3e74-4b85-b131-01ec3df77703,110.7,41.4
+World Cup 2019,22949,Germany Women's,Sara Däbritz,41,1,Open Play,Goal,0.7775286,,118.9,37.0
+World Cup 2019,22949,Spain Women's,Virginia Torrecilla Reyes,46,2,Open Play,Blocked,0.031376135,,95.0,45.3
+World Cup 2019,22949,Spain Women's,Alexia Putellas Segura,46,2,Open Play,Saved,0.07529187,4e2a842e-e745-44db-b82e-385e01c893b0,112.3,32.8
+World Cup 2019,22949,Spain Women's,María Francesca Caldentey Oliver,50,2,Open Play,Off T,0.05212714,,98.5,46.3
+World Cup 2019,22949,Germany Women's,Alexandra Popp,56,2,Open Play,Wayward,0.12181143,82a24451-27f6-46dd-854b-36ddd6768809,108.3,43.7
+World Cup 2019,22949,Germany Women's,Klara Bühl,61,2,Open Play,Saved,0.060170285,5ef810f8-5a0d-46a7-a27f-3d1411adaded,104.8,52.5
+World Cup 2019,22949,Spain Women's,Marta Torrejón Moya,63,2,Free Kick,Blocked,0.09828597,,99.5,36.4
+World Cup 2019,22949,Germany Women's,Klara Bühl,63,2,Open Play,Off T,0.06895198,f5109613-a111-42b5-95f7-8421b227111c,105.5,54.5
+World Cup 2019,22949,Spain Women's,Nahikari García Pérez,65,2,Open Play,Blocked,0.069336474,a2d56b3b-7401-4d91-910b-701136360ae1,118.4,46.1
+World Cup 2019,22949,Spain Women's,Patricia Guijarro Gutiérrez,67,2,Open Play,Wayward,0.025372373,,93.7,44.9
+World Cup 2019,22949,Spain Women's,Jennifer Hermoso Fuentes,67,2,Open Play,Off T,0.026562583,e0020c2c-4e93-4873-880d-a325a4496e09,104.2,54.2
+World Cup 2019,22949,Spain Women's,Marta Corredera Rueda,71,2,Open Play,Off T,0.006355216,cd86baf8-8ba4-4009-a790-a202953bea7b,84.4,26.6
+World Cup 2019,22949,Germany Women's,Sara Däbritz,75,2,Open Play,Saved,0.040448368,6c101e85-3663-4cd6-9888-eb0fc72006ca,110.4,34.2
+World Cup 2019,22949,Germany Women's,Marina Hegering,81,2,Open Play,Off T,0.024861436,5c1d8959-141c-4bc0-aafc-cd8a26655630,92.7,29.1
+World Cup 2019,22949,Germany Women's,Klara Bühl,86,2,Open Play,Saved,0.10227651,,108.0,38.1
+World Cup 2019,22949,Germany Women's,Lina Magull,86,2,Open Play,Off T,0.08914573,2f29ca49-1867-4cd7-b6a8-475498ee8a42,104.9,51.8
+World Cup 2019,22949,Spain Women's,Aitana Bonmati Conca,91,2,Open Play,Blocked,0.039158132,52b9f7a3-f72c-40d1-80ed-b3244f4344a7,102.0,28.6
+World Cup 2019,68362,England Women's,Stephanie Houghton,13,1,Open Play,Goal,0.18827021,ad52d356-00c4-4a43-8290-3ed8decdaab0,113.9,36.1
+World Cup 2019,68362,England Women's,Toni Duggan,20,1,Open Play,Off T,0.066894755,3d94a6a0-adb5-46c4-9223-3ebf43600af8,102.8,27.8
+World Cup 2019,68362,Cameroon W,Gaelle Enganamouit,31,1,Open Play,Off T,0.029817363,fa5b6506-4f59-441f-8a78-78cef76b1f61,87.5,33.8
+World Cup 2019,68362,Cameroon W,Gaelle Enganamouit,33,1,Open Play,Wayward,0.024380228,a95f0d10-43bd-45ee-9489-1c01b3665e93,92.8,29.7
+World Cup 2019,68362,England Women's,Ellen White,48,1,Open Play,Goal,0.36996657,7176e031-b44e-406d-88ae-df55b698621a,104.5,39.3
+World Cup 2019,68362,Cameroon W,Alexandra Takounda Engolo,52,2,Open Play,Saved,0.3144531,,107.7,43.5
+World Cup 2019,68362,England Women's,Alex Greenwood,57,2,Open Play,Goal,0.086516455,dafe7fa0-0394-49b9-b012-4e5c6250f324,108.8,37.8
+World Cup 2019,68362,Cameroon W,Ajara Nchout,59,2,Open Play,Blocked,0.06816827,2af669a3-8304-4aa1-a1cd-b4ed3cdd1973,106.6,54.3
+World Cup 2019,68362,England Women's,Ellen White,61,2,Open Play,Off T,0.20783718,192fa3bd-6719-44ce-93e3-f25d971182d5,108.2,33.6
+World Cup 2019,68362,Cameroon W,Ajara Nchout,61,2,Open Play,Blocked,0.091127485,f489ee8d-a786-47b9-bee3-a4663f4ab19e,107.7,42.5
+World Cup 2019,68362,Cameroon W,Therese Ninon Abena,68,2,Open Play,Off T,0.0077269124,,86.2,28.0
+World Cup 2019,68362,England Women's,Jodie Taylor,75,2,Open Play,Off T,0.25163084,b630668e-4476-4922-b882-80a0049af413,105.7,32.6
+World Cup 2019,68362,England Women's,Jodie Taylor,81,2,Open Play,Blocked,0.12490295,6ba5b998-24a6-4d3f-a3d8-2faed9e210dd,102.9,29.1
+World Cup 2019,68362,Cameroon W,Therese Ninon Abena,84,2,Open Play,Saved,0.056565527,17c402f4-614e-4b61-b3fd-0b2c9f227c26,97.4,44.9
+World Cup 2019,69258,United States Women's,Rosemary Kathleen Lavelle,3,1,Open Play,Saved,0.033160396,,113.2,54.5
+World Cup 2019,69258,United States Women's,Alexandra Morgan Carrasco,3,1,Open Play,Off T,0.07803275,,107.3,33.7
+World Cup 2019,69258,United States Women's,Christen Annemarie Press,9,1,Open Play,Goal,0.045101807,ed1e5f2f-aad8-48d2-aee8-ee5c4465859e,113.8,32.6
+World Cup 2019,69258,United States Women's,Rosemary Kathleen Lavelle,15,1,Open Play,Off T,0.031658042,d02aedd3-0195-4d9c-8e0f-1d1a09ac783b,95.5,48.0
+World Cup 2019,69258,England Women's,Ellen White,18,1,Open Play,Goal,0.22070982,af7d3919-3e2a-49e1-9281-39a0ab4d16a6,113.4,37.9
+World Cup 2019,69258,United States Women's,Rosemary Kathleen Lavelle,21,1,Open Play,Blocked,0.037253913,,95.4,42.8
+World Cup 2019,69258,United States Women's,Rosemary Kathleen Lavelle,24,1,Open Play,Saved,0.08678428,91f7fe6d-14ae-4942-974c-bf27be0f4dc4,102.6,40.9
+World Cup 2019,69258,United States Women's,Alexandra Morgan Carrasco,30,1,Open Play,Goal,0.20292331,86e12bc5-feae-4cca-8f4e-9050c02a2015,111.6,40.3
+World Cup 2019,69258,England Women's,Keira Walsh,32,1,Open Play,Saved,0.020896286,,92.3,26.7
+World Cup 2019,69258,United States Women's,Julie Beth Ertz,34,1,Open Play,Off T,0.05846538,4c5520d9-524d-40bc-ab5e-620397dfc577,100.5,51.5
+World Cup 2019,69258,United States Women's,Lindsey Michelle Heaps,40,1,Open Play,Off T,0.11183511,501857ad-dbf0-4165-8c75-7dd8790c9c65,111.0,34.0
+World Cup 2019,69258,England Women's,Jill Scott,44,1,Open Play,Off T,0.07875575,562a6a64-3207-4a5a-a47f-8c74992959c7,111.6,39.9
+World Cup 2019,69258,England Women's,Ellen White,49,2,Open Play,Saved,0.23811977,,118.0,36.5
+World Cup 2019,69258,United States Women's,Julie Beth Ertz,53,2,Open Play,Off T,0.008623974,6a7ca1a7-a246-4e1c-b2ef-d0f65cbb1aa6,102.8,59.7
+World Cup 2019,69258,United States Women's,Christen Annemarie Press,58,2,Open Play,Off T,0.0978942,,102.9,49.2
+World Cup 2019,69258,England Women's,Stephanie Houghton,83,2,Penalty,Saved,0.7835,,108.1,40.1
+World Cup 2019,69258,England Women's,Francesca Kirby,85,2,Open Play,Blocked,0.06147892,,105.6,46.3
+World Cup 2019,69258,England Women's,Jade Moore,95,2,Open Play,Off T,0.0054684523,b2f6a453-6d6b-4b0b-ab94-0c950b820551,78.1,52.2
+World Cup 2019,22962,England Women's,Jill Scott,12,1,Open Play,Saved,0.06340098,b78b8f63-3c61-4989-a8cc-4d8be14e9182,108.0,39.8
+World Cup 2019,22962,England Women's,Stephanie Houghton,15,1,Free Kick,Off T,0.009741158,,93.7,22.9
+World Cup 2019,22962,England Women's,Jade Moore,23,1,Open Play,Blocked,0.03982628,5fd54355-6108-40b7-b1fc-6ccaedfaad8f,98.7,41.7
+World Cup 2019,22962,England Women's,Nikita Parris,27,1,Penalty,Saved to Post,0.7835,,108.0,40.1
+World Cup 2019,22962,England Women's,Jodie Taylor,27,1,Open Play,Off T,0.23383862,,113.7,47.0
+World Cup 2019,22962,Argentina Women's,María Florencia Bonsegundo,32,1,Open Play,Wayward,0.0069180937,a7c80216-7969-4964-97bf-adeb25b2ada4,80.7,44.1
+World Cup 2019,22962,England Women's,Jill Scott,37,1,Open Play,Off T,0.03424186,3aa13f98-6978-4232-8c76-ab4e4b1b55f1,93.8,42.3
+World Cup 2019,22962,England Women's,Jill Scott,39,1,Open Play,Wayward,0.096376166,2e798de7-b2a1-4c5c-b982-c70440e3fb56,112.8,40.7
+World Cup 2019,22962,England Women's,Bethany Mead,40,1,Open Play,Saved,0.30359393,e3c42d6e-d549-457b-a2e0-8128611c2c64,105.1,33.0
+World Cup 2019,22962,England Women's,Nikita Parris,40,1,Open Play,Blocked,0.05799159,3bba91e3-a14e-43f9-9561-50d34619f1cd,109.7,53.6
+World Cup 2019,22962,England Women's,Jodie Taylor,45,1,Open Play,Blocked,0.14805737,8bcf95a2-bc39-4542-a327-a80a78631bce,114.7,44.0
+World Cup 2019,22962,England Women's,Jade Moore,50,2,Open Play,Blocked,0.09937351,b76eae06-9a2a-4b9f-bfc7-88ed61b2802c,114.8,45.5
+World Cup 2019,22962,England Women's,Nikita Parris,50,2,Open Play,Saved,0.07186628,,106.2,40.1
+World Cup 2019,22962,England Women's,Jodie Taylor,55,2,Open Play,Saved,0.22438326,4982c25c-6cf4-4fa3-9789-1819782737b6,113.5,40.3
+World Cup 2019,22962,England Women's,Jodie Taylor,60,2,Open Play,Goal,0.73672706,5b1b5f3f-45cc-409a-ada7-417d4d702dbf,115.5,40.6
+World Cup 2019,22962,England Women's,Jill Scott,64,2,Open Play,Off T,0.07665134,fab96ffb-40bd-4c88-9261-16fa0266666e,111.6,41.6
+World Cup 2019,22962,England Women's,Jill Scott,71,2,Open Play,Off T,0.15555821,5b4b0f53-11ae-4450-9aaa-8ce2fddf5505,113.3,45.3
+World Cup 2019,22962,Argentina Women's,Mariana Valeria Larroquette,75,2,Open Play,Saved,0.02006475,,96.6,55.2
+World Cup 2019,22962,England Women's,Nikita Parris,85,2,Open Play,Wayward,0.11078969,e87b2f1b-d396-46c8-bd06-f29e15a7e396,105.0,34.0
+World Cup 2019,22936,Scotland W,Caroline Weir,7,1,Open Play,Blocked,0.02031599,a6e3feec-886b-4b09-a02a-4559701826e2,86.9,38.4
+World Cup 2019,22936,England Women's,Ellen White,10,1,Open Play,Wayward,0.11654636,42ec9af9-b409-4b1d-a98c-a013941e29ff,115.9,45.3
+World Cup 2019,22936,England Women's,Nikita Parris,13,1,Penalty,Goal,0.7835,,108.0,39.9
+World Cup 2019,22936,England Women's,Francesca Kirby,18,1,Open Play,Off T,0.06524296,e2adb1c3-8f84-4dd7-83d1-6129f4a036e4,101.1,39.5
+World Cup 2019,22936,England Women's,Ellen White,21,1,Open Play,Saved,0.1552873,0dddce11-159e-46b0-9154-3e1745f8eb99,112.6,41.7
+World Cup 2019,22936,Scotland W,Claire Emslie,28,1,Open Play,Saved,0.0146948015,a76e2a71-f49f-405c-90ed-28053c01c9a5,113.1,54.8
+World Cup 2019,22936,England Women's,Bethany Mead,32,1,Open Play,Saved,0.14806972,c6573241-4501-40a6-8bab-0d9a10fae8ea,110.1,28.4
+World Cup 2019,22936,England Women's,Ellen White,33,1,Open Play,Saved,0.118344344,90593b46-088f-4728-b0d9-dad09a5cbc75,103.2,34.6
+World Cup 2019,22936,England Women's,Ellen White,39,1,Open Play,Goal,0.17604986,bf476c5b-c020-4e34-b93f-f924c94d71e6,104.9,37.1
+World Cup 2019,22936,Scotland W,Erin Cuthbert,41,1,Open Play,Off T,0.070657715,,102.7,49.4
+World Cup 2019,22936,England Women's,Stephanie Houghton,44,1,Open Play,Off T,0.08743972,c72fe2be-6a41-44f0-9803-f1959af96ccc,112.2,40.8
+World Cup 2019,22936,England Women's,Keira Walsh,46,1,Open Play,Off T,0.022964919,602c5e71-8649-452b-bcc7-bf059dc6373c,90.9,44.4
+World Cup 2019,22936,England Women's,Nikita Parris,49,2,Open Play,Off T,0.03110568,ecd881d8-96d3-4865-a08c-a1a97918a7f9,91.4,40.5
+World Cup 2019,22936,England Women's,Ellen White,55,2,Open Play,Off T,0.12927517,0cc5512c-26a6-44ec-97c4-27f47cb1f7b0,114.6,47.1
+World Cup 2019,22936,Scotland W,Claire Emslie,56,2,Open Play,Saved,0.015391045,dee4c963-8399-4f48-8b84-dac5383ce8e5,110.6,57.0
+World Cup 2019,22936,Scotland W,Jennifer Patricia Beattie,67,2,Open Play,Wayward,0.12626591,8ebbb0af-c0fe-462d-9292-678b8ebe1d1f,114.1,44.2
+World Cup 2019,22936,Scotland W,Rachel Corsie,67,2,Open Play,Blocked,0.04354171,,106.4,52.8
+World Cup 2019,22936,Scotland W,Claire Emslie,67,2,Open Play,Blocked,0.008232301,c3c424ea-f8a0-4bce-81c1-faf9f181f045,93.3,57.3
+World Cup 2019,22936,England Women's,Ellen White,69,2,Open Play,Saved,0.39938357,e8a30be5-20c8-42f0-8a84-fcaee01bb8ab,114.1,38.7
+World Cup 2019,22936,Scotland W,Claire Emslie,76,2,Open Play,Off T,0.008435163,,112.3,60.6
+World Cup 2019,22936,Scotland W,Claire Emslie,78,2,Open Play,Goal,0.17180039,e67184eb-f9ab-4cc2-b819-11b52191ee81,112.7,45.0
+World Cup 2019,22936,England Women's,Alex Greenwood,82,2,Open Play,Blocked,0.0069841803,477a0fb5-1b29-4fa8-ae70-15ae613dc8bb,92.2,19.7
+World Cup 2019,22936,England Women's,Karen Julia Carney,85,2,Open Play,Blocked,0.029955717,d216e689-deca-407e-82bc-797dd9c8054d,103.6,56.4
+World Cup 2019,22936,England Women's,Georgia Stanway,91,2,Open Play,Off T,0.027468272,8f804641-7402-4d05-80b0-00d50be357f8,89.6,42.3
+World Cup 2019,22926,Germany Women's,Sara Däbritz,2,1,Open Play,Off T,0.032082945,520f908d-3c74-48a0-ab66-be85a6cb01ff,91.8,45.4
+World Cup 2019,22926,China PR Women's,Li Yang,13,1,Open Play,Blocked,0.11395286,77ad52fa-0200-46d5-b91f-a2677fd05e37,110.3,50.1
+World Cup 2019,22926,China PR Women's,Shanshan Wang,14,1,Open Play,Blocked,0.027352465,0af83512-df08-4441-9792-5c11a50037a2,117.3,49.6
+World Cup 2019,22926,Germany Women's,Svenja Huth,15,1,Open Play,Off T,0.02904595,,100.3,24.6
+World Cup 2019,22926,Germany Women's,Svenja Huth,16,1,Open Play,Saved,0.089266084,96ce4d98-ad39-46d1-97ad-3442ff268c05,110.0,36.5
+World Cup 2019,22926,Germany Women's,Kathrin Julia Hendrich,18,1,Open Play,Blocked,0.10995831,,113.1,32.9
+World Cup 2019,22926,Germany Women's,Alexandra Popp,19,1,Open Play,Off T,0.240276,c30339b9-1783-4afe-ad05-98a1bfc8cce6,116.0,43.8
+World Cup 2019,22926,Germany Women's,Svenja Huth,26,1,Open Play,Off T,0.03719417,,101.2,30.2
+World Cup 2019,22926,China PR Women's,Li Yang,43,1,Open Play,Post,0.2280202,be2c2be2-3af2-494f-9d66-e3159ec656c5,102.1,37.5
+World Cup 2019,22926,China PR Women's,Rui Zhang,43,1,Open Play,Saved,0.14952792,,112.8,43.0
+World Cup 2019,22926,Germany Women's,Melanie Leupolz,45,1,Open Play,Off T,0.027196355,ae70a12f-a346-484f-8d1f-65a81638039d,93.0,44.4
+World Cup 2019,22926,Germany Women's,Alexandra Popp,46,2,Open Play,Wayward,0.018226726,34e9bb31-1c68-4283-bcc0-a00703800f00,92.8,51.8
+World Cup 2019,22926,Germany Women's,Sara Däbritz,55,2,Open Play,Blocked,0.06305984,875baaa4-6f9b-4694-a25a-cba98f1e4495,103.2,44.4
+World Cup 2019,22926,Germany Women's,Marina Hegering,59,2,Open Play,Blocked,0.07962245,,107.9,39.8
+World Cup 2019,22926,Germany Women's,Alexandra Popp,59,2,Open Play,Blocked,0.07442722,,111.7,30.1
+World Cup 2019,22926,Germany Women's,Sara Däbritz,60,2,Open Play,Blocked,0.025132447,c71ea4bb-0f0e-4ed1-8708-b72192081aa1,100.0,51.7
+World Cup 2019,22926,Germany Women's,Giulia Gwinn,65,2,Open Play,Goal,0.053383652,,100.6,36.8
+World Cup 2019,22926,Germany Women's,Svenja Huth,72,2,Open Play,Off T,0.021537183,a2d233d7-b810-42d4-a3a9-c360f4cc0dae,106.4,23.3
+World Cup 2019,22926,Germany Women's,Sara Däbritz,75,2,Open Play,Saved,0.028239496,f0ed6139-5813-47ba-8fcf-cbc3b4e6780e,102.8,55.0
+World Cup 2019,22926,Germany Women's,Giulia Gwinn,78,2,Open Play,Saved,0.053751677,8343b829-8a0f-4de3-8583-0ceec8a100e1,107.2,25.4
+World Cup 2019,22926,China PR Women's,Rui Zhang,82,2,Open Play,Off T,0.037371,,98.2,34.4
+World Cup 2019,68337,Japan Women's,Kumi Yokoyama,4,1,Open Play,Off T,0.03812695,5be0a76d-a83d-4182-b5cf-359aa7c21ba9,96.8,44.4
+World Cup 2019,68337,Japan Women's,Kumi Yokoyama,8,1,Free Kick,Saved,0.008441535,,84.0,34.3
+World Cup 2019,68337,England Women's,Georgia Stanway,12,1,Open Play,Blocked,0.017608298,b45b8d3a-4a78-4014-97d6-18ddb7d8031c,94.4,50.0
+World Cup 2019,68337,England Women's,Jill Scott,12,1,Open Play,Wayward,0.05572198,93847140-fabd-4465-ada9-2139e92fc950,107.3,41.1
+World Cup 2019,68337,England Women's,Georgia Stanway,13,1,Open Play,Off T,0.0381441,,93.6,34.9
+World Cup 2019,68337,England Women's,Ellen White,13,1,Open Play,Goal,0.22220932,f24a2996-cb59-427f-a976-a1fdb3cf599b,109.9,27.8
+World Cup 2019,68337,England Women's,Jill Scott,17,1,Open Play,Saved,0.026589882,ec6654c2-6ce3-4696-ab17-f1742de333fb,90.5,43.6
+World Cup 2019,68337,England Women's,Georgia Stanway,18,1,Open Play,Saved,0.030378567,a888b322-c28f-44c7-ad72-7dd0d7125f46,96.7,35.9
+World Cup 2019,68337,England Women's,Ellen White,18,1,Open Play,Wayward,0.07395756,accb7b65-9aa8-4977-88e6-d5bf482c5181,113.2,45.7
+World Cup 2019,68337,Japan Women's,Mana Iwabuchi,20,1,Open Play,Blocked,0.011995319,f0a3fd46-a2fe-42d4-b383-da33ea259529,84.3,43.8
+World Cup 2019,68337,England Women's,Ellen White,23,1,Open Play,Off T,0.095447056,14f94e6f-f88f-4221-b194-29d4dc502bb5,109.8,46.9
+World Cup 2019,68337,Japan Women's,Kumi Yokoyama,30,1,Open Play,Saved,0.023463268,382f9501-6672-416a-bdd7-07d17c9dd831,91.1,36.6
+World Cup 2019,68337,England Women's,Rachel Daly,33,1,Open Play,Saved,0.2525656,62c39566-0ef8-4343-a646-712ebd811c0f,105.2,43.9
+World Cup 2019,68337,England Women's,Toni Duggan,34,1,Open Play,Off T,0.06272798,,103.2,42.1
+World Cup 2019,68337,Japan Women's,Nana Ichise,36,1,Open Play,Blocked,0.0049312864,670dee1e-fb57-4318-8d03-5e3b09c37cc0,84.6,21.7
+World Cup 2019,68337,Japan Women's,Kumi Yokoyama,40,1,Open Play,Off T,0.04651161,a6ab7e81-1eed-4340-b336-d5c69d1c970b,96.6,44.4
+World Cup 2019,68337,England Women's,Jill Scott,48,2,Open Play,Blocked,0.05356997,ec46f990-a767-4375-afbb-85142c7e0330,104.8,51.6
+World Cup 2019,68337,England Women's,Georgia Stanway,48,2,Open Play,Blocked,0.08577621,,103.8,43.9
+World Cup 2019,68337,Japan Women's,Emi Nakajima,56,2,Open Play,Off T,0.041169204,e81bbcf3-0105-4d05-8343-bf09029c12b6,93.1,41.2
+World Cup 2019,68337,England Women's,Toni Duggan,58,2,Open Play,Saved,0.22356792,b6b8b988-d88d-47aa-a038-5d8b876fee38,112.0,38.2
+World Cup 2019,68337,England Women's,Keira Walsh,60,2,Open Play,Blocked,0.032359872,aae0d190-7680-4712-9af1-17c8c3261441,94.1,46.8
+World Cup 2019,68337,England Women's,Georgia Stanway,63,2,Open Play,Off T,0.018366333,,92.5,27.9
+World Cup 2019,68337,Japan Women's,Yuika Sugasawa,72,2,Open Play,Saved,0.026215924,,92.5,32.9
+World Cup 2019,68337,Japan Women's,Mana Iwabuchi,76,2,Open Play,Off T,0.028045787,,94.4,51.1
+World Cup 2019,68337,Japan Women's,Yuika Sugasawa,77,2,Open Play,Off T,0.048192415,d3f2fee7-a7a1-4b5f-9d46-2ede26e0a4e1,102.4,39.4
+World Cup 2019,68337,Japan Women's,Yuika Sugasawa,82,2,Open Play,Off T,0.153885,16a7a5d6-297d-4e75-99a1-784df03c728f,112.5,34.1
+World Cup 2019,68337,England Women's,Ellen White,83,2,Open Play,Goal,0.14525786,507bb09b-0106-4b53-94ad-9df7707b7028,103.3,30.7
+World Cup 2019,68337,Japan Women's,Mana Iwabuchi,85,2,Open Play,Off T,0.022722395,23d1c75e-03ef-444c-98b4-9e4fed6039ed,100.1,24.5
+World Cup 2019,68337,Japan Women's,Yuika Sugasawa,88,2,Open Play,Saved,0.35390115,e3c679b4-14bb-4153-b16f-cb4a00121cc9,103.4,38.4
+World Cup 2019,68337,Japan Women's,Yuika Sugasawa,89,2,Open Play,Off T,0.06635394,4281c811-c6db-428d-96b4-1baa928957d6,115.0,49.0
+World Cup 2019,68337,Japan Women's,Hina Sugita,90,2,Open Play,Off T,0.014670367,6a6b9b4c-ab45-40c2-b7b9-c640f953591e,117.3,26.5
+World Cup 2019,68337,Japan Women's,Saori Takarada,92,2,Open Play,Off T,0.2238681,1adfbe1c-7e25-43e4-99c7-5762e7a3d3aa,112.4,37.7
+World Cup 2019,22930,Spain Women's,Marta Corredera Rueda,3,1,Open Play,Blocked,0.029342094,,94.7,34.8
+World Cup 2019,22930,Spain Women's,María Francesca Caldentey Oliver,4,1,Open Play,Saved,0.032683503,bd2d0a72-e2cb-4580-8dfe-50b5865c1d7d,99.1,25.4
+World Cup 2019,22930,Spain Women's,María Victoria Losada Gómez,5,1,Open Play,Wayward,0.010581107,ff73cf5d-5370-445e-abe0-1dc27b2a6a6c,103.7,20.7
+World Cup 2019,22930,Spain Women's,Alexia Putellas Segura,6,1,Open Play,Saved,0.06743691,44388937-b920-4b1e-ad3d-e4896d037af0,108.4,37.2
+World Cup 2019,22930,Spain Women's,María Pilar León Cebrián,11,1,Free Kick,Off T,0.07538676,,95.4,46.2
+World Cup 2019,22930,Spain Women's,Alexia Putellas Segura,13,1,Open Play,Blocked,0.043752067,f99282ce-97cf-463c-962e-2d4ca21b18cf,98.7,48.8
+World Cup 2019,22930,South Africa Women's,Nothando Vilakazi,15,1,Free Kick,Blocked,0.06191389,,100.5,54.2
+World Cup 2019,22930,Spain Women's,Amanda Sampedro Bustos,19,1,Open Play,Wayward,0.064777724,08d2f0ba-ca00-48fc-a13e-1af8d4763790,104.0,42.3
+World Cup 2019,22930,Spain Women's,Alexia Putellas Segura,22,1,Open Play,Blocked,0.09985595,b2311cb7-63e6-4005-b8ce-4e7d7cf89041,108.4,39.5
+World Cup 2019,22930,South Africa Women's,Thembi Kgatlana,24,1,Open Play,Goal,0.037462287,ac46eba2-561a-49cf-ba64-280577522ca8,99.9,26.1
+World Cup 2019,22930,Spain Women's,Jennifer Hermoso Fuentes,27,1,Open Play,Saved,0.080031045,f7d2857d-c436-47ed-8a8e-f0c5979a63a0,108.3,38.5
+World Cup 2019,22930,Spain Women's,Marta Torrejón Moya,31,1,Open Play,Off T,0.083202675,158c23f4-c2f6-4022-a13b-b3a9d08aff35,103.4,47.7
+World Cup 2019,22930,Spain Women's,Jennifer Hermoso Fuentes,42,1,Open Play,Blocked,0.05646577,7c20a222-768e-4fb3-8408-c06cb34c771e,108.0,39.1
+World Cup 2019,22930,Spain Women's,Marta Corredera Rueda,48,1,Open Play,Saved,0.01433767,,88.5,28.7
+World Cup 2019,22930,Spain Women's,Alexia Putellas Segura,46,2,Open Play,Blocked,0.068688296,6029169a-242e-4053-b7a2-dfce25ed404d,103.6,38.2
+World Cup 2019,22930,Spain Women's,Jennifer Hermoso Fuentes,46,2,Open Play,Post,0.043638673,,102.1,52.5
+World Cup 2019,22930,Spain Women's,María Francesca Caldentey Oliver,46,2,Open Play,Blocked,0.33684486,,115.8,36.0
+World Cup 2019,22930,Spain Women's,Jennifer Hermoso Fuentes,48,2,Open Play,Blocked,0.06737793,7affac9f-22eb-40cb-92be-593f5db59eba,104.3,42.9
+World Cup 2019,22930,Spain Women's,Lucía García Córdoba,48,2,Open Play,Off T,0.042570114,,109.1,54.9
+World Cup 2019,22930,Spain Women's,María Francesca Caldentey Oliver,50,2,Open Play,Saved,0.045610107,,105.0,26.8
+World Cup 2019,22930,Spain Women's,Marta Torrejón Moya,53,2,Open Play,Saved,0.17210355,90f2a195-e2c7-4595-9100-6786f4b6b8f6,109.0,32.7
+World Cup 2019,22930,South Africa Women's,Thembi Kgatlana,56,2,Open Play,Saved,0.29031342,7d57a0a2-ab8a-4298-8129-a7dbd0981f68,113.5,31.2
+World Cup 2019,22930,Spain Women's,Jennifer Hermoso Fuentes,62,2,Open Play,Saved,0.0075457194,915d8505-4847-44b1-a7ea-3a8b26962e6c,87.2,28.6
+World Cup 2019,22930,Spain Women's,Irene Paredes Hernandez,65,2,Open Play,Off T,0.07358751,f82b1dc8-7621-44b7-87a6-d998bafc2cbd,111.9,36.6
+World Cup 2019,22930,Spain Women's,Jennifer Hermoso Fuentes,67,2,Open Play,Blocked,0.008119688,f1c9178b-081a-41ef-8a96-2699065e19e0,103.2,20.4
+World Cup 2019,22930,Spain Women's,Jennifer Hermoso Fuentes,69,2,Penalty,Goal,0.7835,,108.0,39.9
+World Cup 2019,22930,Spain Women's,María Francesca Caldentey Oliver,71,2,Open Play,Blocked,0.08880102,09d17946-91f5-40e9-a23b-a74107ad50d2,104.5,49.2
+World Cup 2019,22930,Spain Women's,Jennifer Hermoso Fuentes,82,2,Penalty,Goal,0.7835,,107.9,40.1
+World Cup 2019,22930,Spain Women's,Lucía García Córdoba,88,2,Open Play,Goal,0.9710867,14078533-58bc-4b1c-a5cb-dadec72bbbff,111.3,38.3
+World Cup 2019,22930,Spain Women's,Lucía García Córdoba,91,2,Open Play,Blocked,0.11219785,3a7aff2b-9b20-4880-8e24-5fdcb958ac5d,111.6,36.6
+World Cup 2019,22930,Spain Women's,Nahikari García Pérez,92,2,Open Play,Saved,0.053865258,d30db401-b850-4e75-bb2e-6bc143d1c150,109.1,50.3
+World Cup 2019,22930,South Africa Women's,Thembi Kgatlana,94,2,Open Play,Blocked,0.007340123,,92.4,58.1
+World Cup 2019,22984,Germany Women's,Sara Däbritz,2,1,Open Play,Saved,0.2792247,6c979e05-bea6-4e33-98fd-ed246fcf4828,113.3,39.0
+World Cup 2019,22984,Germany Women's,Sara Däbritz,6,1,Open Play,Off T,0.04217997,01f2d914-fbc1-4be7-80a0-ebfc85e00887,93.7,35.8
+World Cup 2019,22984,Germany Women's,Melanie Leupolz,13,1,Open Play,Goal,0.14540619,dc8e8811-48ad-4cef-af5f-9942d98e52aa,113.9,38.7
+World Cup 2019,22984,South Africa Women's,Nothando Vilakazi,15,1,Open Play,Off T,0.0044716755,46ed521e-ee4b-4bdc-81ff-ff03af50d194,93.4,9.5
+World Cup 2019,22984,Germany Women's,Sara Däbritz,15,1,Open Play,Saved,0.14130749,c89931cb-3775-409b-880d-4cba3e4c7396,112.1,29.0
+World Cup 2019,22984,Germany Women's,Alexandra Popp,15,1,Open Play,Off T,0.75628793,,114.1,40.6
+World Cup 2019,22984,Germany Women's,Sara Däbritz,19,1,Open Play,Blocked,0.237641,31d72477-3b0f-4bc2-aad2-a87311fe5135,113.6,41.9
+World Cup 2019,22984,Germany Women's,Sara Däbritz,28,1,Open Play,Goal,0.29337415,,108.2,43.9
+World Cup 2019,22984,Germany Women's,Svenja Huth,34,1,Open Play,Wayward,0.35727128,148aff00-f654-4ced-9bd6-79f9a30f61ff,112.5,39.6
+World Cup 2019,22984,Germany Women's,Lina Magull,34,1,Open Play,Off T,0.269407,56bbf95a-c134-4934-8a4c-b2cc7db299f7,103.4,34.3
+World Cup 2019,22984,Germany Women's,Alexandra Popp,39,1,Open Play,Goal,0.19979903,14ed5140-897d-445a-bd55-caedacf7dece,113.3,39.3
+World Cup 2019,22984,Germany Women's,Alexandra Popp,41,1,Open Play,Saved,0.057896953,b7148ca5-dbf7-4aaf-b17c-98341d652add,106.9,39.6
+World Cup 2019,22984,South Africa Women's,Busisiwe Ndimeni,43,1,Open Play,Blocked,0.06198871,e4783d57-c63b-4086-8204-0224f411a0fd,99.7,28.4
+World Cup 2019,22984,Germany Women's,Klara Bühl,48,2,Open Play,Blocked,0.036945477,cbd90334-0c79-4e3b-ae13-b0b3f203f6b5,94.4,41.9
+World Cup 2019,22984,Germany Women's,Lina Magull,53,2,Free Kick,Blocked,0.008009159,,107.8,16.2
+World Cup 2019,22984,Germany Women's,Melanie Leupolz,54,2,Open Play,Saved,0.09622249,41a2c107-b13b-4a7e-ab1e-f2aebbce2adb,112.9,42.8
+World Cup 2019,22984,Germany Women's,Alexandra Popp,54,2,Open Play,Off T,0.11218843,aa9dd7e5-ffdd-4f78-ab2e-48ee33a3cb7a,113.5,44.0
+World Cup 2019,22984,Germany Women's,Marina Hegering,57,2,Open Play,Saved to Post,0.12321685,74b1590f-f746-4c60-a528-c59547e9753b,108.7,35.9
+World Cup 2019,22984,Germany Women's,Lina Magull,57,2,Open Play,Goal,0.72228366,,118.8,42.2
+World Cup 2019,22984,Germany Women's,Marina Hegering,61,2,Open Play,Off T,0.09928576,787e7f0a-336d-4c66-9a17-afe6b92b62ea,107.7,37.9
+World Cup 2019,22984,Germany Women's,Lina Magull,64,2,Open Play,Blocked,0.069000944,df477038-6903-4224-ac63-71e5ea9d49b4,108.5,33.6
+World Cup 2019,22984,Germany Women's,Sara Däbritz,69,2,Open Play,Saved,0.06896798,41a4d5c5-1fcf-4f50-aa66-505f4c4c4e13,110.2,28.6
+World Cup 2019,22984,South Africa Women's,Janine van Wyk,70,2,Open Play,Off T,0.0062641236,e570a768-4931-4336-a262-d151381324b8,81.5,41.1
+World Cup 2019,22984,Germany Women's,Sara Däbritz,72,2,Open Play,Saved,0.30125463,97f37ed3-a72f-4f7b-ad83-f4e19b47f5ba,110.3,37.7
+World Cup 2019,22984,South Africa Women's,Thembi Kgatlana,73,2,Open Play,Saved,0.4382434,34886c98-bed2-4b1a-92ea-c60f5821c849,104.0,38.4
+World Cup 2019,22984,South Africa Women's,Rhoda Mulaudzi,73,2,Open Play,Blocked,0.00814128,,93.4,57.4
+World Cup 2019,22984,South Africa Women's,Thembi Kgatlana,77,2,Open Play,Off T,0.022040086,7b99e15a-3e13-439b-a625-7aedf65406ee,95.1,30.1
+World Cup 2019,22984,South Africa Women's,Kholosa Biyana,79,2,Open Play,Wayward,0.0060845027,,79.5,57.1
+World Cup 2019,22984,South Africa Women's,Rhoda Mulaudzi,86,2,Open Play,Off T,0.12881766,d4bded80-6bb3-4ce4-ad1f-1b3fe827716c,107.6,28.4
+World Cup 2019,22984,Germany Women's,Carolin Simon,91,2,Open Play,Off T,0.03858234,68ea55ec-3fbc-4503-aff1-a54d9672761a,108.8,28.0
+World Cup 2019,22984,Germany Women's,Lea Schüller,93,2,Open Play,Saved,0.15690722,47924775-6bbc-4e46-8942-0752227c2b5a,108.8,40.5
+World Cup 2019,69199,England Women's,Jill Scott,2,1,Open Play,Goal,0.263847,30865bca-1def-47c6-8095-c32ea6697efa,109.1,42.8
+World Cup 2019,69199,Norway Women's,Karina Sævik,14,1,Open Play,Blocked,0.022424877,026b4c0e-5ffc-44b3-a43e-72deeb6877aa,87.5,45.2
+World Cup 2019,69199,England Women's,Nikita Parris,20,1,Open Play,Off T,0.10588755,969644b5-8655-430d-a772-fef9ff457779,112.9,51.2
+World Cup 2019,69199,Norway Women's,Caroline Graham Hansen,24,1,Open Play,Blocked,0.05733184,01f4bcd3-572b-460c-83a6-82fdebff2e35,99.2,32.5
+World Cup 2019,69199,England Women's,Ellen White,28,1,Open Play,Post,0.13438478,fadb6d51-e5d9-4f4a-b320-ed503201a718,112.6,51.4
+World Cup 2019,69199,England Women's,Francesca Kirby,28,1,Open Play,Blocked,0.025318755,a65d8d63-aa17-4731-8c2e-ad30d837b941,104.4,22.1
+World Cup 2019,69199,Norway Women's,Guro Reiten,30,1,Open Play,Blocked,0.06654555,2478d69d-f809-485c-944d-734ba734a056,100.8,40.6
+World Cup 2019,69199,England Women's,Nikita Parris,38,1,Open Play,Saved,0.09617749,f91105c9-4429-4698-971f-5e52c948459d,115.0,49.9
+World Cup 2019,69199,England Women's,Ellen White,39,1,Open Play,Goal,0.7931344,61127ca8-e73f-4d1e-85c0-5158c49bf542,114.9,42.0
+World Cup 2019,69199,England Women's,Jill Scott,45,1,Open Play,Off T,0.15083857,172854a1-0515-4e67-a4da-1d7c8bf9b0e8,118.0,45.8
+World Cup 2019,69199,Norway Women's,Isabell Herlovsen,45,1,Open Play,Off T,0.04479847,d8417089-a903-48e4-aa55-6904c29080ea,101.9,53.0
+World Cup 2019,69199,England Women's,Lucy Bronze,51,2,Open Play,Saved,0.012281319,,94.7,51.6
+World Cup 2019,69199,England Women's,Lucy Bronze,56,2,Open Play,Goal,0.055690303,c3308df9-18a5-467e-b6e0-fc0734017980,100.1,45.4
+World Cup 2019,69199,England Women's,Jill Scott,59,2,Open Play,Blocked,0.010957127,1953a97f-7327-4c9f-9940-f553b086550d,108.5,58.8
+World Cup 2019,69199,England Women's,Nikita Parris,59,2,Open Play,Off T,0.011499355,fdf72bbc-ab1c-4a33-acde-cd4329f8022f,117.3,54.9
+World Cup 2019,69199,Norway Women's,Isabell Herlovsen,60,2,Open Play,Blocked,0.08341252,6c055bef-6b6d-46fa-86ff-89e654d0c460,104.7,40.5
+World Cup 2019,69199,England Women's,Ellen White,64,2,Open Play,Blocked,0.1298572,ae61aafb-d4a6-4b72-bf94-815151b1240a,102.4,45.4
+World Cup 2019,69199,Norway Women's,Lisa-Marie Utland,65,2,Open Play,Blocked,0.016494997,,118.0,27.4
+World Cup 2019,69199,Norway Women's,Lisa-Marie Utland,65,2,Open Play,Off T,0.08649185,0254965c-8180-403e-b5a9-009c3c695898,118.2,45.5
+World Cup 2019,69199,Norway Women's,Lisa-Marie Utland,67,2,Open Play,Saved,0.0943385,3a7d1f79-9062-41f9-b4d0-3bde6dde9e17,107.6,52.9
+World Cup 2019,69199,Norway Women's,Isabell Herlovsen,68,2,Open Play,Saved,0.121460296,29563bb0-8fcf-48c0-99c1-3ea947fb3215,103.9,42.3
+World Cup 2019,69199,England Women's,Bethany Mead,68,2,Open Play,Off T,0.039730124,38205e07-adcf-44a3-b1b5-a4de7a7e7271,103.7,22.9
+World Cup 2019,69199,Norway Women's,Ingrid Syrstad Engen,72,2,Open Play,Blocked,0.019359985,d7f27e4c-3f82-4ab1-a31e-c318df95b3a2,89.0,49.8
+World Cup 2019,69199,Norway Women's,Lisa-Marie Utland,72,2,Open Play,Off T,0.10938772,,106.3,40.0
+World Cup 2019,69199,England Women's,Nikita Parris,82,2,Penalty,Saved,0.7835,,108.0,39.9
+World Cup 2019,69199,Norway Women's,Synne Skinnes Hansen,86,2,Open Play,Saved,0.013886981,960eb9ea-dee9-4838-9e02-d75915eb083a,113.1,55.7
+World Cup 2019,69199,England Women's,Georgia Stanway,90,2,Open Play,Off T,0.05562064,753b2f64-4d0f-4064-84b1-f3120be530a0,107.1,54.7
+World Cup 2019,69199,England Women's,Georgia Stanway,91,2,Open Play,Blocked,0.087552816,84b6bdb9-c41e-4958-9bdb-43b8076c7323,102.9,44.5
+World Cup 2019,69161,Spain Women's,Patricia Guijarro Gutiérrez,0,1,Open Play,Blocked,0.06753249,,102.8,30.1
+World Cup 2019,69161,United States Women's,Megan Anna Rapinoe,6,1,Penalty,Goal,0.7835,,108.1,40.1
+World Cup 2019,69161,Spain Women's,Jennifer Hermoso Fuentes,8,1,Open Play,Goal,0.07677277,,97.1,39.7
+World Cup 2019,69161,United States Women's,Megan Anna Rapinoe,12,1,Open Play,Saved Off Target,0.12806523,fdfcff7e-a4b4-40fb-9f9d-ccc0c6c234a1,113.6,30.0
+World Cup 2019,69161,United States Women's,Julie Beth Ertz,13,1,Open Play,Off T,0.024473934,13e3feac-c629-4a1e-a388-8a8fad39a5b5,118.3,31.2
+World Cup 2019,69161,United States Women's,Megan Anna Rapinoe,16,1,Open Play,Blocked,0.27360305,fcfb1fdc-a7d0-445a-bdba-9031633ffa90,114.7,42.1
+World Cup 2019,69161,United States Women's,Julie Beth Ertz,24,1,Open Play,Off T,0.05902031,79636594-d617-435d-a66a-a32a659cf7ee,108.7,40.0
+World Cup 2019,69161,United States Women's,Megan Anna Rapinoe,34,1,Open Play,Off T,0.023386901,4ade1bd1-b324-42c7-a975-e8957f661785,94.0,28.4
+World Cup 2019,69161,United States Women's,Samantha June Mewis,35,1,Open Play,Off T,0.02772784,dea90900-8723-4775-926b-93ed79bad690,89.5,40.9
+World Cup 2019,69161,Spain Women's,Lucía García Córdoba,52,2,Open Play,Blocked,0.02189227,22a2381b-9f80-43b6-b30d-137522c49cb6,100.3,52.5
+World Cup 2019,69161,United States Women's,Rosemary Kathleen Lavelle,59,2,Open Play,Off T,0.038349546,0e3a6736-63ea-4b7b-8847-72f4052d5c5d,96.3,36.2
+World Cup 2019,69161,United States Women's,Samantha June Mewis,64,2,Open Play,Off T,0.025679277,4b54dddb-1f40-48b9-b3cd-3260193e971f,98.5,24.3
+World Cup 2019,69161,Spain Women's,Lucía García Córdoba,64,2,Open Play,Off T,0.037895955,69a75a1d-d0bc-4a12-a17b-d40991473a3c,102.9,54.6
+World Cup 2019,69161,United States Women's,Megan Anna Rapinoe,75,2,Penalty,Goal,0.7835,,108.0,40.0
+World Cup 2019,69161,United States Women's,Megan Anna Rapinoe,78,2,Open Play,Off T,0.006940462,39d970ca-9f4d-4c88-a82e-cefd9d1b372e,109.9,18.3
+Euro 2022,3835327,England Women's,Georgia Stanway,11,1,Penalty,Goal,0.7835,,108.0,40.0
+Euro 2022,3835327,Norway Women's,Ada Stolsmo Hegerberg,12,1,Open Play,Off T,0.034004897,ae7784ae-8720-404c-84ab-973e86a7c72c,90.3,40.8
+Euro 2022,3835327,England Women's,Lauren Hemp,14,1,Open Play,Goal,0.890772,aa91f8f1-5e0a-45b0-a5b5-53a974d091d7,118.0,38.2
+Euro 2022,3835327,Norway Women's,Caroline Graham Hansen,19,1,Open Play,Blocked,0.029501293,,106.2,42.2
+Euro 2022,3835327,Norway Women's,Karina Sævik,20,1,Open Play,Saved Off Target,0.12091407,bf92e004-0367-4bd6-a1d6-7bfe7ad148e1,110.3,48.1
+Euro 2022,3835327,England Women's,Ellen White,26,1,Open Play,Off T,0.13045003,2484c0bd-d965-4a32-8ff7-a7cc84999ff6,110.4,36.9
+Euro 2022,3835327,England Women's,Ellen White,28,1,Open Play,Goal,0.4696821,,104.7,42.4
+Euro 2022,3835327,England Women's,Bethany Mead,29,1,Open Play,Off T,0.071923725,d9e9475c-893f-4796-96be-3cf3e85703f0,108.6,54.8
+Euro 2022,3835327,England Women's,Ellen White,30,1,Open Play,Saved,0.39287755,,111.3,35.8
+Euro 2022,3835327,England Women's,Ellen White,32,1,Open Play,Off T,0.06313772,b805073e-be10-44ad-bd57-0f88d6d26731,110.9,40.3
+Euro 2022,3835327,England Women's,Bethany Mead,33,1,Open Play,Goal,0.38601714,b963586a-ffab-4d80-84f9-f9dc0b1e9fb7,113.2,41.1
+Euro 2022,3835327,England Women's,Bethany Mead,37,1,Open Play,Goal,0.44445786,cbd6f71d-e1fe-4bd7-960a-ee13cb633395,110.4,41.1
+Euro 2022,3835327,England Women's,Ellen White,40,1,Open Play,Goal,0.54994637,69d9cc01-132d-4c3d-9041-124d46ce6b06,117.5,37.0
+Euro 2022,3835327,England Women's,Bethany Mead,52,2,Open Play,Off T,0.06692304,,112.5,48.3
+Euro 2022,3835327,England Women's,Ellen White,55,2,Open Play,Off T,0.12001419,ac810360-28bd-4f7b-a8e5-1cec86e7546a,112.5,39.9
+Euro 2022,3835327,England Women's,Georgia Stanway,63,2,Open Play,Off T,0.033747096,5ae4c3e9-f5cc-437a-a9b6-69aa69358ae1,93.6,44.9
+Euro 2022,3835327,England Women's,Alessia Russo,65,2,Open Play,Goal,0.104985595,edbf42f1-8013-4754-8e14-c66fe8c0f75e,113.7,34.8
+Euro 2022,3835327,England Women's,Ella Toone,67,2,Open Play,Saved,0.11382219,fccd27a3-fbb3-4d08-98dc-57992378ae8b,109.7,41.1
+Euro 2022,3835327,England Women's,Ella Toone,70,2,Open Play,Saved,0.06602975,f61878e9-5e7c-44c9-94ee-717d58e24e20,97.9,40.1
+Euro 2022,3835327,England Women's,Alessia Russo,72,2,Open Play,Blocked,0.21180089,78e93f5b-b2a6-4f03-8f5e-bcde29ba6de5,106.0,39.6
+Euro 2022,3835327,England Women's,Alex Greenwood,73,2,Open Play,Post,0.03043421,af6c7bc2-56bf-4fce-af61-2c5094d26afd,101.5,25.9
+Euro 2022,3835327,England Women's,Lucy Bronze,73,2,Open Play,Saved,0.021191226,,98.8,54.7
+Euro 2022,3835327,England Women's,Keira Walsh,80,2,Open Play,Saved,0.04683411,f9264e2c-dc75-412e-9d8f-452cfa473646,98.6,34.7
+Euro 2022,3835327,England Women's,Bethany Mead,80,2,Open Play,Goal,0.54838264,,115.7,42.6
+Euro 2022,3835327,England Women's,Ella Toone,82,2,Open Play,Off T,0.43713966,38454677-00e1-4b6a-a8f6-c971a4ad0c59,110.8,37.4
+Euro 2022,3835327,Norway Women's,Frida Maanum,84,2,Open Play,Off T,0.026050622,,89.4,41.2
+Euro 2022,3835327,England Women's,Alex Greenwood,87,2,Free Kick,Off T,0.08200118,,97.9,32.9
+Euro 2022,3835327,England Women's,Jill Scott,90,2,Open Play,Off T,0.12760338,0f1e6eb7-1c3f-4e3b-92c8-7c34dc56342d,110.1,48.7
+Euro 2022,3835330,Germany Women's,Klara Bühl,2,1,Open Play,Goal,0.30814907,,111.5,30.7
+Euro 2022,3835330,Spain Women's,Lucía García Córdoba,9,1,Open Play,Off T,0.27843854,17fa7368-8f66-4e0b-8440-1b7e017834bf,114.8,51.2
+Euro 2022,3835330,Spain Women's,Patricia Guijarro Gutiérrez,14,1,Open Play,Saved,0.038535334,8728730f-781f-4cf9-838f-69edeeddf070,93.3,39.8
+Euro 2022,3835330,Spain Women's,María Francesca Caldentey Oliver,17,1,Open Play,Off T,0.031002479,14688fb1-abb8-4570-bf49-f470f4018284,97.8,33.4
+Euro 2022,3835330,Germany Women's,Sara Däbritz,20,1,Open Play,Blocked,0.039835602,,98.2,36.6
+Euro 2022,3835330,Spain Women's,Sheila García Gómez,34,1,Open Play,Off T,0.052772447,7342dc46-74f2-41a2-a242-4c03cc607446,107.6,51.3
+Euro 2022,3835330,Germany Women's,Alexandra Popp,36,1,Open Play,Goal,0.1222736,c32ee79d-91c9-4039-9671-3327b235187b,114.3,42.0
+Euro 2022,3835330,Spain Women's,Aitana Bonmati Conca,39,1,Open Play,Off T,0.053973693,ee91c34a-b81a-449d-8735-c3b93edaa635,104.9,51.2
+Euro 2022,3835330,Germany Women's,Klara Bühl,42,1,Open Play,Blocked,0.057685792,495b522a-4d45-4e20-b134-04de12221a05,101.9,30.5
+Euro 2022,3835330,Germany Women's,Giulia Gwinn,42,1,Open Play,Blocked,0.0796745,2178fc6d-9eab-489d-b060-76983af17b5f,103.6,34.3
+Euro 2022,3835330,Germany Women's,Svenja Huth,43,1,Open Play,Off T,0.08968712,0fcab27c-5ee2-4d88-9a28-2b03add6dae4,118.5,47.1
+Euro 2022,3835330,Germany Women's,Alexandra Popp,45,2,Open Play,Off T,0.0660776,4c509db5-8c43-4ada-88e3-30e14c931a51,113.3,45.3
+Euro 2022,3835330,Spain Women's,Ona Batlle Pascual,47,2,Open Play,Blocked,0.024871005,73001c97-5d89-476f-9c00-784956cbb58d,101.3,57.3
+Euro 2022,3835330,Spain Women's,Irene Paredes Hernandez,55,2,Open Play,Blocked,0.11947561,b6fd7b89-5cb2-4cd4-ae5c-003615655c9b,115.3,44.4
+Euro 2022,3835330,Spain Women's,Patricia Guijarro Gutiérrez,57,2,Open Play,Wayward,0.113642015,745df17d-4538-49ac-b6eb-fe1678c98c7f,115.5,47.1
+Euro 2022,3835330,Spain Women's,Irene Paredes Hernandez,66,2,Open Play,Off T,0.05354174,febb9684-a06d-426f-a43a-63c0c3d559bf,115.5,31.3
+Euro 2022,3835330,Spain Women's,María Francesca Caldentey Oliver,70,2,Open Play,Saved,0.17155048,c5c8b0c2-4e7a-4960-bf2c-9e96e90fbe58,110.4,31.0
+Euro 2022,3835330,Spain Women's,Athenea del Castillo Belvide,73,2,Open Play,Blocked,0.022020632,201a2ae6-82e8-4d2f-a3a8-ec97462b28fa,103.7,22.4
+Euro 2022,3835330,Spain Women's,Claudia Pina Medina,82,2,Open Play,Blocked,0.07019974,83c275a4-061b-4b05-aa05-e85aeb7befcd,111.1,42.6
+Euro 2022,3835330,Spain Women's,Irene Guerrero Sanmartín,91,2,Open Play,Blocked,0.047827043,f01d90b2-dcf1-49db-b65d-3331334ad873,106.2,51.8
+Euro 2022,3844385,Germany Women's,Svenja Huth,0,1,Open Play,Blocked,0.035938725,177f1aac-a01d-4778-84ad-8c9ef52d96e7,97.4,49.1
+Euro 2022,3844385,Austria Women's,Julia Hickelsberger Füller,8,1,Open Play,Saved,0.11306979,137ca815-5f04-451e-a0ca-e43a3c6c73b8,103.7,49.7
+Euro 2022,3844385,Germany Women's,Alexandra Popp,8,1,Open Play,Off T,0.16299205,40fa822c-5de0-4165-be64-ca457dc7da1c,104.8,41.1
+Euro 2022,3844385,Austria Women's,Marina Georgieva,12,1,Open Play,Post,0.05792584,56c64261-2594-402d-9253-2b3119cae03f,110.8,37.5
+Euro 2022,3844385,Germany Women's,Lina Magull,19,1,Open Play,Blocked,0.06713231,94e788cd-6fa0-4eec-b49d-7ca509ff5e12,113.4,27.7
+Euro 2022,3844385,Germany Women's,Lina Magull,24,1,Open Play,Goal,0.2484349,cd8b5990-4198-4f13-8cc9-c270ac348d2a,108.2,35.2
+Euro 2022,3844385,Austria Women's,Sarah Puntigam,29,1,Open Play,Blocked,0.053944573,,104.6,33.1
+Euro 2022,3844385,Germany Women's,Giulia Gwinn,33,1,Open Play,Saved,0.047546297,4227a21d-d149-40aa-9a23-aa20425c4d7b,98.7,46.3
+Euro 2022,3844385,Austria Women's,Verena Hanshaw,34,1,Open Play,Wayward,0.03350741,917d7d2c-e1d5-48ce-82fd-ae0b8d8cfe2f,97.2,28.9
+Euro 2022,3844385,Germany Women's,Sara Däbritz,39,1,Open Play,Off T,0.11882442,e7302638-6499-4da7-984e-3b2839dfe700,117.0,47.0
+Euro 2022,3844385,Austria Women's,Sarah Puntigam,41,1,Open Play,Blocked,0.006765043,,83.3,40.2
+Euro 2022,3844385,Germany Women's,Svenja Huth,42,1,Open Play,Saved,0.110355966,1a09fced-4f93-4818-aea1-7df223b2cc31,115.3,51.5
+Euro 2022,3844385,Germany Women's,Giulia Gwinn,43,1,Open Play,Off T,0.1376945,6fb28736-a0e6-407c-9faa-16624308dd55,113.5,39.0
+Euro 2022,3844385,Germany Women's,Klara Bühl,45,1,Open Play,Off T,0.012716601,9f173d60-cc01-4577-a3e2-892a469c49a7,103.0,20.7
+Euro 2022,3844385,Germany Women's,Giulia Gwinn,45,2,Open Play,Post,0.10769952,94664b9f-f0fd-4c68-822b-247934b81762,105.4,34.0
+Euro 2022,3844385,Germany Women's,Svenja Huth,50,2,Open Play,Blocked,0.08097593,650b6e61-903b-41d0-bf09-f01f9b54f831,106.1,34.6
+Euro 2022,3844385,Germany Women's,Lena Oberdorf,50,2,Open Play,Off T,0.026350489,,94.1,33.2
+Euro 2022,3844385,Austria Women's,Barbara Dunst,52,2,Open Play,Post,0.007504839,,89.4,15.6
+Euro 2022,3844385,Austria Women's,Julia Hickelsberger Füller,52,2,Open Play,Off T,0.057267953,,111.0,50.3
+Euro 2022,3844385,Germany Women's,Klara Bühl,54,2,Open Play,Blocked,0.03916179,a342b334-c436-43e4-b5c6-27c4ee317925,97.7,29.1
+Euro 2022,3844385,Austria Women's,Sarah Puntigam,56,2,Open Play,Blocked,0.04647078,,105.3,30.0
+Euro 2022,3844385,Austria Women's,Sarah Puntigam,56,2,Open Play,Post,0.047629684,,103.2,32.4
+Euro 2022,3844385,Austria Women's,Carina Wenninger,56,2,Open Play,Wayward,0.054546796,572d7456-2ed3-40d9-9e73-0f5cd1895e5c,112.9,34.2
+Euro 2022,3844385,Austria Women's,Marina Georgieva,56,2,Open Play,Wayward,0.035188846,,106.5,42.9
+Euro 2022,3844385,Germany Women's,Alexandra Popp,65,2,Open Play,Wayward,0.0999524,e7ef3843-886f-4b2f-8d55-3a04a361fd79,111.8,44.6
+Euro 2022,3844385,Germany Women's,Linda Dallmann,71,2,Open Play,Off T,0.078340046,,98.6,38.6
+Euro 2022,3844385,Germany Women's,Lena Oberdorf,77,2,Open Play,Saved,0.019108359,,88.4,43.8
+Euro 2022,3844385,Germany Women's,Klara Bühl,77,2,Open Play,Post,0.05838325,6ad0a192-9db0-4bd9-a0fc-84c66cb3de64,100.2,28.0
+Euro 2022,3844385,Germany Women's,Alexandra Popp,80,2,Open Play,Off T,0.0217388,27955721-f756-43fc-9c16-829a3085e425,90.9,50.8
+Euro 2022,3844385,Germany Women's,Klara Bühl,81,2,Open Play,Off T,0.5951564,aebd8863-c44c-45a3-b55e-6a051403a51b,109.2,38.2
+Euro 2022,3844385,Germany Women's,Linda Dallmann,88,2,Open Play,Off T,0.0326564,8d542b5c-47c8-4d66-b5df-49d1b9390aea,94.0,44.7
+Euro 2022,3844385,Germany Women's,Alexandra Popp,88,2,Open Play,Goal,0.81290746,,108.3,39.5
+Euro 2022,3844385,Austria Women's,Katharina Naschenweng,90,2,Open Play,Off T,0.039159935,,104.1,29.1
+Euro 2022,3845507,France Women's,Delphine Cascarino,4,1,Open Play,Blocked,0.03736419,,98.4,38.7
+Euro 2022,3845507,Germany Women's,Lina Magull,18,1,Free Kick,Saved,0.007966516,,103.6,15.4
+Euro 2022,3845507,Germany Women's,Alexandra Popp,21,1,Free Kick,Saved,0.078725666,,97.0,45.8
+Euro 2022,3845507,Germany Women's,Marina Hegering,25,1,Open Play,Blocked,0.057796627,ea459ec5-3311-45a1-acb6-ca0e0a905b4b,104.9,49.2
+Euro 2022,3845507,Germany Women's,Felicitas Rauch,25,1,Free Kick,Off T,0.036031332,,95.5,55.3
+Euro 2022,3845507,Germany Women's,Alexandra Popp,39,1,Open Play,Goal,0.16396342,31524231-6f02-494f-95b9-dc7f4183d03f,109.9,38.4
+Euro 2022,3845507,France Women's,Kadidiatou Diani,43,1,Open Play,Post,0.040168155,08129e66-0eb3-4b3c-9dc9-7e71d0dee63c,98.5,31.4
+Euro 2022,3845507,Germany Women's,Svenja Huth,46,2,Open Play,Off T,0.044235285,,105.4,24.3
+Euro 2022,3845507,France Women's,Selma Bacha,57,2,Open Play,Blocked,0.019180551,32e319cf-deb9-4ad1-887c-aa60d1d05d52,95.1,25.1
+Euro 2022,3845507,France Women's,Selma Bacha,62,2,Open Play,Blocked,0.14069031,06f9a16f-7eac-4388-ba51-799158500a2e,109.0,47.8
+Euro 2022,3845507,France Women's,Wendie Renard,63,2,Open Play,Saved,0.07166002,1b1fd59d-ce53-4633-9c30-aaa2644f3408,115.9,33.1
+Euro 2022,3845507,France Women's,Kadidiatou Diani,66,2,Open Play,Saved,0.021451205,,115.6,53.6
+Euro 2022,3845507,France Women's,Selma Bacha,67,2,Open Play,Wayward,0.010763924,,100.0,59.1
+Euro 2022,3845507,France Women's,Griedge Mbock Bathy Nka,74,2,Open Play,Off T,0.06497681,dd1bdb11-143b-4e9c-ab4e-761826f1abfb,115.6,47.1
+Euro 2022,3845507,Germany Women's,Svenja Huth,75,2,Open Play,Wayward,0.041476328,1cf6d49e-021a-44ad-a767-fbc0249861ca,110.0,55.0
+Euro 2022,3845507,Germany Women's,Jule Brand,75,2,Open Play,Blocked,0.11260662,,108.7,39.5
+Euro 2022,3845507,Germany Women's,Jule Brand,75,2,Open Play,Blocked,0.071989626,,110.5,38.9
+Euro 2022,3845507,Germany Women's,Alexandra Popp,75,2,Open Play,Goal,0.094399735,64496ed9-cec1-40da-9d78-3722a334a6be,112.5,40.7
+Euro 2022,3845507,France Women's,Selma Bacha,78,2,Open Play,Off T,0.03649993,,96.7,32.0
+Euro 2022,3845507,France Women's,Clara Mateo,84,2,Open Play,Off T,0.044086725,dc4388da-d027-4f78-9456-22286ea61372,107.0,52.6
+Euro 2022,3845507,France Women's,Charlotte Bilbault,86,2,Open Play,Blocked,0.025022438,,94.4,46.9
+Euro 2022,3845507,France Women's,Wendie Renard,86,2,Open Play,Saved,0.06964306,277b03a7-a4cd-4b9f-96ce-d22f6fa31c36,110.2,36.1
+Euro 2022,3845507,Germany Women's,Linda Dallmann,89,2,Open Play,Blocked,0.15336789,b1714bdc-65fb-4299-8deb-4f076a80c032,106.3,39.2
+Euro 2022,3845507,France Women's,Charlotte Bilbault,90,2,Open Play,Blocked,0.018520331,380455a6-4072-401c-a002-f8f0a42dfcda,86.5,41.1
+Euro 2022,3845507,France Women's,Selma Bacha,91,2,Free Kick,Off T,0.030732894,,89.4,44.2
+Euro 2022,3835321,WNT Finland,Linda Sällström,0,1,Open Play,Goal,0.17378725,f65b6be2-10a5-4cff-a440-a844f1e7186a,108.6,51.6
+Euro 2022,3835321,Spain Women's,Lucía García Córdoba,5,1,Open Play,Blocked,0.09157955,dfc8a606-d19d-426e-aef3-c6b56a2d548a,110.8,41.3
+Euro 2022,3835321,WNT Finland,Linda Sällström,6,1,Open Play,Off T,0.008673505,00f4cc81-643c-4666-b58c-80b955e10e5d,103.9,64.7
+Euro 2022,3835321,Spain Women's,María Francesca Caldentey Oliver,7,1,Open Play,Saved,0.02020393,0ececfb1-7754-47e6-9b9c-5b1f2274f5ae,92.4,26.9
+Euro 2022,3835321,WNT Finland,Adelina Engman,11,1,Open Play,Off T,0.06237609,7da643ab-19dd-4247-80b1-31bf72150963,109.1,55.1
+Euro 2022,3835321,Spain Women's,Esther Gonzalez Rodríguez,14,1,Open Play,Saved,0.042785358,d78dbf01-7761-409a-bc93-a3087d8690e3,101.4,26.3
+Euro 2022,3835321,Spain Women's,María Francesca Caldentey Oliver,19,1,Open Play,Blocked,0.03329283,9af4420e-1f0c-46c2-9e11-4207c064973f,104.8,24.3
+Euro 2022,3835321,Spain Women's,Aitana Bonmati Conca,20,1,Open Play,Blocked,0.029608218,23f66306-5496-488b-9913-38add51c03d4,101.7,54.4
+Euro 2022,3835321,Spain Women's,Esther Gonzalez Rodríguez,24,1,Open Play,Blocked,0.057113327,45a8fc76-b256-4bf7-a92e-ab3a677c9972,113.5,31.5
+Euro 2022,3835321,Spain Women's,Irene Paredes Hernandez,25,1,Open Play,Goal,0.1587669,259aca65-7cbd-4765-9872-a1844fddb46e,114.9,39.9
+Euro 2022,3835321,Spain Women's,Leila Ouahabi El Ouahabi,28,1,Open Play,Off T,0.046195056,,101.9,32.6
+Euro 2022,3835321,Spain Women's,Irene Guerrero Sanmartín,34,1,Open Play,Saved,0.027972473,f797e8cb-d8ac-465a-834c-ae67a447a3ec,101.1,23.3
+Euro 2022,3835321,Spain Women's,Esther Gonzalez Rodríguez,37,1,Open Play,Off T,0.0478569,535c9af8-a60b-49da-9e4e-3cf05271a6de,115.1,31.8
+Euro 2022,3835321,Spain Women's,Aitana Bonmati Conca,38,1,Open Play,Saved,0.12776138,df6781e1-0114-4043-897f-1e2c7a956949,108.2,33.2
+Euro 2022,3835321,Spain Women's,Aitana Bonmati Conca,40,1,Open Play,Goal,0.091942415,0804cc78-0de7-4df4-b389-a802f5a9d1c2,107.5,38.4
+Euro 2022,3835321,Spain Women's,María Francesca Caldentey Oliver,42,1,Open Play,Off T,0.02919906,d18b3236-6406-4ab8-80df-bfce1aa152ca,101.8,23.4
+Euro 2022,3835321,Spain Women's,Lucía García Córdoba,44,1,Open Play,Off T,0.03541213,72705fc9-8090-413c-ac88-72e079ebb8d9,105.4,54.8
+Euro 2022,3835321,Spain Women's,Irene Guerrero Sanmartín,47,2,Open Play,Saved,0.026870945,033f4c4a-00fb-473b-af35-4e284d0b9fdc,92.0,36.7
+Euro 2022,3835321,Spain Women's,Esther Gonzalez Rodríguez,49,2,Open Play,Blocked,0.09829764,6d201e9c-44ac-492b-a2a5-770346b811d6,116.5,46.4
+Euro 2022,3835321,WNT Finland,Eveliina Summanen,51,2,Open Play,Saved,0.11657891,,109.9,30.3
+Euro 2022,3835321,Spain Women's,María Francesca Caldentey Oliver,53,2,Open Play,Blocked,0.05274156,af9633ab-1ac7-4f5f-90d2-74bb7fe1c461,98.8,43.4
+Euro 2022,3835321,Spain Women's,Ona Batlle Pascual,55,2,Open Play,Saved,0.2623072,28156334-7d49-4da3-9eb2-a2da5a7e0e4a,110.7,51.0
+Euro 2022,3835321,Spain Women's,María Francesca Caldentey Oliver,57,2,Open Play,Blocked,0.029765505,2fa37faf-d9e5-40e3-a9df-38e45c7f74fd,97.7,41.3
+Euro 2022,3835321,Spain Women's,Esther Gonzalez Rodríguez,57,2,Open Play,Off T,0.008377276,e658dda1-d9c1-4f45-ae68-449e7eb5ff90,108.6,18.3
+Euro 2022,3835321,Spain Women's,Aitana Bonmati Conca,59,2,Open Play,Wayward,0.09862894,48f9ba93-f4a3-4e88-be03-fbfe4838f782,108.3,33.2
+Euro 2022,3835321,Spain Women's,María Francesca Caldentey Oliver,59,2,Open Play,Blocked,0.111671455,,111.1,40.9
+Euro 2022,3835321,Spain Women's,Laia Aleixandri López,60,2,Open Play,Wayward,0.056022815,ee383036-1df2-4498-b2c8-167e34ac6e2f,108.4,40.5
+Euro 2022,3835321,Spain Women's,Laia Aleixandri López,60,2,Open Play,Saved,0.04240165,052d8f41-5739-445b-a2a0-8f68f4114d5b,106.9,40.2
+Euro 2022,3835321,Spain Women's,Ona Batlle Pascual,61,2,Open Play,Off T,0.053209126,,103.1,33.3
+Euro 2022,3835321,Spain Women's,Patricia Guijarro Gutiérrez,62,2,Open Play,Blocked,0.06180174,c3c944bf-8356-448c-bc65-b9e9516d8248,109.6,31.0
+Euro 2022,3835321,Spain Women's,María Pilar León Cebrián,62,2,Open Play,Blocked,0.024367396,,99.3,25.3
+Euro 2022,3835321,Spain Women's,María Pilar León Cebrián,62,2,Open Play,Off T,0.040850095,1ff8f47d-a97c-4e89-9a05-13c4d9fbeea2,100.2,29.4
+Euro 2022,3835321,Spain Women's,Esther Gonzalez Rodríguez,72,2,Open Play,Off T,0.1264249,97564d98-e8c0-4b74-a98d-38956025c897,113.9,43.0
+Euro 2022,3835321,Spain Women's,Lucía García Córdoba,74,2,Open Play,Goal,0.11892551,b0da13ba-cec5-4b5a-ac7e-1b7fb5060986,110.0,43.0
+Euro 2022,3835321,Spain Women's,Athenea del Castillo Belvide,85,2,Open Play,Saved,0.05569781,4912b0a1-af46-40d9-9d50-8d12c48b4b7b,105.8,24.6
+Euro 2022,3835321,Spain Women's,Athenea del Castillo Belvide,86,2,Open Play,Blocked,0.036115244,,98.9,45.4
+Euro 2022,3835321,Spain Women's,Marta Cardona De Miguel,89,2,Open Play,Saved,0.12746757,f3fc20a4-d71c-48cc-87f5-889f3bb88438,116.1,46.1
+Euro 2022,3835321,Spain Women's,Claudia Pina Medina,89,2,Open Play,Saved,0.020592434,98ebad28-59ea-4e1b-8231-ea43e165cb7e,96.7,28.5
+Euro 2022,3835321,Spain Women's,María Francesca Caldentey Oliver,94,2,Penalty,Goal,0.7835,,108.0,40.0
+Euro 2022,3844384,Spain Women's,Marta Cardona De Miguel,6,1,Open Play,Off T,0.16186097,0acfe8d2-75f3-402c-b956-efcafaec3c76,117.8,46.9
+Euro 2022,3844384,Spain Women's,María Francesca Caldentey Oliver,16,1,Open Play,Saved,0.026983961,dfe2dff8-58b2-4059-a26e-628793553acd,95.8,28.6
+Euro 2022,3844384,Spain Women's,Patricia Guijarro Gutiérrez,19,1,Open Play,Off T,0.097134925,e82729c2-dbab-4aa1-aecf-00d9f717c945,115.7,31.6
+Euro 2022,3844384,Spain Women's,Marta Cardona De Miguel,22,1,Open Play,Blocked,0.04776189,8bcfa93e-9016-4d4e-a5b9-4693d55f5ad9,107.7,53.9
+Euro 2022,3844384,Spain Women's,Olga  Carmona García,30,1,Open Play,Off T,0.007272514,1087a3d1-0b63-4085-9fb6-3d61aaa36110,95.2,18.5
+Euro 2022,3844384,Spain Women's,Aitana Bonmati Conca,31,1,Open Play,Off T,0.02986503,,99.7,48.2
+Euro 2022,3844384,England Women's,Lauren Hemp,39,1,Open Play,Off T,0.1381359,c5ec16c7-0deb-43f4-871a-06bf277b2745,110.6,40.4
+Euro 2022,3844384,Spain Women's,Aitana Bonmati Conca,52,2,Open Play,Saved,0.028597679,d6d74d4e-754d-4dca-8f4c-8643b24335d0,94.3,45.6
+Euro 2022,3844384,Spain Women's,Esther Gonzalez Rodríguez,53,2,Open Play,Goal,0.21305059,484e99ff-ea29-4c3b-a921-3b549205a5fa,113.2,45.9
+Euro 2022,3844384,England Women's,Lucy Bronze,61,2,Open Play,Wayward,0.08728453,148e8e79-8854-49bb-bda2-58a0cb336adb,113.1,44.2
+Euro 2022,3844384,England Women's,Rachel Daly,66,2,Open Play,Saved,0.034470472,71d9fa38-605f-4ed3-8844-11012e176022,98.7,26.0
+Euro 2022,3844384,England Women's,Ella Toone,70,2,Open Play,Off T,0.02245835,,102.6,55.2
+Euro 2022,3844384,England Women's,Ella Toone,75,2,Open Play,Blocked,0.05709361,,101.4,44.1
+Euro 2022,3844384,England Women's,Georgia Stanway,75,2,Open Play,Blocked,0.066524506,,102.9,35.5
+Euro 2022,3844384,England Women's,Lauren Hemp,75,2,Open Play,Off T,0.0950652,,107.5,45.5
+Euro 2022,3844384,Spain Women's,Sheila García Gómez,78,2,Open Play,Blocked,0.07640035,,107.7,39.8
+Euro 2022,3844384,Spain Women's,Irene Paredes Hernandez,78,2,Open Play,Wayward,0.042559035,d9386b3d-f8d4-4d3e-b7c3-d8ed5e1c7522,108.7,35.6
+Euro 2022,3844384,England Women's,Ella Toone,83,2,Open Play,Goal,0.48005715,49ff3433-d76d-4dee-982d-9da257e69b34,115.3,41.2
+Euro 2022,3844384,Spain Women's,María Francesca Caldentey Oliver,85,2,Open Play,Saved Off Target,0.008938098,,89.0,53.8
+Euro 2022,3844384,England Women's,Lauren Hemp,89,2,Open Play,Wayward,0.05011041,52c146b1-81d4-44eb-8edf-a71ebb7f36c1,110.1,31.9
+Euro 2022,3844384,England Women's,Georgia Stanway,95,3,Open Play,Goal,0.043190163,f7812e7b-85d1-4ae4-89c2-39a214fe7c61,97.6,48.9
+Euro 2022,3844384,Spain Women's,Aitana Bonmati Conca,102,3,Open Play,Blocked,0.037754484,2cbb5ad8-2d1f-4ad0-89de-d39e4376bcfc,98.1,45.4
+Euro 2022,3844384,Spain Women's,Amaiur Sarriegi,102,3,Open Play,Blocked,0.04091956,9d43eab8-c0c0-44e2-a6af-973dd94c064b,98.7,37.6
+Euro 2022,3844384,Spain Women's,Laia Aleixandri López,103,3,Open Play,Off T,0.05798017,2b772696-0698-4e96-aee8-d4fcb317e1f6,107.5,44.5
+Euro 2022,3844384,Spain Women's,Aitana Bonmati Conca,105,4,Open Play,Off T,0.09188729,75061142-ff45-4048-af77-c370bfbd1239,105.2,45.1
+Euro 2022,3844384,Spain Women's,Amaiur Sarriegi,108,4,Open Play,Blocked,0.05138537,,112.9,29.0
+Euro 2022,3844384,Spain Women's,Olga  Carmona García,108,4,Open Play,Off T,0.010079904,,100.8,19.5
+Euro 2022,3844384,Spain Women's,Irene Paredes Hernandez,120,4,Open Play,Wayward,0.10559485,c56602fe-1a73-4dd0-b0b8-dc85cfd55cb6,113.3,39.6
+Euro 2022,3847567,England Women's,Ellen White,2,1,Open Play,Saved,0.08726191,55c09e41-a712-4828-9579-0255469a57d5,113.4,47.2
+Euro 2022,3847567,Germany Women's,Sara Däbritz,9,1,Open Play,Blocked,0.08977049,4762ab67-297e-4df9-9cd0-6770a6381ed7,104.9,42.1
+Euro 2022,3847567,Germany Women's,Sara Däbritz,11,1,Open Play,Off T,0.0316203,eb869152-835b-4dfd-8404-3a0cad8874d0,92.0,34.1
+Euro 2022,3847567,England Women's,Georgia Stanway,18,1,Open Play,Wayward,0.029732315,4cc7343e-f073-436b-ad15-1d0f65ac11a3,98.8,49.2
+Euro 2022,3847567,England Women's,Lucy Bronze,18,1,Open Play,Saved,0.048485354,97f96092-973b-482e-877c-6b5ed41134eb,112.6,47.3
+Euro 2022,3847567,England Women's,Lucy Bronze,19,1,Open Play,Off T,0.018688565,87d1b8e7-3af4-4baa-8001-b564626ff8a6,107.4,51.3
+Euro 2022,3847567,Germany Women's,Marina Hegering,24,1,Open Play,Blocked,0.69102216,,118.1,40.3
+Euro 2022,3847567,England Women's,Georgia Stanway,27,1,Open Play,Wayward,0.02954817,,103.9,45.4
+Euro 2022,3847567,Germany Women's,Lina Magull,32,1,Open Play,Blocked,0.018058764,88658401-66aa-4f45-a661-df3ed70b7d00,101.7,26.6
+Euro 2022,3847567,England Women's,Ellen White,37,1,Open Play,Off T,0.1487018,4cc7b350-24a4-40bf-891f-c97a5ace978a,104.7,46.0
+Euro 2022,3847567,Germany Women's,Tabea Waßmuth,47,2,Open Play,Saved,0.1546162,,110.1,27.9
+Euro 2022,3847567,Germany Women's,Lina Magull,49,2,Open Play,Off T,0.07836537,8e23fe9f-35fc-4a57-a282-44d88689a0fe,106.9,41.0
+Euro 2022,3847567,Germany Women's,Tabea Waßmuth,50,2,Open Play,Wayward,0.029754298,a61473e1-12fa-44c3-a4bf-a14dc9706ff9,108.0,39.2
+Euro 2022,3847567,England Women's,Ella Toone,61,2,Open Play,Goal,0.19716927,2b9cc1c8-bd34-414e-8ab1-0d5b85f1e113,103.7,46.9
+Euro 2022,3847567,Germany Women's,Lina Magull,65,2,Open Play,Saved to Post,0.013819187,acdd6c71-9781-4660-bac6-5778c0baa950,109.7,57.9
+Euro 2022,3847567,Germany Women's,Lea Schüller,65,2,Open Play,Saved Off Target,0.11319413,,106.2,41.5
+Euro 2022,3847567,England Women's,Chloe Kelly,67,2,Open Play,Saved,0.029765725,e8a6e806-2a56-4ab0-9c86-2b4806adbf05,102.9,22.8
+Euro 2022,3847567,Germany Women's,Lina Magull,71,2,Open Play,Blocked,0.034207664,13a2a2ae-2140-4713-9aa0-ed304e832f08,98.2,44.9
+Euro 2022,3847567,Germany Women's,Lina Magull,77,2,Open Play,Blocked,0.06337469,,110.7,29.5
+Euro 2022,3847567,Germany Women's,Lina Magull,78,2,Open Play,Goal,0.3254882,00dbb623-6db0-42eb-8fa2-29a31d2bbbe5,114.2,46.0
+Euro 2022,3847567,Germany Women's,Tabea Waßmuth,84,2,Open Play,Blocked,0.045020197,b6537d97-e21d-475a-880c-e46879e5f904,99.2,47.8
+Euro 2022,3847567,England Women's,Millie Bright,94,3,Open Play,Wayward,0.050924268,,103.2,44.8
+Euro 2022,3847567,Germany Women's,Svenja Huth,100,3,Open Play,Blocked,0.031933554,0cad04a7-3619-4b38-b199-dc66d3b6fe40,93.9,43.3
+Euro 2022,3847567,England Women's,Ella Toone,106,4,Open Play,Saved,0.010038815,0e3f0033-13bb-4d3d-9c90-b5d664ba4315,95.4,21.8
+Euro 2022,3847567,England Women's,Chloe Kelly,109,4,Open Play,Blocked,0.364242,,116.0,39.3
+Euro 2022,3847567,England Women's,Chloe Kelly,109,4,Open Play,Goal,0.5717141,,116.3,39.2
+Euro 2022,3847567,Germany Women's,Lena Oberdorf,114,4,Open Play,Saved,0.038221817,6c721d0c-3d92-4623-ae6a-99958c130f39,108.9,37.0
+Euro 2022,3847567,England Women's,Alessia Russo,116,4,Open Play,Saved,0.0947187,2b459bbf-ba39-48b7-99a4-766d8dc45037,103.5,52.4
+Euro 2022,3845506,Sweden Women's,Eva Sofia Jakobsson,0,1,Open Play,Saved,0.14010574,266c3e94-68db-4cf3-a4f8-5480a16090c5,111.9,28.0
+Euro 2022,3845506,England Women's,Bethany Mead,4,1,Open Play,Off T,0.10041133,9583174d-9b3d-492e-b756-4d9d7525b923,112.1,46.3
+Euro 2022,3845506,Sweden Women's,Emma Stina Blackstenius,7,1,Open Play,Saved,0.12359676,32773eb6-a910-477f-ac88-6682cd6d9b26,101.5,33.5
+Euro 2022,3845506,Sweden Women's,Emma Stina Blackstenius,8,1,Open Play,Post,0.13687785,9a0845da-7ffe-46a0-a910-1d467db8fb0c,116.2,40.5
+Euro 2022,3845506,England Women's,Georgia Stanway,11,1,Open Play,Off T,0.012218977,61251061-6386-4516-a627-e97b072e2fba,103.5,61.1
+Euro 2022,3845506,Sweden Women's,Fridolina Rolfö,13,1,Open Play,Off T,0.039938595,,113.5,27.3
+Euro 2022,3845506,England Women's,Ellen White,15,1,Open Play,Off T,0.10654948,9c26c23c-4707-437a-81e4-bd2f7d013909,112.4,39.8
+Euro 2022,3845506,Sweden Women's,Gun Nathalie Björn,16,1,Open Play,Blocked,0.02425859,6858af88-8040-41a1-a10b-1b50ef2a3b0a,93.1,40.4
+Euro 2022,3845506,Sweden Women's,Magdalena Lilly Eriksson,17,1,Open Play,Wayward,0.097939335,dd0c77ca-a741-455b-a60c-5c2013ddcbe6,112.6,42.1
+Euro 2022,3845506,England Women's,Bethany Mead,19,1,Open Play,Blocked,0.045469087,4811903a-2184-4a3a-9a5e-238cd5fcf824,103.7,53.0
+Euro 2022,3845506,England Women's,Ellen White,20,1,Open Play,Saved,0.088873565,6705a6d8-3075-495b-8840-e4a52f67e4bf,107.2,39.4
+Euro 2022,3845506,England Women's,Georgia Stanway,22,1,Open Play,Saved,0.057398293,05981b22-6328-4365-8ec6-6d0c5fa0edbe,100.8,40.7
+Euro 2022,3845506,England Women's,Lucy Bronze,28,1,Open Play,Off T,0.0266574,313d1df4-bb90-42a0-b39b-75b78c139b00,108.0,46.6
+Euro 2022,3845506,England Women's,Bethany Mead,33,1,Open Play,Goal,0.09112065,41963578-0a3d-4abf-97cc-ec3e023121a2,108.0,46.5
+Euro 2022,3845506,England Women's,Georgia Stanway,38,1,Open Play,Off T,0.029369138,,93.6,47.6
+Euro 2022,3845506,England Women's,Francesca Kirby,43,1,Open Play,Off T,0.029745484,c48fa224-2050-414e-a366-5c4f584b27a6,95.8,30.3
+Euro 2022,3845506,England Women's,Bethany Mead,46,2,Open Play,Blocked,0.10518592,9174bb44-8f2b-41cc-93f0-748b2af3ce28,107.7,33.1
+Euro 2022,3845506,England Women's,Lucy Bronze,47,2,Open Play,Goal,0.03749879,7952b522-969e-46c1-9b7b-670cdf6d9cc3,109.5,48.0
+Euro 2022,3845506,Sweden Women's,Emma Stina Blackstenius,55,2,Open Play,Off T,0.19074965,b1f7fe02-ae7d-40f0-95ba-a7ae2b727c32,113.9,38.2
+Euro 2022,3845506,England Women's,Lauren Hemp,56,2,Open Play,Post,0.4514772,36f25abd-b2f3-4737-be27-634f59dffcb5,114.5,35.9
+Euro 2022,3845506,Sweden Women's,Johanna Rytting-Kaneryd,63,2,Open Play,Blocked,0.042737976,0d44af62-e843-443e-adec-67b37282e0b1,103.5,48.1
+Euro 2022,3845506,Sweden Women's,Linda Brigitta Sembrant,64,2,Open Play,Blocked,0.19764246,98e27f2f-a0a0-4e89-be5c-93e510d85bd5,116.0,43.5
+Euro 2022,3845506,Sweden Women's,Emma Stina Blackstenius,64,2,Open Play,Saved,0.13921657,d423ad9b-82e9-477a-b9c7-4aa52c79f629,113.7,33.9
+Euro 2022,3845506,England Women's,Alessia Russo,67,2,Open Play,Saved,0.37174216,f512d7e9-2946-46e1-ba79-181bb16645d4,109.8,36.2
+Euro 2022,3845506,England Women's,Alessia Russo,67,2,Open Play,Goal,0.056437433,,114.6,47.6
+Euro 2022,3845506,Sweden Women's,Fridolina Rolfö,68,2,Open Play,Off T,0.028718255,b7ee5957-c6d2-41f0-9e4c-ec428b801a97,94.8,25.0
+Euro 2022,3845506,England Women's,Francesca Kirby,75,2,Open Play,Goal,0.053061333,02af3881-132e-4e73-ab8c-7e8e86649af5,95.9,51.1
+Euro 2022,3845506,England Women's,Chloe Kelly,91,2,Open Play,Saved,0.0054972903,a3fd9556-b13c-45ad-91e7-6d95264d7f7c,86.6,20.5
+Euro 2022,3835335,Northern Ireland W,Lauren Wade,0,1,Open Play,Saved,0.070298955,a157788b-6603-4e28-986b-c88e4906b6d0,113.8,52.9
+Euro 2022,3835335,England Women's,Bethany Mead,5,1,Open Play,Wayward,0.14217462,8424d867-732c-498e-9b82-975fe166aa19,112.1,40.9
+Euro 2022,3835335,England Women's,Georgia Stanway,10,1,Open Play,Blocked,0.026201064,52fab9b5-6aff-44a7-aa2b-932e7773bdf5,91.8,41.3
+Euro 2022,3835335,Northern Ireland W,Lauren Wade,13,1,Open Play,Saved,0.19223715,65b91de7-b97a-4ffa-8491-bea288af4f07,103.8,33.4
+Euro 2022,3835335,England Women's,Bethany Mead,15,1,Open Play,Blocked,0.36120874,51f319d8-a695-421c-a17a-55c6768197a5,115.7,40.0
+Euro 2022,3835335,England Women's,Georgia Stanway,16,1,Open Play,Blocked,0.087097816,,105.9,36.6
+Euro 2022,3835335,England Women's,Francesca Kirby,16,1,Open Play,Blocked,0.064583376,,104.0,33.8
+Euro 2022,3835335,England Women's,Millie Bright,22,1,Open Play,Saved,0.013770942,12d90e32-7066-427e-aaed-0df7b8216edd,85.2,44.5
+Euro 2022,3835335,England Women's,Rachel Daly,23,1,Open Play,Wayward,0.061783683,,104.8,37.7
+Euro 2022,3835335,England Women's,Ellen White,24,1,Open Play,Off T,0.25969952,90857251-6b77-45c5-8494-467bdb820b93,102.3,50.6
+Euro 2022,3835335,England Women's,Georgia Stanway,28,1,Open Play,Off T,0.11840826,f7c4af84-826f-4e58-9574-965f224ff302,105.5,45.0
+Euro 2022,3835335,England Women's,Lucy Bronze,32,1,Open Play,Off T,0.15241107,430b80ea-2977-4e7a-bfdd-edecaa529f77,111.7,36.7
+Euro 2022,3835335,England Women's,Millie Bright,36,1,Open Play,Off T,0.00596171,899c1d56-d5dd-49a2-9343-e7d535ed0d5c,83.2,50.4
+Euro 2022,3835335,England Women's,Georgia Stanway,38,1,Open Play,Blocked,0.21860695,0a0b11ed-01b4-4b5c-aa8f-fa84a9813253,112.6,47.6
+Euro 2022,3835335,England Women's,Millie Bright,39,1,Open Play,Off T,0.06461658,7e0242e0-8988-434f-a5fc-db88f1d6586c,111.0,40.4
+Euro 2022,3835335,England Women's,Lauren Hemp,39,1,Open Play,Blocked,0.07128114,6234d3b8-33de-493c-b418-9000faf6c2ad,102.9,44.4
+Euro 2022,3835335,England Women's,Francesca Kirby,39,1,Open Play,Goal,0.043977603,,100.1,42.0
+Euro 2022,3835335,England Women's,Georgia Stanway,42,1,Open Play,Blocked,0.073029995,41667c2e-313f-48a1-aa8f-345bce914e02,104.8,48.2
+Euro 2022,3835335,England Women's,Bethany Mead,43,1,Open Play,Goal,0.06435156,,103.5,39.3
+Euro 2022,3835335,Northern Ireland W,Marissa Callaghan,45,1,Open Play,Blocked,0.025177483,,93.0,48.1
+Euro 2022,3835335,England Women's,Alessia Russo,47,2,Open Play,Goal,0.09441377,8a5f5891-8933-4384-a78e-452230720c8f,111.7,39.4
+Euro 2022,3835335,England Women's,Alessia Russo,52,2,Open Play,Goal,0.1884835,ca7ac9c6-7362-480e-8836-56875f4ce008,106.7,37.9
+Euro 2022,3835335,England Women's,Bethany Mead,56,2,Open Play,Blocked,0.11679035,487d60bb-88e2-49be-b3a9-3415cb168095,105.2,31.2
+Euro 2022,3835335,England Women's,Ella Toone,57,2,Open Play,Off T,0.059963886,bfc73220-4979-4176-a316-b84c6a9586ed,95.7,36.1
+Euro 2022,3835335,England Women's,Ella Toone,59,2,Open Play,Off T,0.030965762,3eedc445-6667-4da1-ab49-350ba163667e,96.0,49.1
+Euro 2022,3835335,England Women's,Rachel Daly,61,2,Open Play,Off T,0.007150483,304c8e1d-d6c3-4fab-aa8d-16ee8b2a3563,91.8,19.7
+Euro 2022,3835335,England Women's,Ella Toone,62,2,Open Play,Saved,0.07363594,,102.0,49.7
+Euro 2022,3835335,England Women's,Keira Walsh,72,2,Open Play,Off T,0.032873753,8e3a0412-d8c6-4720-bfb9-ae7b9ad5ac2b,94.4,46.4
+Euro 2022,3835335,Northern Ireland W,Kirsty McGuinness,79,2,Open Play,Blocked,0.009271215,,101.1,19.0
+Euro 2022,3835335,England Women's,Bethany Mead,83,2,Open Play,Off T,0.19784568,,104.1,33.7
+Euro 2022,3835335,Northern Ireland W,Lauren Wade,85,2,Open Play,Blocked,0.0074976613,9e807818-6201-481b-8e1a-b10f3db5a69a,100.1,62.6
+Euro 2022,3835335,England Women's,Alessia Russo,87,2,Open Play,Off T,0.23212619,89dc10aa-46cf-4e15-b7c4-e8226f4452b5,115.7,37.5
+Euro 2022,3835335,England Women's,Alessia Russo,88,2,Open Play,Off T,0.24430622,3304e4ab-8f62-46a0-8dbb-b5b12ded557a,112.2,41.7
+Euro 2022,3835337,Spain Women's,Irene Paredes Hernandez,7,1,Open Play,Saved,0.025008036,602159e5-f1c6-4875-a80f-180a983ec885,110.5,51.0
+Euro 2022,3835337,Denmark Women's,Pernille Mosegaard Harder,12,1,Open Play,Off T,0.22630103,6f3a4dbc-399b-44a2-a6f9-f2ab588a2a1d,98.4,48.5
+Euro 2022,3835337,Denmark Women's,Pernille Mosegaard Harder,15,1,Open Play,Saved,0.034347247,0f634bf4-ca6c-4375-b519-639be2f9c039,112.0,55.4
+Euro 2022,3835337,Denmark Women's,Kathrine Møller Kühl,18,1,Open Play,Blocked,0.078801714,,110.0,31.5
+Euro 2022,3835337,Spain Women's,María Francesca Caldentey Oliver,20,1,Open Play,Off T,0.09411103,6bb81394-a643-434c-8c9f-051ea14833ee,108.0,46.6
+Euro 2022,3835337,Spain Women's,María Francesca Caldentey Oliver,32,1,Open Play,Saved,0.106799826,a28a858f-581a-472a-9ec3-9d54fb14ad76,105.1,39.5
+Euro 2022,3835337,Spain Women's,Patricia Guijarro Gutiérrez,33,1,Open Play,Off T,0.030266402,81da7d06-6116-4b35-994d-b32692654cf6,93.7,49.2
+Euro 2022,3835337,Spain Women's,Athenea del Castillo Belvide,40,1,Open Play,Saved,0.010105763,1a09464b-47a3-4621-8bbb-40bb0f379ea1,94.1,23.2
+Euro 2022,3835337,Spain Women's,Irene Paredes Hernandez,44,1,Open Play,Blocked,0.04860304,cefcac1b-6e86-4179-8d8f-aa80e3661d6e,112.8,47.7
+Euro 2022,3835337,Spain Women's,Irene Paredes Hernandez,46,1,Open Play,Off T,0.056857035,6e9b339e-9280-4352-a8a1-b1e4d5c9af5f,112.7,46.8
+Euro 2022,3835337,Denmark Women's,Kathrine Møller Kühl,49,2,Open Play,Blocked,0.05646029,ed028b83-28ae-4afa-901e-3de1042e6869,108.7,47.3
+Euro 2022,3835337,Spain Women's,Olga  Carmona García,53,2,Open Play,Off T,0.044360686,,113.4,27.8
+Euro 2022,3835337,Spain Women's,María Pilar León Cebrián,63,2,Open Play,Off T,0.09505976,0bc186ac-5459-40c0-9457-13f4ea7708c7,118.6,34.2
+Euro 2022,3835337,Spain Women's,Athenea del Castillo Belvide,66,2,Open Play,Blocked,0.04404368,,101.3,29.8
+Euro 2022,3835337,Spain Women's,Olga  Carmona García,70,2,Open Play,Saved,0.009017637,90fcea0c-1c3c-48fa-99f8-4dbecd1e02a1,95.4,21.8
+Euro 2022,3835337,Denmark Women's,Pernille Mosegaard Harder,71,2,Open Play,Off T,0.03417923,21d35418-0e3b-4f40-ad9c-0e3c84deabf6,94.9,44.9
+Euro 2022,3835337,Denmark Women's,Nadia Nadim,75,2,Open Play,Wayward,0.006887087,,78.7,45.7
+Euro 2022,3835337,Spain Women's,Aitana Bonmati Conca,76,2,Open Play,Blocked,0.06096039,,101.6,39.5
+Euro 2022,3835337,Denmark Women's,Nadia Nadim,77,2,Open Play,Saved,0.21036667,192b2d3e-6842-4995-aac2-5810f1dfe55e,106.1,42.3
+Euro 2022,3835337,Denmark Women's,Karen Holmgaard,78,2,Open Play,Off T,0.114754096,44fff4df-7e4a-4068-9b26-d1fc2b15f80b,113.7,37.6
+Euro 2022,3835337,Spain Women's,Aitana Bonmati Conca,84,2,Open Play,Blocked,0.04070577,,99.2,41.5
+Euro 2022,3835337,Spain Women's,Marta Cardona De Miguel,84,2,Open Play,Off T,0.023779254,,94.7,43.2
+Euro 2022,3835337,Denmark Women's,Sanne Troelsgaard-Nielsen,86,2,Open Play,Off T,0.011861457,,90.7,43.3
+Euro 2022,3835337,Spain Women's,Marta Cardona De Miguel,89,2,Open Play,Goal,0.16149779,580d5d62-133d-4645-ad79-b64e8fbe5584,112.2,44.2
+Euro 2022,3835338,Germany Women's,Alexandra Popp,0,1,Open Play,Off T,0.1477498,1dcab71e-16f3-4c30-8c0e-1edf73da3a09,112.1,40.5
+Euro 2022,3835338,Germany Women's,Sara Däbritz,5,1,Open Play,Off T,0.09721213,28f06941-db8b-4a97-a6ab-bc0d98e75162,102.7,29.2
+Euro 2022,3835338,Germany Women's,Klara Bühl,7,1,Open Play,Blocked,0.03735426,7e497cdb-5e98-4bad-be80-d26967306a49,102.9,25.7
+Euro 2022,3835338,Germany Women's,Marina Hegering,7,1,Open Play,Wayward,0.056876663,e466e56a-bb5a-434c-9191-da0f6cc12507,109.4,41.3
+Euro 2022,3835338,Germany Women's,Klara Bühl,11,1,Open Play,Blocked,0.033183303,e08669bb-5552-4f92-be21-85327a819228,95.5,46.1
+Euro 2022,3835338,Germany Women's,Giulia Gwinn,12,1,Open Play,Blocked,0.09120792,,110.8,44.9
+Euro 2022,3835338,Germany Women's,Sophia Kleinherne,12,1,Open Play,Off T,0.009405585,9f256c90-30c3-4eba-8d10-ee166d15a433,107.5,19.4
+Euro 2022,3835338,Germany Women's,Sara Däbritz,17,1,Open Play,Saved,0.05611978,7c5abbcb-f90c-47df-abaa-a4e8b84ee451,104.4,29.4
+Euro 2022,3835338,Germany Women's,Giulia Gwinn,23,1,Open Play,Off T,0.06743054,7753cb7b-5340-4956-a30d-449e0b128eac,109.8,53.5
+Euro 2022,3835338,WNT Finland,Juliette Kemppi,24,1,Open Play,Blocked,0.08057947,691dd871-0f71-46e7-b72c-16efbeac1306,100.5,32.5
+Euro 2022,3835338,Germany Women's,Alexandra Popp,26,1,Open Play,Off T,0.1350417,68cfaffb-8c2c-4c5a-be8d-e4b21bdb8e78,114.8,45.5
+Euro 2022,3835338,Germany Women's,Giulia Gwinn,26,1,Open Play,Blocked,0.059487674,,98.1,38.6
+Euro 2022,3835338,Germany Women's,Marina Hegering,27,1,Open Play,Blocked,0.018598223,,86.3,39.8
+Euro 2022,3835338,Germany Women's,Svenja Huth,29,1,Open Play,Blocked,0.06821676,,103.3,44.4
+Euro 2022,3835338,Germany Women's,Svenja Huth,29,1,Open Play,Saved,0.13818167,78ff9eb9-4ad8-4434-b3f5-7e5c03e220d9,108.0,52.2
+Euro 2022,3835338,Germany Women's,Linda Dallmann,37,1,Open Play,Blocked,0.07964893,,112.8,45.2
+Euro 2022,3835338,Germany Women's,Sara Däbritz,38,1,Open Play,Blocked,0.035281677,,95.5,45.4
+Euro 2022,3835338,Germany Women's,Sophia Kleinherne,39,1,Open Play,Goal,0.6254968,9da6ded6-b3e1-4038-acb9-ff78103efa35,116.2,40.3
+Euro 2022,3835338,Germany Women's,Klara Bühl,44,1,Open Play,Blocked,0.012923666,fda80a37-ec66-4699-8c0d-1906cef54fe5,114.1,24.3
+Euro 2022,3835338,Germany Women's,Sara Däbritz,44,1,Open Play,Off T,0.12741877,00671e6e-bfb6-406c-9ad3-730018220f62,116.1,34.6
+Euro 2022,3835338,Germany Women's,Alexandra Popp,47,2,Open Play,Goal,0.15396634,5eadb51d-d309-4ce6-befd-baec04398bc1,113.6,37.2
+Euro 2022,3835338,Germany Women's,Linda Dallmann,49,2,Open Play,Blocked,0.13855335,e55a4ed6-4a62-481e-8ed0-325cf0f55cc2,105.6,39.3
+Euro 2022,3835338,Germany Women's,Linda Dallmann,54,2,Open Play,Blocked,0.037028674,c2c019a5-7243-4b18-9ebb-52e1486fcf97,102.3,27.8
+Euro 2022,3835338,Germany Women's,Svenja Huth,58,2,Open Play,Blocked,0.09252482,48472bf9-60e4-41d5-8215-404a68a7d9b7,104.3,47.0
+Euro 2022,3835338,Germany Women's,Alexandra Popp,60,2,Open Play,Saved Off Target,0.08959829,6337fc1b-62a5-49e8-b6d1-9886d785b24e,111.2,36.2
+Euro 2022,3835338,Germany Women's,Nicole Anyomi,62,2,Open Play,Goal,0.10390438,,103.9,44.1
+Euro 2022,3835338,Germany Women's,Jule Brand,73,2,Open Play,Blocked,0.06538097,7b892bcb-88ca-4265-a527-172d82d93dd1,107.8,28.4
+Euro 2022,3835338,Germany Women's,Sara Däbritz,82,2,Open Play,Blocked,0.0368965,,107.2,24.2
+Euro 2022,3835338,Germany Women's,Alexandra Popp,82,2,Open Play,Off T,0.05030477,,97.5,36.0
+Euro 2022,3835338,Germany Women's,Laura Freigang,85,2,Open Play,Saved,0.14371045,53e27848-7e31-4b8d-b063-4131a4139943,115.4,46.1
+Euro 2022,3835338,Germany Women's,Tabea Waßmuth,87,2,Open Play,Blocked,0.019283894,19561c7f-2b09-44a6-98c1-aafe91688063,101.0,57.6
+Euro 2022,3835338,Germany Women's,Sara Däbritz,87,2,Open Play,Saved,0.04788743,,98.9,35.0
+Euro 2022,3835322,Germany Women's,Klara Bühl,4,1,Open Play,Off T,0.04704318,8abe7cdf-c4a1-4677-ba94-146b1d7e0caa,113.3,47.4
+Euro 2022,3835322,Denmark Women's,Rikke Marie Madsen,7,1,Open Play,Off T,0.067156754,a151a889-030e-40d5-a657-efb6fcd5e580,108.9,39.4
+Euro 2022,3835322,Germany Women's,Felicitas Rauch,9,1,Open Play,Post,0.045190185,b1008a64-2935-4d03-8d62-1aed1582fee4,98.0,37.2
+Euro 2022,3835322,Germany Women's,Felicitas Rauch,12,1,Open Play,Post,0.025958505,39697676-8801-4a76-8c34-83c10a3811e2,94.8,30.1
+Euro 2022,3835322,Germany Women's,Lina Magull,17,1,Open Play,Saved,0.37160137,46b51de9-cb4f-4523-8b75-c92f24285e8e,114.6,42.5
+Euro 2022,3835322,Germany Women's,Lina Magull,20,1,Open Play,Goal,0.22776052,,107.8,50.8
+Euro 2022,3835322,Denmark Women's,Signe Kallesøe Bruun,28,1,Open Play,Saved,0.049237784,607f0e1e-deb1-45d8-87d8-7ea13ff43d7a,98.6,41.0
+Euro 2022,3835322,Denmark Women's,Janni Thomsen,33,1,Open Play,Saved,0.012848552,5a4fcd6d-df5f-4061-828f-9aa4020a3ab5,99.6,58.9
+Euro 2022,3835322,Germany Women's,Lina Magull,35,1,Open Play,Saved,0.02375164,0c07fa59-1d60-439c-adf3-7784f34d32a6,90.1,47.6
+Euro 2022,3835322,Germany Women's,Klara Bühl,38,1,Open Play,Off T,0.048602607,d304c089-9402-4116-b4fc-9bcaaa05cfa5,103.1,49.4
+Euro 2022,3835322,Germany Women's,Lea Schüller,45,1,Open Play,Saved,0.21356723,a9e23d64-c646-4254-9c49-0b5f13283611,108.0,34.8
+Euro 2022,3835322,Germany Women's,Lina Magull,45,1,Open Play,Off T,0.11212299,,106.6,32.6
+Euro 2022,3835322,Germany Women's,Svenja Huth,52,2,Open Play,Blocked,0.05722736,b1ffe981-8192-4dbb-b322-f138a32bed44,99.3,41.6
+Euro 2022,3835322,Denmark Women's,Rikke Marie Madsen,54,2,Open Play,Off T,0.03238672,524db226-3555-460f-b0d9-34560585996e,93.6,31.7
+Euro 2022,3835322,Germany Women's,Lina Magull,55,2,Open Play,Saved,0.030169113,568b593a-be3c-479f-a702-234b4eee596d,91.2,37.5
+Euro 2022,3835322,Germany Women's,Lea Schüller,56,2,Open Play,Goal,0.17462303,0e455ee2-a9bb-40b2-a506-a55cc3da3e70,116.1,39.2
+Euro 2022,3835322,Germany Women's,Lina Magull,57,2,Open Play,Blocked,0.048278183,,103.1,50.6
+Euro 2022,3835322,Germany Women's,Klara Bühl,59,2,Open Play,Blocked,0.048602965,e76a2a97-be7d-402a-a0b0-80834f829a87,100.6,31.2
+Euro 2022,3835322,Germany Women's,Sara Däbritz,59,2,Open Play,Blocked,0.057036996,,98.2,44.2
+Euro 2022,3835322,Germany Women's,Lena Lattwein,61,2,Open Play,Post,0.02145576,f7af649e-ced7-4423-a698-6a897aea8c4e,120.0,45.8
+Euro 2022,3835322,Denmark Women's,Rikke Læntver Sevecke,66,2,Open Play,Off T,0.15136848,876cf078-8366-4efb-90d2-c05a110a5cdf,116.4,37.1
+Euro 2022,3835322,Germany Women's,Kathrin Julia Hendrich,67,2,Open Play,Blocked,0.1683499,,113.7,42.9
+Euro 2022,3835322,Denmark Women's,Nadia Nadim,75,2,Open Play,Off T,0.13759083,899bdeac-a7a6-43a7-b897-eb9c480daa8a,115.7,43.7
+Euro 2022,3835322,Germany Women's,Lena Lattwein,77,2,Open Play,Goal,0.16972962,ab7caa49-09bc-4548-913b-fc54d2e65109,113.5,30.6
+Euro 2022,3835322,Germany Women's,Alexandra Popp,80,2,Open Play,Blocked,0.031296756,6ae5c23a-951d-40d1-804f-974ac4793c0a,94.7,35.4
+Euro 2022,3835322,Germany Women's,Alexandra Popp,85,2,Open Play,Goal,0.42699826,531c40d0-45d1-4f06-8aac-6e6c1700943d,112.0,43.2
+Euro 2022,3835322,Germany Women's,Jule Brand,92,2,Open Play,Blocked,0.0816366,,111.8,39.8
+Euro 2022,3835322,Germany Women's,Giulia Gwinn,92,2,Open Play,Saved,0.055437844,,109.6,43.2
+Euro 2022,3835319,Austria Women's,Sarah Zadrazil,4,1,Open Play,Blocked,0.05104586,,102.7,44.1
+Euro 2022,3835319,England Women's,Ellen White,9,1,Open Play,Saved,0.13683231,7545163e-98ec-45cb-95df-8d62e0e6bc10,111.3,38.5
+Euro 2022,3835319,England Women's,Lauren Hemp,11,1,Open Play,Off T,0.10498791,c595ce91-69c4-4355-bee6-907a23d2ed61,112.0,33.8
+Euro 2022,3835319,England Women's,Bethany Mead,15,1,Open Play,Goal,0.3614148,03b154bc-5c2b-4d6f-9fca-6b4f44975aeb,112.6,42.4
+Euro 2022,3835319,England Women's,Lauren Hemp,22,1,Open Play,Blocked,0.16642128,02286b38-afa4-4bfd-b129-6bde9d3033bc,113.7,41.5
+Euro 2022,3835319,England Women's,Ellen White,25,1,Open Play,Off T,0.15914714,21e75597-c60f-45af-98e0-9ef685e0ed76,111.6,38.4
+Euro 2022,3835319,England Women's,Lauren Hemp,35,1,Open Play,Wayward,0.12506282,fdad33c4-c290-4ecd-87e2-1dd0243eaa14,110.4,43.3
+Euro 2022,3835319,Austria Women's,Verena Hanshaw,42,1,Open Play,Off T,0.05396139,,109.1,28.3
+Euro 2022,3835319,England Women's,Ellen White,43,1,Open Play,Off T,0.061391678,7a06940b-db7a-4d0b-a64d-fd0dd8458fa3,107.4,35.3
+Euro 2022,3835319,England Women's,Lauren Hemp,45,1,Open Play,Saved,0.12653162,f64c1de1-b5c2-41e1-a147-06ffa3dd53e0,112.6,46.8
+Euro 2022,3835319,Austria Women's,Nicole Billa,47,2,Open Play,Blocked,0.068972066,d3c4cc6e-d614-4d93-b3f5-01a923bae918,117.5,32.7
+Euro 2022,3835319,England Women's,Francesca Kirby,51,2,Open Play,Saved,0.022087768,,98.6,26.1
+Euro 2022,3835319,England Women's,Ellen White,52,2,Open Play,Blocked,0.027852124,e3e60777-f963-4325-8263-13c34adead66,105.6,38.9
+Euro 2022,3835319,Austria Women's,Katharina Naschenweng,56,2,Open Play,Off T,0.0570774,,109.0,25.4
+Euro 2022,3835319,England Women's,Georgia Stanway,58,2,Open Play,Wayward,0.08381101,c51a10f9-143d-4bf3-bf4e-d2a356ee88c3,102.4,48.2
+Euro 2022,3835319,Austria Women's,Julia Hickelsberger Füller,64,2,Open Play,Blocked,0.043922916,e3dce478-a768-4c17-9828-c9e7fd46ba70,109.3,53.6
+Euro 2022,3835319,England Women's,Alessia Russo,70,2,Open Play,Wayward,0.37489152,,113.0,34.8
+Euro 2022,3835319,England Women's,Alessia Russo,70,2,Open Play,Blocked,0.20126033,,114.5,33.9
+Euro 2022,3835319,England Women's,Chloe Kelly,75,2,Open Play,Off T,0.054750934,048ed2f5-cf8d-4e90-838b-7366b8b5967a,96.9,44.7
+Euro 2022,3835319,Austria Women's,Barbara Dunst,77,2,Open Play,Saved,0.011456413,c6b7aecb-56fa-479d-a065-80135a2c4ac7,97.6,20.8
+Euro 2022,3835319,Austria Women's,Nicole Billa,80,2,Open Play,Blocked,0.10853588,,104.9,32.6
+Euro 2022,3835319,England Women's,Lauren Hemp,81,2,Open Play,Saved,0.03835215,,93.6,46.8
+Euro 2022,3835319,England Women's,Alessia Russo,84,2,Open Play,Blocked,0.034278616,35f72e03-7274-4452-a741-3793e9a37103,98.4,49.9
+Euro 2022,3835319,Austria Women's,Julia Hickelsberger Füller,86,2,Open Play,Saved,0.05041778,d875339c-0ab2-4759-80e1-7839ee407d2e,99.9,51.5
+Euro 2022,3835319,Austria Women's,Barbara Dunst,87,2,Open Play,Blocked,0.026600422,f52266b8-c789-4f21-8604-659bd07387e4,103.9,24.4
+World Cup 2023,3893818,Colombia Women's,Mayra Tatiana Ramírez Ramírez,7,1,Open Play,Off T,0.10720294,91f1a99d-e70b-4a10-a590-5b70a9e4fddd,114.3,36.6
+World Cup 2023,3893818,Germany Women's,Alexandra Popp,12,1,Open Play,Blocked,0.027737098,8e1b5dca-a71a-4d3d-a5ee-7bac02b386c4,109.3,34.8
+World Cup 2023,3893818,Germany Women's,Lena Oberdorf,21,1,Open Play,Blocked,0.042392544,,104.1,28.0
+World Cup 2023,3893818,Colombia Women's,Lorena Bedoya Durango,27,1,Open Play,Saved,0.01925349,,89.3,43.7
+World Cup 2023,3893818,Germany Women's,Lina Magull,31,1,Open Play,Blocked,0.025520267,7cd35537-8afa-43db-8d21-faa9250eb81b,89.8,41.6
+World Cup 2023,3893818,Colombia Women's,Mayra Tatiana Ramírez Ramírez,39,1,Open Play,Saved Off Target,0.04609714,5c8e1faf-6262-4c62-99a3-08115f93432d,97.4,41.5
+World Cup 2023,3893818,Germany Women's,Alexandra Popp,41,1,Open Play,Off T,0.19739595,,112.6,47.6
+World Cup 2023,3893818,Colombia Women's,Lorena Bedoya Durango,43,1,Open Play,Off T,0.0071376977,,83.6,33.5
+World Cup 2023,3893818,Germany Women's,Alexandra Popp,48,1,Open Play,Saved,0.027981214,0ec77cc1-8bb8-41fb-aa38-01984f6ea86b,104.6,43.5
+World Cup 2023,3893818,Germany Women's,Klara Bühl,47,2,Open Play,Blocked,0.010120862,e90e5fa8-27af-4577-a250-65ca5bebb25a,102.2,21.4
+World Cup 2023,3893818,Colombia Women's,Manuela Vanegas Cataño,51,2,Open Play,Blocked,0.030949662,,96.5,41.0
+World Cup 2023,3893818,Colombia Women's,Linda Lizeth Caicedo Alegría,51,2,Open Play,Goal,0.070997454,,109.9,28.1
+World Cup 2023,3893818,Germany Women's,Sara Däbritz,58,2,Open Play,Blocked,0.01733801,2cd66980-61ce-4cb4-9571-a45a5755f4e8,100.5,49.6
+World Cup 2023,3893818,Germany Women's,Alexandra Popp,60,2,Open Play,Off T,0.064914584,,100.0,47.3
+World Cup 2023,3893818,Germany Women's,Lena Oberdorf,63,2,Open Play,Off T,0.061083302,,109.4,34.7
+World Cup 2023,3893818,Germany Women's,Alexandra Popp,70,2,Free Kick,Off T,0.08501054,,101.5,50.1
+World Cup 2023,3893818,Germany Women's,Klara Bühl,73,2,Free Kick,Blocked,0.059493486,,93.3,33.8
+World Cup 2023,3893818,Germany Women's,Chantal Hagel,80,2,Open Play,Blocked,0.006512888,,89.1,53.5
+World Cup 2023,3893818,Germany Women's,Lena Oberdorf,80,2,Open Play,Blocked,0.087055795,,105.7,34.7
+World Cup 2023,3893818,Colombia Women's,Leicy Maria Santos Herrera,86,2,Open Play,Saved,0.05587555,c7a23f2e-8313-4f80-b8f5-7e7735b3daba,100.3,35.9
+World Cup 2023,3893818,Germany Women's,Alexandra Popp,88,2,Penalty,Goal,0.7835,,108.0,40.0
+World Cup 2023,3893818,Colombia Women's,Mayra Tatiana Ramírez Ramírez,95,2,Open Play,Blocked,0.089106105,d183974f-538e-4138-9d6f-0c8a686f451e,113.4,51.8
+World Cup 2023,3893818,Colombia Women's,Manuela Vanegas Cataño,96,2,Open Play,Goal,0.05711976,fac333f1-1d66-4266-b7a6-282f8460ed2e,110.2,40.1
+World Cup 2023,3893799,Germany Women's,Alexandra Popp,10,1,Open Play,Saved,0.15306337,9d1916ac-af95-44da-ad6f-16e339e01ae2,113.6,43.8
+World Cup 2023,3893799,Germany Women's,Klara Bühl,10,1,Open Play,Blocked,0.19849868,,109.3,39.1
+World Cup 2023,3893799,Germany Women's,Alexandra Popp,10,1,Open Play,Goal,0.41824785,067bb967-780b-448e-a311-e9dcde00858e,112.9,40.3
+World Cup 2023,3893799,Germany Women's,Jule Brand,13,1,Open Play,Off T,0.033629216,02395444-118e-47d4-94b6-5f5759197b40,107.2,49.8
+World Cup 2023,3893799,Morocco Women's,Ghizlane Chebbak,23,1,Open Play,Saved,0.016332734,,85.5,43.7
+World Cup 2023,3893799,Germany Women's,Felicitas Rauch,25,1,Open Play,Blocked,0.037886273,,99.8,36.5
+World Cup 2023,3893799,Morocco Women's,Hanane Aït El Haj,28,1,Free Kick,Blocked,0.0070301853,,79.7,45.4
+World Cup 2023,3893799,Germany Women's,Alexandra Popp,38,1,Open Play,Goal,0.10489312,78308b9f-8689-4ab0-9024-93ed607128bb,113.2,41.0
+World Cup 2023,3893799,Germany Women's,Alexandra Popp,43,1,Open Play,Off T,0.022656124,,105.8,22.7
+World Cup 2023,3893799,Germany Women's,Klara Bühl,47,1,Open Play,Blocked,0.088509224,cf075194-ff09-46a8-80be-eed967ce672f,102.0,39.8
+World Cup 2023,3893799,Germany Women's,Lina Magull,45,2,Open Play,Post,0.2848837,3a4a45cd-3096-48cb-9502-8a622e4a442b,116.4,43.3
+World Cup 2023,3893799,Germany Women's,Klara Bühl,45,2,Open Play,Goal,0.06043132,,111.8,31.7
+World Cup 2023,3893799,Morocco Women's,Ghizlane Chebbak,50,2,Open Play,Saved,0.04407047,d922b212-8049-4dae-a562-7b0a361637f9,101.6,28.3
+World Cup 2023,3893799,Germany Women's,Sara Däbritz,64,2,Open Play,Post,0.10771531,67ed02ca-9f3f-45cd-ac6d-93cb412c4bb1,116.0,46.8
+World Cup 2023,3893799,Germany Women's,Jule Brand,76,2,Open Play,Off T,0.06705618,,104.2,49.3
+World Cup 2023,3893799,Morocco Women's,Nesryne El Chad,86,2,Open Play,Blocked,0.07179928,c53ef67b-29db-41c4-b1a8-54e6135f9236,112.4,43.3
+World Cup 2023,3893799,Morocco Women's,Salma Amani,86,2,Open Play,Saved,0.029938601,9143b768-08bc-4061-a52e-caf82980c802,103.4,55.7
+World Cup 2023,3893799,Germany Women's,Lena Lattwein,89,2,Open Play,Saved,0.0950044,f1b08dd6-d0a9-48e3-8adc-62b6f3730026,106.4,52.1
+World Cup 2023,3893799,Germany Women's,Lea Schüller,89,2,Open Play,Goal,0.41218543,,113.2,35.3
+World Cup 2023,3893799,Morocco Women's,Hanane Aït El Haj,92,2,Open Play,Saved,0.0073007694,,89.9,56.8
+World Cup 2023,3893799,Germany Women's,Laura Freigang,94,2,Open Play,Wayward,0.19770975,c0ed926b-1198-46e7-8d68-7f9058d90d37,113.1,41.7
+World Cup 2023,3893799,Germany Women's,Lea Schüller,97,2,Open Play,Blocked,0.033092067,edf22451-d489-4993-bc2c-3ab2b53c20d7,96.3,39.2
+World Cup 2023,3893833,Germany Women's,Alexandra Popp,1,1,Open Play,Saved,0.04655467,,95.8,49.5
+World Cup 2023,3893833,Korea Republic Women's,Casey Yu-Jin Phair,2,1,Open Play,Saved to Post,0.4683652,c0f7c50a-8daa-4629-ab6c-6f84283702f3,111.7,44.9
+World Cup 2023,3893833,Korea Republic Women's,So-Hyun Cho,5,1,Open Play,Goal,0.4342162,ba283aa0-285b-4c12-88e0-92567c9d1b25,106.1,41.9
+World Cup 2023,3893833,Germany Women's,Klara Bühl,10,1,Open Play,Off T,0.08596761,5a4be72d-0341-45a6-8455-2ee164fba45d,107.5,28.3
+World Cup 2023,3893833,Germany Women's,Klara Bühl,14,1,Open Play,Off T,0.062361475,b2d5a10c-9ed4-4171-b5e9-fec2c83ebb8e,110.5,32.8
+World Cup 2023,3893833,Korea Republic Women's,So-Yun Ji,36,1,Open Play,Off T,0.0067319428,63b7ec81-91c6-4382-a148-be9a14db2ea9,90.0,23.9
+World Cup 2023,3893833,Germany Women's,Sara Däbritz,40,1,Open Play,Blocked,0.040581703,0b613079-16f1-458f-9a5c-e9d20b7ffa1c,99.0,33.9
+World Cup 2023,3893833,Germany Women's,Alexandra Popp,41,1,Open Play,Goal,0.10553204,a79fdafd-fb55-4232-9f45-fe06a42b3875,112.9,38.5
+World Cup 2023,3893833,Germany Women's,Alexandra Popp,47,2,Open Play,Off T,0.44707245,,111.2,42.6
+World Cup 2023,3893833,Germany Women's,Klara Bühl,49,2,Open Play,Blocked,0.023295226,c99fafba-431a-47c4-bee8-6711495ae33c,98.1,27.7
+World Cup 2023,3893833,Germany Women's,Lea Schüller,55,2,Open Play,Wayward,0.20360821,037c401a-8140-492e-85b4-1fcb145bcc5d,112.1,44.3
+World Cup 2023,3893833,Germany Women's,Alexandra Popp,56,2,Open Play,Post,0.15100108,4ca5b3db-9396-49ab-b7e6-4a3bc9040c5d,112.4,38.9
+World Cup 2023,3893833,Germany Women's,Alexandra Popp,69,2,Open Play,Saved,0.07372671,98bcf71d-54ec-44d7-9db2-104e9eb24309,108.8,34.3
+World Cup 2023,3893833,Korea Republic Women's,Yu-Ri Choe,74,2,Open Play,Blocked,0.026156116,,100.3,39.4
+World Cup 2023,3893833,Korea Republic Women's,Eun-Sun Park,94,2,Free Kick,Blocked,0.07725308,,95.3,39.9
+World Cup 2023,3893833,Germany Women's,Sydney Lohmann,96,2,Open Play,Off T,0.021665145,,93.8,53.1
+World Cup 2023,3893833,Germany Women's,Sydney Lohmann,97,2,Open Play,Off T,0.055924717,269cc56c-b40b-431b-843a-da7362095a4c,99.9,48.6
+World Cup 2023,3906390,England Women's,Lauren Hemp,4,1,Open Play,Saved,0.038291804,,107.9,56.3
+World Cup 2023,3906390,England Women's,Lauren Hemp,15,1,Open Play,Post,0.11897644,2e7ab182-20f3-4e2f-98a6-4d2bba6d6383,104.0,35.4
+World Cup 2023,3906390,Spain Women's,Salma Paralluelo Ayingono,16,1,Open Play,Wayward,0.32985806,ceacc947-b0fd-4620-801d-f2d57cf6048b,112.6,37.2
+World Cup 2023,3906390,Spain Women's,Alba María Redondo Ferrer,16,1,Open Play,Saved,0.4635085,,115.3,46.7
+World Cup 2023,3906390,England Women's,Lauren Hemp,19,1,Open Play,Saved,0.08992476,5b76e98e-9ddf-4a9c-98ab-1e387c81b144,107.3,53.5
+World Cup 2023,3906390,Spain Women's,Olga  Carmona García,28,1,Open Play,Goal,0.054861497,0d5a98f0-81b1-446b-8b02-8f4638fc7404,107.1,24.5
+World Cup 2023,3906390,Spain Women's,Irene Paredes Hernandez,36,1,Open Play,Off T,0.049800135,,107.1,50.8
+World Cup 2023,3906390,Spain Women's,Alba María Redondo Ferrer,38,1,Open Play,Blocked,0.007859871,30e3a752-f681-4d2d-af79-6ec20bea4424,103.5,59.5
+World Cup 2023,3906390,Spain Women's,Salma Paralluelo Ayingono,45,1,Open Play,Post,0.13031209,8cb79d5b-6b77-4bb2-8fa9-00cc39672664,108.3,40.7
+World Cup 2023,3906390,Spain Women's,María Francesca Caldentey Oliver,49,2,Open Play,Saved,0.046465375,fb8ca8d0-36da-4f29-a9ff-9dffabc80db7,98.5,37.9
+World Cup 2023,3906390,England Women's,Lauren Hemp,53,2,Open Play,Off T,0.15075973,e69a56cd-0831-417e-a9db-a3401bcc18b4,111.3,33.6
+World Cup 2023,3906390,Spain Women's,Aitana Bonmati Conca,61,2,Open Play,Off T,0.046413776,2d03dbc1-42a5-44e9-83cf-7a591258e25d,96.8,31.0
+World Cup 2023,3906390,Spain Women's,Jennifer Hermoso Fuentes,69,2,Penalty,Saved,0.7835,,108.1,40.1
+World Cup 2023,3906390,England Women's,Lucy Bronze,73,2,Open Play,Off T,0.0067315726,,82.6,50.7
+World Cup 2023,3906390,England Women's,Lauren James,75,2,Open Play,Saved,0.0142943645,9b5907d2-95c9-4e6c-823a-c5e3039aa9aa,112.6,24.4
+World Cup 2023,3906390,England Women's,Millie Bright,88,2,Open Play,Blocked,0.015070377,5f655ef9-dd1b-4bee-8b11-7e88693d7bdb,100.7,24.7
+World Cup 2023,3906390,Spain Women's,Jennifer Hermoso Fuentes,89,2,Open Play,Blocked,0.060141463,83b6641e-2f0e-460e-afdc-eeac31975090,109.3,30.3
+World Cup 2023,3906390,Spain Women's,Alexia Putellas Segura,89,2,Open Play,Blocked,0.09861894,8723f066-080b-406f-ad22-b6b7356706f0,114.8,45.1
+World Cup 2023,3906390,Spain Women's,Ona Batlle Pascual,91,2,Open Play,Saved,0.03439299,63d5f305-4976-42e6-86ad-d68e0fc71945,108.8,54.2
+World Cup 2023,3906390,Spain Women's,Aitana Bonmati Conca,97,2,Open Play,Blocked,0.04497485,ff90da36-2b80-488a-b288-69c41f4d6085,99.0,44.7
+World Cup 2023,3906390,Spain Women's,Salma Paralluelo Ayingono,97,2,Open Play,Blocked,0.043415517,85d09184-87d7-4864-9ea7-ce17770edf32,105.8,25.4
+World Cup 2023,3906390,England Women's,Millie Bright,102,2,Open Play,Blocked,0.035629865,,110.3,45.5
+World Cup 2023,3893791,Spain Women's,Aitana Bonmati Conca,6,1,Open Play,Off T,0.06906236,eb362eae-dc82-492b-b603-d3ad95c3d62b,108.7,33.6
+World Cup 2023,3893791,Spain Women's,Esther Gonzalez Rodríguez,8,1,Open Play,Off T,0.07867086,880296ba-e9cb-4d9a-879f-105348a6edbb,115.7,45.9
+World Cup 2023,3893791,Costa Rica Women's,Melissa Herrera Monge,9,1,Open Play,Off T,0.12987016,49984adf-c0ab-44fe-8052-137114477371,104.3,30.3
+World Cup 2023,3893791,Spain Women's,Ivana Andrés Sanz,10,1,Open Play,Saved,0.11859363,a3fbadac-742b-40a2-a65e-ce171b2a1f37,112.0,40.5
+World Cup 2023,3893791,Spain Women's,Athenea del Castillo Belvide,11,1,Open Play,Blocked,0.02292912,,92.3,50.2
+World Cup 2023,3893791,Spain Women's,Esther Gonzalez Rodríguez,12,1,Open Play,Wayward,0.052768454,634ec275-b51f-4559-b24e-245c0641f913,106.0,39.4
+World Cup 2023,3893791,Spain Women's,Esther Gonzalez Rodríguez,12,1,Open Play,Wayward,0.118632644,f593f523-cfa5-47ee-9f95-244db8591426,111.8,40.9
+World Cup 2023,3893791,Spain Women's,Jennifer Hermoso Fuentes,13,1,Open Play,Blocked,0.06813117,254c0669-96f6-4bb1-968a-bc33efe03eca,107.4,43.0
+World Cup 2023,3893791,Spain Women's,Ivana Andrés Sanz,18,1,Open Play,Off T,0.11182765,129994c3-43c3-459d-979e-70e5ccc5f6ab,113.0,38.6
+World Cup 2023,3893791,Spain Women's,Aitana Bonmati Conca,22,1,Open Play,Goal,0.10829988,50d7d104-b39f-43c2-bcc2-5766fb09817c,107.6,43.9
+World Cup 2023,3893791,Spain Women's,Esther Gonzalez Rodríguez,25,1,Open Play,Saved,0.09334926,f5bfd279-857d-4a21-995a-67263340fdf4,111.0,41.0
+World Cup 2023,3893791,Spain Women's,Olga  Carmona García,25,1,Open Play,Saved,0.023760129,0c493569-210a-4224-9642-93ff9e8ab415,98.4,29.2
+World Cup 2023,3893791,Spain Women's,Irene Paredes Hernandez,26,1,Open Play,Blocked,0.042146668,c15cb2ad-667d-4067-8118-a637cfbd4bd1,109.8,40.2
+World Cup 2023,3893791,Spain Women's,Ivana Andrés Sanz,26,1,Open Play,Blocked,0.097587064,,112.2,43.0
+World Cup 2023,3893791,Spain Women's,Jennifer Hermoso Fuentes,26,1,Open Play,Post,0.19688067,c44344e3-0207-4d22-b303-9864590e100a,118.3,35.0
+World Cup 2023,3893791,Spain Women's,Esther Gonzalez Rodríguez,26,1,Open Play,Goal,0.27580458,,116.3,40.7
+World Cup 2023,3893791,Spain Women's,Jennifer Hermoso Fuentes,28,1,Open Play,Blocked,0.05044874,f1d050a1-0d4c-4d9d-94b8-056d4731cea5,100.7,32.4
+World Cup 2023,3893791,Spain Women's,Irene Paredes Hernandez,29,1,Open Play,Off T,0.03674848,2ee19bbc-61c9-4622-8c2f-9df807085fc6,107.3,39.4
+World Cup 2023,3893791,Spain Women's,Jennifer Hermoso Fuentes,33,1,Penalty,Saved,0.7835,,108.1,40.1
+World Cup 2023,3893791,Spain Women's,Irene Paredes Hernandez,37,1,Open Play,Blocked,0.042219844,9c9c78b3-7501-4bda-a9bf-a6b22a3c905f,97.1,43.3
+World Cup 2023,3893791,Spain Women's,Salma Paralluelo Ayingono,39,1,Open Play,Blocked,0.11768617,018a17fc-1421-4f5d-992c-b498c60fa28a,109.9,43.6
+World Cup 2023,3893791,Spain Women's,Esther Gonzalez Rodríguez,43,1,Open Play,Off T,0.057794817,eeeaba08-79ce-4296-8498-15d29d41745a,109.5,38.2
+World Cup 2023,3893791,Spain Women's,Teresa Abelleira Dueñas,45,1,Open Play,Blocked,0.04765252,c9d79978-be6e-4b8b-bc3d-c2cfebbafecd,99.0,34.1
+World Cup 2023,3893791,Spain Women's,Aitana Bonmati Conca,45,1,Open Play,Blocked,0.088720895,,107.5,40.8
+World Cup 2023,3893791,Spain Women's,Aitana Bonmati Conca,45,1,Open Play,Blocked,0.043773536,,107.1,42.1
+World Cup 2023,3893791,Spain Women's,Athenea del Castillo Belvide,46,1,Open Play,Blocked,0.030178566,,100.2,51.9
+World Cup 2023,3893791,Spain Women's,Esther Gonzalez Rodríguez,49,1,Open Play,Off T,0.13313395,3be803d5-ecd4-4c2a-9092-a870fce13f48,116.1,34.4
+World Cup 2023,3893791,Spain Women's,Salma Paralluelo Ayingono,45,2,Open Play,Saved,0.04227293,83343ea2-3821-4a42-b9de-60bbf763d15e,109.9,45.1
+World Cup 2023,3893791,Spain Women's,Teresa Abelleira Dueñas,47,2,Open Play,Blocked,0.05633718,,98.3,34.0
+World Cup 2023,3893791,Spain Women's,Olga  Carmona García,49,2,Open Play,Post,0.010583163,2ef53f27-b28f-42e7-91b1-152b7ac1895e,105.3,20.0
+World Cup 2023,3893791,Spain Women's,Aitana Bonmati Conca,51,2,Open Play,Blocked,0.074054204,,109.7,37.1
+World Cup 2023,3893791,Spain Women's,Esther Gonzalez Rodríguez,52,2,Open Play,Blocked,0.09377083,,111.0,48.2
+World Cup 2023,3893791,Spain Women's,Esther Gonzalez Rodríguez,54,2,Open Play,Off T,0.07299003,02f45487-e96b-4b2d-a48c-8a4210187355,116.1,33.4
+World Cup 2023,3893791,Spain Women's,Salma Paralluelo Ayingono,55,2,Open Play,Saved,0.0422979,,108.8,27.5
+World Cup 2023,3893791,Spain Women's,Irene Paredes Hernandez,56,2,Open Play,Blocked,0.0628609,912d6122-7897-48ef-a4d5-74e46402ff38,111.7,41.8
+World Cup 2023,3893791,Spain Women's,Olga  Carmona García,56,2,Open Play,Saved,0.03633071,767511f8-652a-45d0-abdd-9c13285e8075,97.4,32.2
+World Cup 2023,3893791,Spain Women's,Ivana Andrés Sanz,56,2,Open Play,Saved,0.05262749,bef1fc2c-b296-4503-bd71-b3e91a185577,111.3,34.8
+World Cup 2023,3893791,Spain Women's,Alba María Redondo Ferrer,62,2,Open Play,Off T,0.07221795,36980c60-ee5e-464a-ab5d-7150632a72c6,101.3,37.5
+World Cup 2023,3893791,Spain Women's,Salma Paralluelo Ayingono,62,2,Open Play,Off T,0.05420297,d28f0d39-a168-4668-b061-d26c831f2577,109.2,39.1
+World Cup 2023,3893791,Spain Women's,Jennifer Hermoso Fuentes,68,2,Open Play,Wayward,0.053083412,b3f49c69-6dba-4a2b-8657-7b77e8de2f2c,110.6,44.0
+World Cup 2023,3893791,Spain Women's,Olga  Carmona García,74,2,Open Play,Off T,0.019352257,,91.2,26.8
+World Cup 2023,3893791,Spain Women's,Aitana Bonmati Conca,80,2,Open Play,Blocked,0.071031004,,107.3,39.7
+World Cup 2023,3893791,Spain Women's,Alexia Putellas Segura,82,2,Open Play,Saved,0.057347104,,102.9,31.2
+World Cup 2023,3893791,Spain Women's,María Francesca Caldentey Oliver,83,2,Open Play,Off T,0.18341929,2055c271-5f9b-4ed2-ae44-e8a4de9f4714,109.6,30.9
+World Cup 2023,3893791,Spain Women's,Aitana Bonmati Conca,88,2,Open Play,Blocked,0.062228892,33564937-6a90-425a-9ab2-f5cba9471e8a,104.5,45.9
+World Cup 2023,3893791,Spain Women's,Jennifer Hermoso Fuentes,90,2,Open Play,Saved,0.11711578,6f64d454-ea1a-4f85-a36c-422d6d1c792e,107.1,33.1
+World Cup 2023,3893791,Spain Women's,Olga  Carmona García,92,2,Open Play,Blocked,0.027096298,,99.4,28.1
+World Cup 2023,3901733,Spain Women's,Esther Gonzalez Rodríguez,2,1,Open Play,Blocked,0.06465532,bb1a04d3-b1e4-4a6f-9b6d-7cfd904fb5d0,110.0,37.4
+World Cup 2023,3901733,Spain Women's,Teresa Abelleira Dueñas,2,1,Open Play,Wayward,0.035763558,,97.6,38.0
+World Cup 2023,3901733,Spain Women's,Alba María Redondo Ferrer,4,1,Open Play,Saved to Post,0.31782252,e60f546b-631d-48d1-ac04-0c8cc80d6a03,114.9,42.1
+World Cup 2023,3901733,Spain Women's,Aitana Bonmati Conca,4,1,Open Play,Goal,0.09598785,e1a0979f-3e70-40a8-b57f-36cc85f6136b,103.5,44.7
+World Cup 2023,3901733,Spain Women's,Esther Gonzalez Rodríguez,9,1,Open Play,Off T,0.06841546,9771db9b-fd79-45fd-bfac-4a3da04bc118,115.5,31.2
+World Cup 2023,3901733,Spain Women's,Irene Paredes Hernandez,14,1,Open Play,Off T,0.25434187,c8576c65-3d14-4a5b-b807-e19bbde77117,115.6,43.4
+World Cup 2023,3901733,Spain Women's,Esther Gonzalez Rodríguez,15,1,Open Play,Blocked,0.09279015,cf12d286-e71d-41bb-b646-e9bb1d946684,114.1,31.0
+World Cup 2023,3901733,Spain Women's,Aitana Bonmati Conca,16,1,Open Play,Wayward,0.05809199,1f127929-5c41-489a-9baf-b38a5bac7a4a,108.2,34.7
+World Cup 2023,3901733,Spain Women's,Alba María Redondo Ferrer,16,1,Open Play,Goal,0.18381009,,111.4,44.0
+World Cup 2023,3901733,Spain Women's,Teresa Abelleira Dueñas,27,1,Open Play,Off T,0.025001524,5a845e78-dc78-42f7-a46c-37dd19ed7a1f,90.0,41.3
+World Cup 2023,3901733,Spain Women's,Aitana Bonmati Conca,31,1,Open Play,Blocked,0.08227475,bdca18f3-a55c-42be-aee3-e744aeae91a9,104.3,36.9
+World Cup 2023,3901733,Spain Women's,Aitana Bonmati Conca,32,1,Open Play,Saved,0.055731576,,103.4,29.8
+World Cup 2023,3901733,Spain Women's,Alba María Redondo Ferrer,35,1,Open Play,Blocked,0.058830775,a6a3d388-43a4-4d1e-8fc1-82049b437007,108.7,36.6
+World Cup 2023,3901733,Spain Women's,Aitana Bonmati Conca,35,1,Open Play,Goal,0.37848663,,108.7,42.3
+World Cup 2023,3901733,Spain Women's,Irene Paredes Hernandez,37,1,Open Play,Off T,0.1349828,a47baabd-cde9-48ae-91f4-1394df493e0b,115.3,36.8
+World Cup 2023,3901733,Spain Women's,Laia Codina Panedas,44,1,Open Play,Blocked,0.10698952,b9098463-b957-4327-bf25-aa9c09235c42,113.7,37.8
+World Cup 2023,3901733,Spain Women's,Laia Codina Panedas,44,1,Open Play,Blocked,0.13375852,,112.9,38.8
+World Cup 2023,3901733,Spain Women's,Laia Codina Panedas,44,1,Open Play,Goal,0.22702387,,114.6,39.4
+World Cup 2023,3901733,Spain Women's,Salma Paralluelo Ayingono,47,1,Open Play,Blocked,0.02048153,,91.7,38.4
+World Cup 2023,3901733,Spain Women's,Salma Paralluelo Ayingono,52,2,Open Play,Saved,0.024613757,18dbba74-8240-4788-bb45-043c16f36ab9,96.6,53.7
+World Cup 2023,3901733,Switzerland Women's,Meriame Terchoun,55,2,Open Play,Saved,0.23149295,ab8edb51-7d52-42e3-aa66-62fd10fc59b8,110.0,43.1
+World Cup 2023,3901733,Spain Women's,Teresa Abelleira Dueñas,57,2,Open Play,Saved,0.025191555,,95.1,47.8
+World Cup 2023,3901733,Spain Women's,Alba María Redondo Ferrer,59,2,Open Play,Off T,0.045964032,40318349-e565-4c7d-b433-e1351b48fbf4,101.8,52.0
+World Cup 2023,3901733,Spain Women's,Jennifer Hermoso Fuentes,69,2,Open Play,Goal,0.25599313,787116fc-71ff-48ae-b51d-60407a9c45ea,107.8,49.5
+World Cup 2023,3901733,Spain Women's,Salma Paralluelo Ayingono,74,2,Free Kick,Blocked,0.0439101,,91.4,40.1
+World Cup 2023,3901733,Spain Women's,Eva Maria Navarro,80,2,Open Play,Saved,0.027487485,,95.6,39.7
+World Cup 2023,3901733,Spain Women's,Ona Batlle Pascual,81,2,Open Play,Off T,0.009862593,0c56a1d0-d139-49b3-ab20-d7c229b5ca33,103.1,20.2
+World Cup 2023,3901733,Switzerland Women's,Fabienne Humm,91,2,Open Play,Off T,0.010824835,a8de600f-6645-4002-8b17-11f9ac23c353,88.6,59.6
+World Cup 2023,3904629,England Women's,Georgia Stanway,8,1,Open Play,Saved,0.12825653,5369784a-df6a-468d-a89d-4d53b4e9eeaf,111.1,30.9
+World Cup 2023,3904629,England Women's,Georgia Stanway,9,1,Open Play,Blocked,0.058608204,073dd21f-249e-4aea-bdff-fab5310647e9,113.3,34.1
+World Cup 2023,3904629,England Women's,Alessia Russo,9,1,Open Play,Blocked,0.102189004,,112.3,37.3
+World Cup 2023,3904629,England Women's,Lauren Hemp,9,1,Open Play,Blocked,0.04496551,,107.9,29.8
+World Cup 2023,3904629,England Women's,Rachel Daly,12,1,Open Play,Off T,0.09467368,be1aa7dc-2bcc-4d5b-87f3-59b59f077cf8,112.0,38.1
+World Cup 2023,3904629,England Women's,Alessia Russo,16,1,Open Play,Off T,0.009647812,92034015-8bde-43d6-8752-6fdfd4053f7e,109.6,59.3
+World Cup 2023,3904629,Australia Women's,Clare Elizabeth Polkinghorne,28,1,Open Play,Blocked,0.086947605,76f40960-20d2-4455-93af-65a0c3f03caa,112.7,38.8
+World Cup 2023,3904629,Australia Women's,Hayley Emma Raso,28,1,Open Play,Blocked,0.05833244,,114.8,28.9
+World Cup 2023,3904629,England Women's,Ella Toone,35,1,Open Play,Goal,0.07485417,,107.8,26.7
+World Cup 2023,3904629,Australia Women's,Katrina Gorry,37,1,Open Play,Saved,0.02999718,57931705-d021-45d5-8b4c-1d518f1c4a92,93.7,42.7
+World Cup 2023,3904629,Australia Women's,Mary Boio Fowler,44,1,Open Play,Blocked,0.032347504,,107.8,41.2
+World Cup 2023,3904629,Australia Women's,Samantha May Kerr,46,2,Open Play,Blocked,0.06493129,d99279bb-192d-45e5-b664-b37221f65ec5,111.2,34.5
+World Cup 2023,3904629,England Women's,Lauren Hemp,56,2,Open Play,Saved,0.01487866,,95.2,53.7
+World Cup 2023,3904629,England Women's,Millie Bright,57,2,Open Play,Off T,0.08975217,099c880e-e59c-4ef5-a063-046bc5a94294,113.4,36.8
+World Cup 2023,3904629,Australia Women's,Samantha May Kerr,62,2,Open Play,Goal,0.057322696,8bf3d0ef-4047-474a-8724-3f5295410393,96.1,48.3
+World Cup 2023,3904629,Australia Women's,Samantha May Kerr,64,2,Open Play,Blocked,0.048497766,2fb7c315-505b-4001-ac47-ec87b5e2591f,111.6,25.3
+World Cup 2023,3904629,Australia Women's,Samantha May Kerr,66,2,Open Play,Saved,0.046920065,a41e7968-9d1e-4c9d-a108-65089f92b229,106.8,41.1
+World Cup 2023,3904629,England Women's,Alessia Russo,69,2,Open Play,Off T,0.06998927,49c2aae3-fcec-4923-bbb1-0c40b34bb96e,112.3,36.4
+World Cup 2023,3904629,England Women's,Lauren Hemp,70,2,Open Play,Goal,0.1391206,2cbdc07e-b0b3-4962-8e60-8976b115ba12,111.3,31.8
+World Cup 2023,3904629,England Women's,Georgia Stanway,76,2,Open Play,Off T,0.016184913,9ba86fd2-b874-4148-87df-2b31bb54f51c,88.9,51.5
+World Cup 2023,3904629,England Women's,Alessia Russo,76,2,Open Play,Blocked,0.025301231,6ea5d419-59a2-4513-bc7f-7f8f8e6eb49a,91.7,45.3
+World Cup 2023,3904629,England Women's,Millie Bright,77,2,Open Play,Off T,0.061744574,5d0b540e-c958-46ec-bdd7-a256c80817c8,111.5,36.2
+World Cup 2023,3904629,Australia Women's,Samantha May Kerr,81,2,Open Play,Off T,0.37368575,aad24266-d08d-4449-b750-7ea9594357a3,114.1,37.4
+World Cup 2023,3904629,Australia Women's,Cortnee Brooke Vine,82,2,Open Play,Saved,0.061160978,9b81aabc-c082-4a55-b7e0-a47138a34f50,105.0,52.5
+World Cup 2023,3904629,Australia Women's,Mary Boio Fowler,83,2,Open Play,Blocked,0.032366898,1a541855-14a4-4625-9a2a-4b553a147ea1,97.8,51.8
+World Cup 2023,3904629,Australia Women's,Samantha May Kerr,84,2,Open Play,Off T,0.24993216,,114.1,42.5
+World Cup 2023,3904629,England Women's,Alessia Russo,85,2,Open Play,Goal,0.122612506,b9cadc4b-6e4f-46ae-af97-cc9f8558970c,109.8,52.3
+World Cup 2023,3904628,Spain Women's,Olga  Carmona García,13,1,Open Play,Off T,0.031136213,4033c0b1-3487-472b-914a-b2b9008deabc,94.0,31.8
+World Cup 2023,3904628,Spain Women's,Olga  Carmona García,24,1,Open Play,Off T,0.010924919,db4deede-bc04-411d-b281-a3ccc0104615,93.5,22.7
+World Cup 2023,3904628,Spain Women's,Aitana Bonmati Conca,38,1,Open Play,Off T,0.067997195,6e729535-7063-4b05-a916-c8636fc102cb,101.9,37.6
+World Cup 2023,3904628,Sweden Women's,Fridolina Rolfö,41,1,Open Play,Saved,0.13727015,ff9dd25f-e17a-4e2e-814e-2e2779e9d832,111.1,32.5
+World Cup 2023,3904628,Sweden Women's,Emma Stina Blackstenius,44,1,Open Play,Wayward,0.14956927,,113.5,41.6
+World Cup 2023,3904628,Sweden Women's,Emma Stina Blackstenius,54,2,Open Play,Saved,0.050915144,60f15a47-e2d1-4a0f-ba74-f55eabaa6d31,113.0,53.8
+World Cup 2023,3904628,Spain Women's,Alba María Redondo Ferrer,57,2,Open Play,Blocked,0.04930004,b646f416-7adb-44ad-98b5-a50702715d41,109.1,32.6
+World Cup 2023,3904628,Spain Women's,Salma Paralluelo Ayingono,63,2,Open Play,Off T,0.10080562,14f7accf-1367-498d-b92a-e91eecde64e3,109.1,44.6
+World Cup 2023,3904628,Spain Women's,María Francesca Caldentey Oliver,66,2,Free Kick,Blocked,0.078507856,,97.4,31.8
+World Cup 2023,3904628,Spain Women's,Alba María Redondo Ferrer,69,2,Open Play,Wayward,0.27850312,bca047b6-fdca-4e48-99ea-83bea32e38b1,113.6,40.0
+World Cup 2023,3904628,Spain Women's,Alba María Redondo Ferrer,69,2,Open Play,Off T,0.46543038,75b3e7dd-e275-40a9-9a6c-b57781d6b6a2,115.5,34.8
+World Cup 2023,3904628,Spain Women's,Salma Paralluelo Ayingono,71,2,Open Play,Blocked,0.009443602,80caaa70-ff0b-4224-8e92-f3054f592b05,102.3,59.0
+World Cup 2023,3904628,Spain Women's,María Francesca Caldentey Oliver,73,2,Open Play,Wayward,0.09398575,4595d402-75cc-40e8-805d-5961ae118030,109.5,38.1
+World Cup 2023,3904628,Sweden Women's,Emma Stina Blackstenius,75,2,Open Play,Wayward,0.15185085,12c35b1f-330c-420e-9c9d-031a2c46cdd9,114.3,42.8
+World Cup 2023,3904628,Spain Women's,Salma Paralluelo Ayingono,79,2,Open Play,Blocked,0.069166556,880aa87f-ba71-4be4-aba5-ed9bca54763e,105.7,30.3
+World Cup 2023,3904628,Spain Women's,Salma Paralluelo Ayingono,80,2,Open Play,Goal,0.08953081,,109.3,37.2
+World Cup 2023,3904628,Sweden Women's,Magdalena Lilly Eriksson,83,2,Open Play,Wayward,0.092115834,89915fdb-320e-4ab1-a1f6-4007562e5e9a,107.0,35.1
+World Cup 2023,3904628,Sweden Women's,Rebecka Blomqvist,87,2,Open Play,Goal,0.15001205,f1cdf873-6e71-4c8a-bc63-24dfedce224d,111.1,35.7
+World Cup 2023,3904628,Spain Women's,Olga  Carmona García,88,2,Open Play,Goal,0.031223249,74cd4601-67b8-4890-931e-7b9d4ef85167,101.3,26.8
+World Cup 2023,3893806,Spain Women's,Alexia Putellas Segura,2,1,Open Play,Blocked,0.05863486,,113.2,28.2
+World Cup 2023,3893806,Spain Women's,Salma Paralluelo Ayingono,4,1,Open Play,Off T,0.16201429,,104.2,41.3
+World Cup 2023,3893806,Zambia W,Barbra Banda,7,1,Open Play,Saved,0.07836999,bd670ed7-bf53-40e4-ba43-2378b05bd20e,105.1,49.8
+World Cup 2023,3893806,Spain Women's,Teresa Abelleira Dueñas,8,1,Open Play,Goal,0.03259676,e44e5283-0575-4f11-ab3e-9623bbb1bc65,95.6,32.4
+World Cup 2023,3893806,Spain Women's,Jennifer Hermoso Fuentes,12,1,Open Play,Goal,0.2791579,3e5d4d4e-80bd-4ce7-a4c0-03efbc2a807f,118.0,45.0
+World Cup 2023,3893806,Zambia W,Barbra Banda,25,1,Open Play,Off T,0.073206976,6fa3ae19-ac4d-4711-9cca-97a7931cf8dc,107.3,25.9
+World Cup 2023,3893806,Spain Women's,Aitana Bonmati Conca,29,1,Open Play,Off T,0.08446716,793f5880-24a2-4b87-baf4-47e59d41cc5c,103.4,39.9
+World Cup 2023,3893806,Spain Women's,Teresa Abelleira Dueñas,33,1,Open Play,Blocked,0.018723778,,90.7,50.3
+World Cup 2023,3893806,Zambia W,Margaret Belemu,42,1,Open Play,Off T,0.016799362,,92.1,52.2
+World Cup 2023,3893806,Spain Women's,Jennifer Hermoso Fuentes,49,1,Open Play,Blocked,0.02777296,99f602d0-8664-4c3a-b83b-cb671cdcfe28,104.8,22.9
+World Cup 2023,3893806,Spain Women's,Aitana Bonmati Conca,49,1,Open Play,Saved,0.20152509,,110.7,39.8
+World Cup 2023,3893806,Spain Women's,Olga  Carmona García,47,2,Open Play,Wayward,0.016861323,,96.2,36.5
+World Cup 2023,3893806,Spain Women's,Aitana Bonmati Conca,51,2,Open Play,Saved,0.08191288,08a3b407-4eb6-4a1c-a35c-8847a646caf8,109.6,38.6
+World Cup 2023,3893806,Zambia W,Barbra Banda,53,2,Open Play,Blocked,0.045867242,0de063b2-663f-4e7d-ac8a-a8526d7865aa,112.6,27.9
+World Cup 2023,3893806,Zambia W,Avell Chitundu,53,2,Open Play,Blocked,0.028689526,,103.5,25.0
+World Cup 2023,3893806,Spain Women's,María Francesca Caldentey Oliver,53,2,Open Play,Off T,0.10375628,025e542e-c239-457d-95fa-bfc4df90d21c,108.8,39.0
+World Cup 2023,3893806,Zambia W,Racheal Kundananji,57,2,Open Play,Blocked,0.06507727,,105.7,43.5
+World Cup 2023,3893806,Spain Women's,Jennifer Hermoso Fuentes,64,2,Open Play,Saved,0.039727252,362a939d-808c-451a-a999-5c568b05fabf,95.1,40.3
+World Cup 2023,3893806,Spain Women's,Irene Guerrero Sanmartín,65,2,Open Play,Wayward,0.117943704,a26bcf05-4ec7-4773-a58b-9467ffa51a93,112.6,42.5
+World Cup 2023,3893806,Spain Women's,Alba María Redondo Ferrer,68,2,Open Play,Goal,0.9280499,08f48d9b-85f3-4434-9d99-59dad4cef8ae,109.8,38.6
+World Cup 2023,3893806,Spain Women's,Irene Guerrero Sanmartín,69,2,Open Play,Post,0.2039183,c270912f-140a-4f63-be20-d0cfb32f3e73,110.2,39.6
+World Cup 2023,3893806,Spain Women's,Jennifer Hermoso Fuentes,70,2,Open Play,Goal,0.6579969,,112.4,34.1
+World Cup 2023,3893806,Spain Women's,Eva Maria Navarro,76,2,Open Play,Saved,0.028138058,f6ccf65b-5955-4342-b50b-6b5aa21e423f,88.4,41.9
+World Cup 2023,3893806,Zambia W,Barbra Banda,79,2,Open Play,Off T,0.0061147055,461fe092-5ecb-43f6-afd0-0bd625fcad0a,106.1,63.9
+World Cup 2023,3893806,Zambia W,Racheal Kundananji,80,2,Open Play,Saved,0.021751266,0339394f-48ad-4182-8817-6bf937690852,93.5,26.0
+World Cup 2023,3893806,Spain Women's,Jennifer Hermoso Fuentes,82,2,Open Play,Saved to Post,0.1488335,,107.9,50.9
+World Cup 2023,3893806,Spain Women's,Irene Paredes Hernandez,83,2,Open Play,Saved,0.049688146,01da2b39-f650-4db1-b414-8b9734802dc7,109.8,38.9
+World Cup 2023,3893806,Spain Women's,Alba María Redondo Ferrer,84,2,Open Play,Goal,0.2468945,1b58d7ae-c916-4c07-8502-031641c7724c,110.5,42.3
+World Cup 2023,3893806,Spain Women's,Alba María Redondo Ferrer,88,2,Open Play,Saved,0.08828718,6dccfb70-5a0d-466d-95ec-d8a9cfd1b766,112.2,39.0
+World Cup 2023,3893806,Zambia W,Avell Chitundu,93,2,Open Play,Wayward,0.050957248,90946abf-882f-46af-845a-a3786e38961e,106.2,41.7
+World Cup 2023,3893806,Zambia W,Racheal Kundananji,98,2,Open Play,Off T,0.019230621,,90.4,31.0
+World Cup 2023,3893806,Spain Women's,Alba María Redondo Ferrer,99,2,Open Play,Saved,0.1982863,b31744b2-a21e-4f15-878c-b37ef749eb8e,111.7,39.9
+World Cup 2023,3893822,Spain Women's,Olga  Carmona García,7,1,Open Play,Blocked,0.0059019052,780ed794-4e9f-4471-b469-2e9928d6ffcc,91.0,17.9
+World Cup 2023,3893822,Japan Women's,Hinata Miyazawa,11,1,Open Play,Goal,0.44954997,f1b769d8-cc4f-46b6-b84d-d39bf249d17a,107.4,37.8
+World Cup 2023,3893822,Spain Women's,Jennifer Hermoso Fuentes,14,1,Open Play,Off T,0.126156,db312752-e6a9-4ea1-9d83-cbf9cd6a9200,106.0,46.5
+World Cup 2023,3893822,Spain Women's,Salma Paralluelo Ayingono,18,1,Open Play,Saved,0.021540344,3121dfde-f1f0-4b42-bf21-137942ac2156,94.1,52.9
+World Cup 2023,3893822,Japan Women's,Riko Ueki,28,1,Open Play,Goal,0.06738577,48fa6a7f-33b2-4691-82a5-d709cd06f0d0,106.0,28.5
+World Cup 2023,3893822,Spain Women's,Jennifer Hermoso Fuentes,35,1,Open Play,Off T,0.17542006,7ed83ab2-e4b2-4107-aaa8-a5e9a9db37db,112.8,38.4
+World Cup 2023,3893822,Spain Women's,Salma Paralluelo Ayingono,38,1,Open Play,Blocked,0.04660454,feba5a89-9123-4007-9b47-0da5d17c2c1f,95.8,40.9
+World Cup 2023,3893822,Japan Women's,Hinata Miyazawa,39,1,Open Play,Goal,0.10757041,6636fff3-887d-4174-8508-f8ec1fb1ac78,106.2,47.6
+World Cup 2023,3893822,Spain Women's,Ona Batlle Pascual,47,2,Open Play,Off T,0.055048987,4d2de1ed-c39d-484e-bb78-246c06a3a97e,108.4,24.2
+World Cup 2023,3893822,Japan Women's,Fuka Nagano,50,2,Open Play,Wayward,0.018613609,,90.1,45.4
+World Cup 2023,3893822,Japan Women's,Hikaru Naomoto,50,2,Open Play,Wayward,0.086030275,bfbbcf66-24d8-45f2-98a0-ac3f55cb9267,108.6,44.6
+World Cup 2023,3893822,Spain Women's,Alexia Putellas Segura,61,2,Open Play,Wayward,0.036463372,ceae8134-9e66-48f0-9c1e-0e4c32a1a625,105.7,45.3
+World Cup 2023,3893822,Spain Women's,Jennifer Hermoso Fuentes,66,2,Open Play,Blocked,0.023764892,c9ec77c5-94e1-45c3-9a0c-f727083e31ef,95.7,38.9
+World Cup 2023,3893822,Spain Women's,Teresa Abelleira Dueñas,70,2,Open Play,Off T,0.03169652,78784f02-a26f-413d-ba6f-a45349971e84,91.8,34.7
+World Cup 2023,3893822,Japan Women's,Mina Tanaka,81,2,Open Play,Goal,0.10904662,bb7992cd-7878-4119-a446-227ebec14ecb,107.1,48.5
+World Cup 2023,3893822,Japan Women's,Hikaru Naomoto,90,2,Free Kick,Off T,0.04397873,,92.8,30.3
+World Cup 2023,3893822,Spain Women's,Esther Gonzalez Rodríguez,92,2,Open Play,Saved,0.056712836,c1f133aa-c59b-4fe2-9d05-61172ef2960a,107.2,47.6
+World Cup 2023,3902967,England Women's,Alessia Russo,10,1,Open Play,Saved,0.0706843,198a2f85-d496-46fc-bac3-89c8ce7154ec,110.4,41.5
+World Cup 2023,3902967,Colombia Women's,María Catalina Usme Pineda,12,1,Open Play,Blocked,0.0070802425,5f696a7c-6618-4f1d-aaa3-f7390844c4a5,88.4,56.9
+World Cup 2023,3902967,Colombia Women's,Linda Lizeth Caicedo Alegría,14,1,Open Play,Off T,0.010289797,,106.8,18.8
+World Cup 2023,3902967,England Women's,Georgia Stanway,26,1,Open Play,Wayward,0.042659197,,102.9,28.0
+World Cup 2023,3902967,England Women's,Rachel Daly,26,1,Open Play,Saved,0.16095053,,113.3,46.1
+World Cup 2023,3902967,England Women's,Rachel Daly,27,1,Open Play,Off T,0.029767895,98a33a79-316d-497f-86e7-d9655f3e4c12,92.7,34.8
+World Cup 2023,3902967,England Women's,Keira Walsh,29,1,Open Play,Off T,0.008784841,,92.1,56.8
+World Cup 2023,3902967,Colombia Women's,Linda Lizeth Caicedo Alegría,37,1,Open Play,Blocked,0.0773239,,108.8,49.2
+World Cup 2023,3902967,Colombia Women's,Diana Carolina Ospina García Pineda,43,1,Open Play,Blocked,0.022713412,62cfbced-eb57-4f6e-a607-191b0f320bf6,93.5,45.5
+World Cup 2023,3902967,Colombia Women's,Leicy Maria Santos Herrera,43,1,Open Play,Goal,0.008386415,433c2f86-41b6-498c-a34e-1cdceb2d23d6,104.4,61.4
+World Cup 2023,3902967,England Women's,Alessia Russo,50,1,Open Play,Saved,0.15431581,,111.5,40.9
+World Cup 2023,3902967,England Women's,Lauren Hemp,50,1,Open Play,Goal,0.8511017,,114.5,37.5
+World Cup 2023,3902967,Colombia Women's,Mayra Tatiana Ramírez Ramírez,45,2,Open Play,Off T,0.044493817,52978e44-367c-43ea-bc8a-871f282028ea,112.6,54.3
+World Cup 2023,3902967,England Women's,Keira Walsh,49,2,Open Play,Off T,0.025151107,,95.7,33.6
+World Cup 2023,3902967,England Women's,Rachel Daly,51,2,Open Play,Saved,0.029347202,add41152-d5dc-4b34-b5c4-7648ed1c1765,111.2,32.9
+World Cup 2023,3902967,England Women's,Alessia Russo,62,2,Open Play,Goal,0.15692398,,111.5,51.2
+World Cup 2023,3902967,Colombia Women's,Lorena Bedoya Durango,70,2,Open Play,Saved,0.006390924,3dcc5907-4ddc-4b66-bf30-96ab5350f578,83.3,42.1
+World Cup 2023,3902967,Colombia Women's,Lorena Bedoya Durango,70,2,Open Play,Off T,0.018964725,,98.9,54.3
+World Cup 2023,3902967,Colombia Women's,Ivonne Chacón,81,2,Open Play,Blocked,0.04766028,5bf1f27d-7e24-4e4c-b4c4-ddd73029df25,104.0,52.3
+World Cup 2023,3902967,Colombia Women's,Ivonne Chacón,81,2,Open Play,Blocked,0.048952382,,115.3,51.9
+World Cup 2023,3902967,Colombia Women's,Leicy Maria Santos Herrera,86,2,Open Play,Saved,0.008472728,c8300ac4-af59-4243-a538-1b3454120847,116.0,56.7
+World Cup 2023,3902967,Colombia Women's,Ivonne Chacón,89,2,Open Play,Blocked,0.0510946,,97.1,42.1
+World Cup 2023,3902967,Colombia Women's,Manuela Vanegas Cataño,93,2,Open Play,Off T,0.009419955,07bcd666-33a2-4efa-a125-5edabdbd0eae,93.7,59.8
+World Cup 2023,3902967,Colombia Women's,Mayra Tatiana Ramírez Ramírez,95,2,Open Play,Off T,0.04604012,,99.2,49.4
+World Cup 2023,3902967,Colombia Women's,Linda Lizeth Caicedo Alegría,96,2,Open Play,Off T,0.028468017,6c400dee-d9b4-41f0-b6ef-5b8339150a2b,106.2,55.1
+World Cup 2023,3902240,Spain Women's,Esther Gonzalez Rodríguez,3,1,Open Play,Wayward,0.14443693,3a27ff6b-cde7-4bd9-aef6-990b22b5e97e,114.7,31.6
+World Cup 2023,3902240,Spain Women's,Alba María Redondo Ferrer,5,1,Open Play,Off T,0.22238187,df0f7cd3-9a15-428e-b729-c967efaf02a5,115.9,35.1
+World Cup 2023,3902240,Spain Women's,Alba María Redondo Ferrer,16,1,Open Play,Saved to Post,0.03859949,b3e91470-4c5c-445c-a5fa-7bd9e552170c,107.5,43.6
+World Cup 2023,3902240,Spain Women's,Alba María Redondo Ferrer,16,1,Open Play,Post,0.5240947,,114.8,36.3
+World Cup 2023,3902240,Spain Women's,Aitana Bonmati Conca,16,1,Open Play,Off T,0.033194557,5e0dcbde-5edf-462b-a8da-306ef5818967,102.3,54.9
+World Cup 2023,3902240,Spain Women's,Esther Gonzalez Rodríguez,21,1,Open Play,Saved,0.05844144,af8ff08b-956a-452e-8ab8-520c38d14323,97.5,36.4
+World Cup 2023,3902240,Spain Women's,Oihane Hernández Zurbano,23,1,Open Play,Blocked,0.029734977,,99.2,50.2
+World Cup 2023,3902240,Spain Women's,María Francesca Caldentey Oliver,24,1,Open Play,Off T,0.08937973,b77c29c3-e457-43b2-b639-4c2d728019af,103.9,31.3
+World Cup 2023,3902240,Spain Women's,Alba María Redondo Ferrer,36,1,Open Play,Wayward,0.38677457,3e93ad3f-c420-4bf9-ae19-d3beaefb42e5,115.2,43.6
+World Cup 2023,3902240,Netherlands Women's,Lineth Beerensteyn,41,1,Open Play,Wayward,0.04837167,25466cea-86e6-4ce0-b458-509ba8fcf203,106.2,43.9
+World Cup 2023,3902240,Spain Women's,Esther Gonzalez Rodríguez,41,1,Open Play,Saved,0.07333847,5cd6eac7-6acb-465d-bdcc-c80d571b5e06,111.8,27.9
+World Cup 2023,3902240,Spain Women's,María Francesca Caldentey Oliver,42,1,Open Play,Blocked,0.052104224,bf6f9871-4e85-4ddb-a1e6-be47b9d58e0b,100.6,32.9
+World Cup 2023,3902240,Spain Women's,Ona Batlle Pascual,46,1,Open Play,Off T,0.040248107,a89d0043-8ab6-4fbe-8ea5-95ad8455a575,97.1,35.2
+World Cup 2023,3902240,Spain Women's,Esther Gonzalez Rodríguez,45,2,Open Play,Off T,0.040385142,1b007923-546c-47bc-928b-97772ba37f60,98.3,31.4
+World Cup 2023,3902240,Spain Women's,María Francesca Caldentey Oliver,49,2,Open Play,Saved,0.051465176,,96.6,42.0
+World Cup 2023,3902240,Spain Women's,Teresa Abelleira Dueñas,72,2,Open Play,Saved,0.03383508,cdd6d223-558c-477d-a5bf-95d684c254d1,97.4,40.8
+World Cup 2023,3902240,Spain Women's,María Francesca Caldentey Oliver,80,2,Penalty,Goal,0.7835,,108.1,40.1
+World Cup 2023,3902240,Spain Women's,Teresa Abelleira Dueñas,83,2,Free Kick,Saved,0.00345618,,64.7,37.7
+World Cup 2023,3902240,Netherlands Women's,Lineth Beerensteyn,85,2,Open Play,Saved,0.07972172,4f7c44e7-8117-4470-aa3a-0e8aebecd28b,107.5,28.1
+World Cup 2023,3902240,Spain Women's,Irene Guerrero Sanmartín,86,2,Open Play,Blocked,0.060568072,63bcf998-037e-4544-b1e6-08e157cb8414,103.8,31.0
+World Cup 2023,3902240,Netherlands Women's,Lieke Martens,87,2,Open Play,Blocked,0.02258136,48657dbc-fd17-4dea-8e6c-0a3d77ea9d0a,87.5,40.0
+World Cup 2023,3902240,Netherlands Women's,Lineth Beerensteyn,89,2,Open Play,Off T,0.13543259,edc6dd1b-9068-4b9d-829a-33d42af5ceda,107.7,29.9
+World Cup 2023,3902240,Netherlands Women's,Stephanie van der Gragt,90,2,Open Play,Goal,0.122056566,7520f631-e410-4b33-8415-cd301350c866,102.8,50.4
+World Cup 2023,3902240,Netherlands Women's,Lieke Martens,96,2,Open Play,Blocked,0.017723834,b840e006-1d20-4f70-9e26-2e0c8d852701,91.6,30.4
+World Cup 2023,3902240,Netherlands Women's,Lineth Beerensteyn,90,3,Open Play,Saved,0.008550724,27a7c0bf-0e72-4bc8-a6da-f088a8e1ac19,111.2,58.9
+World Cup 2023,3902240,Spain Women's,Jennifer Hermoso Fuentes,97,3,Open Play,Off T,0.034499478,,96.0,32.2
+World Cup 2023,3902240,Spain Women's,Jennifer Hermoso Fuentes,101,3,Open Play,Saved,0.051358912,f6f14813-eae7-459c-baff-1e4e91b93de9,108.6,34.0
+World Cup 2023,3902240,Spain Women's,Alexia Putellas Segura,103,3,Open Play,Blocked,0.033061434,9e1c69be-a090-4a18-8bb6-9c6824db133e,93.6,42.2
+World Cup 2023,3902240,Spain Women's,Jennifer Hermoso Fuentes,104,3,Open Play,Blocked,0.031573072,51dca780-8419-4541-8da9-857595a4ab30,116.4,29.1
+World Cup 2023,3902240,Spain Women's,Eva Maria Navarro,106,3,Open Play,Blocked,0.03088722,,97.8,37.4
+World Cup 2023,3902240,Spain Women's,Salma Paralluelo Ayingono,106,4,Open Play,Off T,0.04091641,b96a0e65-6ba1-425e-817c-60a5e4b46362,107.8,38.7
+World Cup 2023,3902240,Netherlands Women's,Lineth Beerensteyn,106,4,Open Play,Off T,0.3919237,16810c1c-c8b0-40ae-8973-4242758f0f1c,108.2,32.6
+World Cup 2023,3902240,Netherlands Women's,Lineth Beerensteyn,110,4,Open Play,Off T,0.12150329,,113.5,46.1
+World Cup 2023,3902240,Spain Women's,Salma Paralluelo Ayingono,110,4,Open Play,Goal,0.1592916,348aab42-2aa2-4e9f-bfd3-f073e7b1a5fa,106.4,30.3
+World Cup 2023,3902240,Spain Women's,Irene Paredes Hernandez,115,4,Open Play,Wayward,0.055245247,5f5e1a1d-7fc1-4ad2-b04d-0ce42daa007e,112.9,46.2
+World Cup 2023,3902240,Spain Women's,Jennifer Hermoso Fuentes,118,4,Open Play,Blocked,0.031534813,,102.7,53.2
+World Cup 2023,3902240,Spain Women's,Eva Maria Navarro,120,4,Open Play,Off T,0.1292109,3f2d7544-2620-42e9-b06a-4c2c2d2de577,117.0,47.7
+World Cup 2023,3901735,Nigeria Women's,Uchenna Kanu,9,1,Open Play,Blocked,0.049410958,6750e011-93a0-49c7-9f12-4c1ebe8aae63,110.7,36.1
+World Cup 2023,3901735,Nigeria Women's,Michelle Alozie,12,1,Open Play,Blocked,0.022562722,3615d61b-3441-4229-ad8a-986969e3fafa,107.5,39.4
+World Cup 2023,3901735,Nigeria Women's,Halimatu Ibrahim Ayinde,12,1,Open Play,Off T,0.01494946,,95.5,26.5
+World Cup 2023,3901735,Nigeria Women's,Ashleigh Plumptre,15,1,Open Play,Post,0.016953962,,99.5,23.6
+World Cup 2023,3901735,Nigeria Women's,Uchenna Kanu,16,1,Open Play,Blocked,0.06785259,,103.1,40.5
+World Cup 2023,3901735,Nigeria Women's,Ashleigh Plumptre,16,1,Open Play,Saved,0.043711755,,103.8,27.9
+World Cup 2023,3901735,England Women's,Alessia Russo,22,1,Open Play,Saved,0.08207539,,92.9,38.9
+World Cup 2023,3901735,England Women's,Lauren James,26,1,Open Play,Blocked,0.04775729,057f3cb8-8afb-499c-8fd6-ab40d112d73c,107.3,34.5
+World Cup 2023,3901735,England Women's,Rachel Daly,27,1,Open Play,Saved,0.073049225,,110.3,44.0
+World Cup 2023,3901735,Nigeria Women's,Rasheedat Busayo Ajibade,35,1,Open Play,Blocked,0.12706098,3a37e980-b38d-461e-97fc-470f89c1fb9b,109.9,45.1
+World Cup 2023,3901735,Nigeria Women's,Christy Onyenaturuchi Ucheibe,35,1,Open Play,Blocked,0.042685032,,107.6,42.7
+World Cup 2023,3901735,Nigeria Women's,Ashleigh Plumptre,36,1,Open Play,Off T,0.09905145,4b41b61f-93c8-4414-ba8c-41cce87433a7,113.3,41.0
+World Cup 2023,3901735,England Women's,Lauren James,38,1,Open Play,Off T,0.025367692,,97.1,43.6
+World Cup 2023,3901735,England Women's,Lauren James,40,1,Open Play,Off T,0.036370013,,101.1,45.0
+World Cup 2023,3901735,Nigeria Women's,Uchenna Kanu,46,2,Open Play,Post,0.04244079,3f809fa4-a0b2-4098-a52b-7d9d5e5367c2,113.0,49.2
+World Cup 2023,3901735,Nigeria Women's,Ashleigh Plumptre,51,2,Open Play,Wayward,0.095090285,dbccf4e1-a5ae-4209-9699-e4547dbcfb80,113.1,36.7
+World Cup 2023,3901735,England Women's,Alessia Russo,55,2,Open Play,Off T,0.08009094,b2f0ee59-bd46-4bbe-a6f6-b9c9706dbe60,112.0,44.9
+World Cup 2023,3901735,England Women's,Rachel Daly,59,2,Open Play,Off T,0.07395002,81c9e076-72ca-4f82-99a2-0677b221afa1,109.6,37.9
+World Cup 2023,3901735,England Women's,Lauren Hemp,65,2,Open Play,Blocked,0.040967505,,107.9,53.1
+World Cup 2023,3901735,Nigeria Women's,Uchenna Kanu,71,2,Open Play,Off T,0.06598138,361ea9a9-3f99-4612-845e-2ee0525ec29e,111.7,37.9
+World Cup 2023,3901735,England Women's,Rachel Daly,75,2,Open Play,Saved,0.08009553,1ef87804-c550-481c-8f73-e2e33546dd23,112.8,44.0
+World Cup 2023,3901735,England Women's,Alessia Russo,75,2,Open Play,Saved,0.11269567,,119.3,34.8
+World Cup 2023,3901735,England Women's,Alessia Russo,76,2,Open Play,Wayward,0.03963421,53a3e6f9-08d4-49c1-92f2-a8b81fc0939e,106.3,31.1
+World Cup 2023,3901735,Nigeria Women's,Asisat Lamina Oshoala,78,2,Open Play,Off T,0.027239818,55b1463f-cbf1-4528-89af-33611aa84548,103.0,33.9
+World Cup 2023,3901735,Nigeria Women's,Christy Onyenaturuchi Ucheibe,79,2,Open Play,Wayward,0.049372256,1dc5c4dc-3efd-4f90-b729-6524335e9fdc,106.8,42.2
+World Cup 2023,3901735,Nigeria Women's,Asisat Lamina Oshoala,81,2,Open Play,Off T,0.060821272,e35718ad-906c-4ae8-bbec-635596e2d428,111.4,36.5
+World Cup 2023,3901735,Nigeria Women's,Michelle Alozie,97,3,Open Play,Off T,0.13878942,447599a8-8673-43f2-bf73-d012a86275ad,114.0,28.8
+World Cup 2023,3901735,Nigeria Women's,Francisca Ordega,107,4,Open Play,Blocked,0.052757103,,99.8,37.1
+World Cup 2023,3901735,Nigeria Women's,Francisca Ordega,109,4,Open Play,Off T,0.019646171,ee4bae33-c196-48e0-8d9f-47c3b42d5abb,118.4,49.6
+World Cup 2023,3901735,Nigeria Women's,Asisat Lamina Oshoala,116,4,Open Play,Saved,0.054839656,0857ff88-9b40-4183-a5ca-661af20efdbb,109.7,28.7
+World Cup 2023,3901735,England Women's,Bethany England,118,4,Open Play,Off T,0.058940116,0840db10-17a7-4eb3-9eaf-eeadda192cad,109.9,41.3
+World Cup 2023,3893811,England Women's,Lauren James,5,1,Open Play,Goal,0.07243475,f4f71f5b-fcad-4b0c-bbf4-1711633fde1b,97.9,35.7
+World Cup 2023,3893811,England Women's,Chloe Kelly,9,1,Open Play,Off T,0.10478544,,116.1,47.6
+World Cup 2023,3893811,England Women's,Lauren James,19,1,Open Play,Saved,0.07732589,dd2322ab-ad9e-4f90-9ceb-7cbabe3b290e,106.1,29.8
+World Cup 2023,3893811,England Women's,Lauren James,20,1,Open Play,Saved,0.24342029,5540a5d9-179c-4c8a-89cb-03bffa4cfd6f,112.8,37.0
+World Cup 2023,3893811,England Women's,Ella Toone,21,1,Open Play,Saved,0.04471587,85bab7af-cd30-427f-965e-30402bfb1b08,97.5,39.1
+World Cup 2023,3893811,Denmark Women's,Rikke Marie Madsen,23,1,Open Play,Off T,0.092304274,46f52f6f-2442-4abd-b59e-e221e3c1a76a,112.8,51.4
+World Cup 2023,3893811,Denmark Women's,Janni Thomsen,25,1,Open Play,Off T,0.03770529,89a35ee7-7115-4313-9861-9cc21fb841c8,105.4,53.6
+World Cup 2023,3893811,Denmark Women's,Pernille Mosegaard Harder,27,1,Open Play,Saved,0.056541204,96b820b8-a713-451a-b86a-9a3674fd8ef7,105.2,26.0
+World Cup 2023,3893811,England Women's,Lucy Bronze,29,1,Open Play,Off T,0.026730772,99641c94-98f4-4ae6-8a10-c77d58ef477e,107.8,28.5
+World Cup 2023,3893811,Denmark Women's,Pernille Mosegaard Harder,40,1,Open Play,Wayward,0.10609927,801fa678-8ade-48fc-96e6-3f359a25cc6a,109.5,52.7
+World Cup 2023,3893811,England Women's,Alessia Russo,46,2,Open Play,Wayward,0.13232826,f75c63ed-0274-45fa-8793-d84f16e6a879,113.7,42.0
+World Cup 2023,3893811,England Women's,Ella Toone,46,2,Open Play,Off T,0.09051933,38c75cc1-113a-4370-9df4-ee87ac4be2bd,110.2,38.6
+World Cup 2023,3893811,Denmark Women's,Kathrine Møller Kühl,51,2,Open Play,Saved,0.08329005,27d8ee9d-b770-4487-ad91-b98ee746479d,107.2,47.5
+World Cup 2023,3893811,England Women's,Lucy Bronze,56,2,Open Play,Off T,0.03859174,05279367-8269-49ee-950d-5911dbb0d4f7,110.5,46.9
+World Cup 2023,3893811,England Women's,Alessia Russo,70,2,Open Play,Off T,0.07694348,1fe03d87-ed90-4318-8b25-ae1137256423,105.6,52.0
+World Cup 2023,3893811,England Women's,Bethany England,81,2,Open Play,Off T,0.09825926,ebe4515d-98a1-4ce3-87b5-9c38591f0aef,111.7,41.8
+World Cup 2023,3893811,England Women's,Lucy Bronze,84,2,Open Play,Off T,0.008776014,c14b69c9-31d4-4f84-b909-0ffdb536d43c,92.9,57.1
+World Cup 2023,3893811,Denmark Women's,Amalie Jørgensen Vangsgaard,86,2,Open Play,Post,0.14567088,12f952fc-f3c0-41c8-91c2-137cff0a08d3,111.6,39.3
+World Cup 2023,3893794,England Women's,Lucy Bronze,3,1,Open Play,Blocked,0.08104876,0928baf6-ccf3-4dd6-89c2-5710556a425a,113.2,44.2
+World Cup 2023,3893794,England Women's,Chloe Kelly,3,1,Open Play,Saved,0.025258766,,92.8,35.3
+World Cup 2023,3893794,England Women's,Alessia Russo,5,1,Open Play,Saved,0.15860558,,104.6,31.8
+World Cup 2023,3893794,England Women's,Georgia Stanway,12,1,Open Play,Off T,0.05858639,3f0f34fb-6ebd-404b-a107-7952169f1507,102.9,38.8
+World Cup 2023,3893794,Haiti Women's,Roselord Borgella,13,1,Open Play,Off T,0.18853174,c1f94339-e4d5-4190-a70e-f1b4a08739c8,105.8,29.7
+World Cup 2023,3893794,England Women's,Georgia Stanway,28,1,Penalty,Goal,0.7835,,108.0,40.0
+World Cup 2023,3893794,England Women's,Alessia Russo,37,1,Open Play,Saved,0.0075236983,e2fb4cb7-035c-49d4-9d4d-3bb060db580b,115.3,22.6
+World Cup 2023,3893794,England Women's,Lauren Hemp,39,1,Open Play,Saved,0.13753812,b8f0139d-cbf4-41af-97d9-5f6f3fd54ed7,109.7,36.5
+World Cup 2023,3893794,England Women's,Alessia Russo,42,1,Open Play,Off T,0.2101682,d3dbca23-e51d-4ce9-b3b5-4fd55b9463e0,112.6,39.5
+World Cup 2023,3893794,Haiti Women's,Roselord Borgella,47,1,Open Play,Blocked,0.009715613,45ba410b-fee4-4210-adb9-99307b738c48,113.1,58.4
+World Cup 2023,3893794,Haiti Women's,Roselord Borgella,49,1,Open Play,Off T,0.08505523,0ba18de0-d120-40f7-8498-12ae630fe1d7,110.0,40.1
+World Cup 2023,3893794,England Women's,Ella Toone,52,1,Open Play,Blocked,0.02811158,0c3b2a60-4bd0-4460-b110-044611cfeb8f,92.7,36.7
+World Cup 2023,3893794,Haiti Women's,Melchie Daëlle Dumornay,49,2,Open Play,Saved,0.030280057,,102.1,25.6
+World Cup 2023,3893794,Haiti Women's,Nérilia Mondesir,55,2,Open Play,Off T,0.0101216985,,83.9,28.2
+World Cup 2023,3893794,England Women's,Alessia Russo,57,2,Open Play,Saved,0.03236095,,107.9,28.3
+World Cup 2023,3893794,England Women's,Alessia Russo,57,2,Open Play,Saved,0.1154182,b1e99be3-1337-406e-9722-e83827b23f09,107.1,48.3
+World Cup 2023,3893794,England Women's,Chloe Kelly,62,2,Open Play,Blocked,0.056219127,813b3567-c834-43bf-8f09-f4abb7a04a1e,108.6,51.0
+World Cup 2023,3893794,England Women's,Alessia Russo,63,2,Open Play,Saved,0.10353223,d6874dd2-cd5d-43a2-ae3f-5fcf9d3cea15,110.9,38.2
+World Cup 2023,3893794,England Women's,Millie Bright,63,2,Open Play,Off T,0.07230584,,109.3,39.8
+World Cup 2023,3893794,England Women's,Chloe Kelly,69,2,Open Play,Off T,0.06743093,,99.0,44.0
+World Cup 2023,3893794,England Women's,Rachel Daly,78,2,Open Play,Saved,0.3721412,a763b0b3-2b55-4d25-94c4-b73b8260a632,114.8,39.3
+World Cup 2023,3893794,England Women's,Chloe Kelly,80,2,Open Play,Saved,0.041995,,111.0,55.3
+World Cup 2023,3893794,Haiti Women's,Roseline Éloissaint,80,2,Open Play,Saved,0.3046419,a71d35a0-ca8d-4ed7-af1d-e17f6b60e170,108.6,31.3
+World Cup 2023,3893794,England Women's,Rachel Daly,81,2,Open Play,Saved,0.069789,61bd12b6-fbda-40e3-9301-ea90fb093319,110.4,42.0
+World Cup 2023,3893794,England Women's,Georgia Stanway,82,2,Open Play,Off T,0.043783776,,96.1,43.9
+World Cup 2023,3893794,England Women's,Georgia Stanway,87,2,Open Play,Off T,0.058428064,4ef65619-e53e-48bd-a6f7-3fecc3273c93,99.0,45.3
+World Cup 2023,3893794,Haiti Women's,Roseline Éloissaint,90,2,Open Play,Off T,0.017055107,,92.3,44.1
+World Cup 2023,3893828,England Women's,Alessia Russo,3,1,Open Play,Goal,0.07538022,8654e926-45f1-4edb-8a5f-239e671ca5ed,105.6,32.1
+World Cup 2023,3893828,England Women's,Lauren Hemp,12,1,Open Play,Off T,0.1771403,eb1ca9d1-b3bc-41d4-b247-c3fee3bd8991,107.8,42.4
+World Cup 2023,3893828,England Women's,Lauren Hemp,25,1,Open Play,Goal,0.3977347,b34dedf9-dca2-425f-9619-6a6d5ba853bd,103.5,45.3
+World Cup 2023,3893828,England Women's,Lucy Bronze,32,1,Open Play,Post,0.028552078,211b8097-52f1-43d2-be4f-de8417884929,107.4,43.7
+World Cup 2023,3893828,England Women's,Lucy Bronze,32,1,Open Play,Off T,0.13967149,,111.1,35.8
+World Cup 2023,3893828,England Women's,Georgia Stanway,35,1,Open Play,Saved,0.059219394,36b69527-5f9c-4c4f-83a2-93d89fe1cc24,113.1,48.8
+World Cup 2023,3893828,England Women's,Alessia Russo,36,1,Open Play,Blocked,0.03964686,821a9fdd-d816-4491-9f4e-63042f6c94c0,105.9,40.7
+World Cup 2023,3893828,England Women's,Lauren James,40,1,Open Play,Goal,0.046515923,5fdad6ab-5fa0-4ed6-802c-fce759e58503,100.1,44.9
+World Cup 2023,3893828,England Women's,Lauren Hemp,47,1,Open Play,Blocked,0.106274225,d4cd36a9-bca6-4625-9651-3d0ee7023273,113.7,45.4
+World Cup 2023,3893828,China PR Women's,Chengshu Wu,52,2,Open Play,Saved,0.02235899,69e02472-ea36-4afb-82d3-a94e62d0f3ca,87.4,40.0
+World Cup 2023,3893828,China PR Women's,Lina Yang,52,2,Open Play,Blocked,0.058068994,c11055af-13a4-487c-ac2d-28ec4476e2da,115.1,31.5
+World Cup 2023,3893828,China PR Women's,Shuang Wang,56,2,Penalty,Goal,0.7835,,108.1,40.1
+World Cup 2023,3893828,China PR Women's,Lina Yang,60,2,Open Play,Off T,0.01971857,8370b688-10c5-42ab-9759-5d825a850e8d,86.8,31.8
+World Cup 2023,3893828,England Women's,Lauren James,65,2,Open Play,Goal,0.109001376,fe33a662-1600-4b08-931e-2ebe6a8f1c6d,111.1,29.7
+World Cup 2023,3893828,England Women's,Chloe Kelly,71,2,Open Play,Blocked,0.07274111,a14d7bb4-ff6a-4ca3-a9bc-1c88c7de3d3a,107.2,42.2
+World Cup 2023,3893828,England Women's,Rachel Daly,72,2,Open Play,Off T,0.046875264,38788c93-821d-4f96-8ccb-fa21c2469adc,109.7,42.0
+World Cup 2023,3893828,England Women's,Chloe Kelly,76,2,Open Play,Goal,0.4459498,47feb70d-f49d-4e04-a9c0-d2967e48dc84,109.3,55.0
+World Cup 2023,3893828,China PR Women's,Lina Yang,81,2,Open Play,Wayward,0.024290835,,98.5,26.6
+World Cup 2023,3893828,England Women's,Laura Coombs,83,2,Open Play,Wayward,0.08081754,,110.2,41.5
+World Cup 2023,3893828,England Women's,Rachel Daly,83,2,Open Play,Goal,0.354045,,114.7,35.0
+World Cup 2023,3893828,China PR Women's,Qiaozhu Chen,86,2,Open Play,Saved,0.053179335,,101.9,31.7
+World Cup 2023,3893828,England Women's,Laura Coombs,95,2,Open Play,Off T,0.054631677,24cf0972-7183-44e0-ae36-f3f6eaf270f6,97.6,31.5
+World Cup 2023,3893828,China PR Women's,Mengyu Shen,97,2,Open Play,Off T,0.054794405,6f6fecb1-945a-46ab-b7be-c7b7676f47c1,102.9,31.3
+World Cup 2023,3893828,England Women's,Laura Coombs,99,2,Open Play,Off T,0.026919903,500de0c9-ce6a-4886-b6ef-5689050902d3,93.0,34.0
+Euro 2025,4020846,England Women's,Alessia Russo,2,1,Open Play,Saved,0.064152695,3ff53ce7-2e72-4de7-9a3f-35c3df859a15,111.1,54.8
+Euro 2025,4020846,Spain Women's,Esther Gonzalez Rodríguez,8,1,Open Play,Saved,0.13043691,61739ef8-0094-422b-8b7b-092c71f9719c,115.4,31.1
+Euro 2025,4020846,Spain Women's,Esther Gonzalez Rodríguez,10,1,Open Play,Off T,0.102304906,91909ea7-07e5-4ebc-b6a1-81c1e39540f7,107.5,35.5
+Euro 2025,4020846,Spain Women's,Athenea del Castillo Belvide,12,1,Open Play,Blocked,0.06726146,47119040-ab7e-4beb-b57a-79f69674bc6d,103.5,43.2
+Euro 2025,4020846,England Women's,Georgia Stanway,13,1,Open Play,Saved,0.059948444,,97.4,41.0
+Euro 2025,4020846,England Women's,Lauren Hemp,18,1,Open Play,Saved,0.33025032,,114.7,49.0
+Euro 2025,4020846,Spain Women's,María Francesca Caldentey Oliver,20,1,Open Play,Off T,0.05230889,9fe3ea1c-e03d-4efe-a9d4-faa147e1b055,99.9,39.3
+Euro 2025,4020846,Spain Women's,María Francesca Caldentey Oliver,24,1,Open Play,Goal,0.39565173,d854dd9a-01c9-405b-9571-9d5da15c3e6e,113.5,38.7
+Euro 2025,4020846,England Women's,Keira Walsh,25,1,Open Play,Off T,0.05250558,,99.2,46.9
+Euro 2025,4020846,Spain Women's,Athenea del Castillo Belvide,38,1,Open Play,Blocked,0.028371284,,105.0,55.3
+Euro 2025,4020846,Spain Women's,Esther Gonzalez Rodríguez,40,1,Open Play,Off T,0.071709156,384034f5-1cd5-461f-aa5c-e7309be24046,114.0,46.3
+Euro 2025,4020846,England Women's,Ella Toone,42,1,Open Play,Blocked,0.053554766,a16f6fdc-7425-47c5-8ab8-3fe66abdb728,111.3,31.6
+Euro 2025,4020846,England Women's,Chloe Kelly,42,1,Open Play,Off T,0.035818726,65a91676-072b-4c43-a2e3-53a8308b651c,102.5,25.4
+Euro 2025,4020846,Spain Women's,Aitana Bonmati Conca,49,2,Open Play,Saved,0.06397601,8dd0e865-7b1e-48d5-89fe-c85a0f5c88a6,109.2,51.0
+Euro 2025,4020846,Spain Women's,María Francesca Caldentey Oliver,51,2,Open Play,Saved,0.09936041,d39bd302-a28b-4c36-b372-9fd2f2d1a192,100.6,36.8
+Euro 2025,4020846,Spain Women's,Alexia Putellas Segura,54,2,Open Play,Off T,0.069629654,22a14b7d-3e4a-47cc-a269-e66359609dea,101.1,31.2
+Euro 2025,4020846,England Women's,Alessia Russo,56,2,Open Play,Goal,0.21345341,db626a91-7cc9-4acd-888e-2e866371d751,113.0,40.1
+Euro 2025,4020846,Spain Women's,Irene Paredes Hernandez,59,2,Open Play,Saved,0.053009905,4519231c-9e3e-4ee1-ab7b-730c12d7a2b9,109.0,51.2
+Euro 2025,4020846,Spain Women's,Aitana Bonmati Conca,60,2,Open Play,Blocked,0.04057705,,103.2,51.8
+Euro 2025,4020846,Spain Women's,Athenea del Castillo Belvide,66,2,Open Play,Off T,0.019895604,60e19fec-3a78-4390-8b40-59fa4e7781d3,114.2,54.5
+Euro 2025,4020846,England Women's,Chloe Kelly,68,2,Open Play,Saved,0.07282392,83187bb0-4bf7-459e-a609-2d62fc58dd21,105.9,27.6
+Euro 2025,4020846,Spain Women's,Claudia Pina Medina,73,2,Open Play,Saved,0.08416592,b5e07b11-0e35-4e87-9561-a8d0df7fd31b,113.1,27.0
+Euro 2025,4020846,Spain Women's,Salma Paralluelo Ayingono,89,2,Open Play,Blocked,0.028666293,b2acc7c8-a719-4a5e-9f38-460f64e1d105,106.5,24.8
+Euro 2025,4020846,Spain Women's,Aitana Bonmati Conca,90,2,Open Play,Blocked,0.056714322,231113de-5e39-4f1a-9cb4-0ca90cafd0f6,100.9,41.4
+Euro 2025,4020846,Spain Women's,Salma Paralluelo Ayingono,90,2,Open Play,Off T,0.0127668,a84ab79f-2903-4ecd-b08b-eab238bbd789,101.3,25.1
+Euro 2025,4020846,Spain Women's,Victoria López,92,2,Open Play,Off T,0.063361704,ec326be0-b5ec-47a3-86f9-0aec142fac02,103.7,49.4
+Euro 2025,4020846,Spain Women's,Aitana Bonmati Conca,96,3,Open Play,Blocked,0.05549369,1afdc32e-c782-46f2-970c-ffe811881842,99.9,32.8
+Euro 2025,4020846,Spain Women's,Claudia Pina Medina,100,3,Open Play,Off T,0.05386765,a3d8f274-c766-4804-8fc8-1b835627bfaa,106.3,24.5
+Euro 2025,4020846,Spain Women's,Salma Paralluelo Ayingono,106,3,Open Play,Wayward,0.4002116,a60b8e8d-ca3c-43d6-81ad-8dc7dff7752a,116.5,44.0
+Euro 2025,4020846,Spain Women's,Victoria López,112,4,Open Play,Off T,0.08461461,a550bce6-cc58-42b1-88b4-c12fa3bf299a,107.1,49.8
+Euro 2025,4020846,Spain Women's,Victoria López,116,4,Open Play,Wayward,0.10162451,d2199caa-761c-48fa-b75d-877bb4a2ab1e,114.6,46.2
+Euro 2025,4020077,Germany Women's,Klara Bühl,7,1,Open Play,Off T,0.20976903,c7ee8a4e-e823-4d35-9661-11ee38d952ac,108.0,27.3
+Euro 2025,4020077,Spain Women's,Patricia Guijarro Gutiérrez,10,1,Open Play,Off T,0.005040969,7c141a66-9ff8-4682-bbec-abdc14706565,63.9,61.3
+Euro 2025,4020077,Germany Women's,Klara Bühl,15,1,Open Play,Blocked,0.043281805,d0d6f5cd-4c43-4fbf-a556-2642033206a8,100.9,34.0
+Euro 2025,4020077,Spain Women's,Esther Gonzalez Rodríguez,20,1,Open Play,Saved,0.08233168,,107.3,38.9
+Euro 2025,4020077,Spain Women's,Irene Paredes Hernandez,21,1,Open Play,Saved,0.04988868,cc6f4bce-75c4-4cf7-8412-4f5af85b5198,111.0,31.6
+Euro 2025,4020077,Spain Women's,Patricia Guijarro Gutiérrez,25,1,Open Play,Blocked,0.03658376,,103.1,49.4
+Euro 2025,4020077,Spain Women's,Alexia Putellas Segura,39,1,Open Play,Off T,0.17278403,4c55f1c7-f820-404b-966c-f3b2ff6a580a,116.3,35.0
+Euro 2025,4020077,Spain Women's,Esther Gonzalez Rodríguez,40,1,Open Play,Blocked,0.084796146,fd5a485d-b710-43c0-895b-e3a5d872c17e,114.7,46.1
+Euro 2025,4020077,Spain Women's,Irene Paredes Hernandez,40,1,Open Play,Post,0.04396061,7406229c-e14c-4538-89c4-426b71162c9c,109.6,38.0
+Euro 2025,4020077,Spain Women's,Esther Gonzalez Rodríguez,40,1,Open Play,Off T,0.3107112,,115.2,39.9
+Euro 2025,4020077,Spain Women's,María Francesca Caldentey Oliver,44,1,Open Play,Saved,0.06915594,23b00573-698d-4368-99e4-931570a5d9a4,105.0,45.6
+Euro 2025,4020077,Spain Women's,Olga  Carmona García,44,1,Open Play,Off T,0.030036984,f5f15669-5c94-40d4-956a-385bbd618e99,93.6,35.1
+Euro 2025,4020077,Spain Women's,Esther Gonzalez Rodríguez,45,1,Open Play,Saved,0.18889953,bfc14ef3-26d1-4855-95e3-475bfa4d6119,106.9,30.9
+Euro 2025,4020077,Spain Women's,Claudia Pina Medina,45,1,Open Play,Saved,0.09843508,,106.2,27.6
+Euro 2025,4020077,Germany Women's,Giovanna Hoffmann,45,2,Open Play,Off T,0.054050487,8433ec57-7679-41cc-9664-fdee34165499,106.9,38.3
+Euro 2025,4020077,Germany Women's,Jule Brand,48,2,Open Play,Blocked,0.06011534,1ae588a3-58e9-412b-9ab9-0341da324836,107.2,30.5
+Euro 2025,4020077,Spain Women's,Ona Batlle Pascual,51,2,Open Play,Saved,0.09381584,fc2df6fa-4656-4b6b-85a9-14e42a4a1a90,115.9,50.9
+Euro 2025,4020077,Spain Women's,Aitana Bonmati Conca,57,2,Open Play,Blocked,0.078253016,2d9e858c-3b2c-4283-a031-664ca5069c0c,104.2,50.3
+Euro 2025,4020077,Germany Women's,Klara Bühl,62,2,Open Play,Saved,0.08342617,8ce9124e-b239-48ed-b003-937535339668,110.4,28.7
+Euro 2025,4020077,Spain Women's,Aitana Bonmati Conca,68,2,Open Play,Off T,0.044805977,,99.2,47.3
+Euro 2025,4020077,Spain Women's,Patricia Guijarro Gutiérrez,74,2,Open Play,Blocked,0.028161207,0f550d21-b678-4fca-99e9-0b2ffc88253a,95.3,51.4
+Euro 2025,4020077,Germany Women's,Klara Bühl,84,2,Free Kick,Off T,0.06713743,,94.4,38.2
+Euro 2025,4020077,Spain Women's,Salma Paralluelo Ayingono,90,2,Open Play,Saved,0.051607855,2a9b8dac-47cd-4c45-b59e-64276b517445,110.6,32.6
+Euro 2025,4020077,Germany Women's,Klara Bühl,93,2,Open Play,Saved,0.040261835,1981af16-af50-421e-b5c4-f9b3d00b4876,99.2,36.5
+Euro 2025,4020077,Germany Women's,Carlotta Wamser,93,2,Open Play,Saved,0.09745167,,115.3,50.8
+Euro 2025,4020077,Germany Women's,Elisa Senß,94,2,Open Play,Wayward,0.022884615,,95.2,45.5
+Euro 2025,4020077,Germany Women's,Jule Brand,94,2,Open Play,Off T,0.051213812,,108.6,47.5
+Euro 2025,4020077,Germany Women's,Carlotta Wamser,91,3,Open Play,Off T,0.053367198,defe1d74-0ddb-4d25-892b-f22977a8dd56,103.6,52.9
+Euro 2025,4020077,Spain Women's,Athenea del Castillo Belvide,99,3,Open Play,Off T,0.2696923,364ecaf2-bd1a-4694-afcb-3656dd40a4b8,109.2,40.5
+Euro 2025,4020077,Spain Women's,Cristina Martín-Prieto Gutierrez,103,3,Open Play,Blocked,0.056027897,b5c26af4-7d4c-4130-af49-1ecca5a29aed,109.3,41.7
+Euro 2025,4020077,Spain Women's,Patricia Guijarro Gutiérrez,104,3,Open Play,Off T,0.05297924,654744ac-7643-470f-9f36-762990518814,109.3,38.5
+Euro 2025,4020077,Germany Women's,Elisa Senß,107,4,Open Play,Wayward,0.020334862,,91.9,45.3
+Euro 2025,4020077,Germany Women's,Klara Bühl,109,4,Open Play,Blocked,0.035721008,f9165efa-feb7-44f6-a3b8-2968fe4a27ff,110.7,26.5
+Euro 2025,4020077,Spain Women's,Aitana Bonmati Conca,112,4,Open Play,Goal,0.013613528,ce889213-8733-4b7a-a03e-2c94dc2268d5,116.8,54.8
+Euro 2025,4020077,Germany Women's,Lea Schüller,117,4,Open Play,Saved,0.032885715,34a3a2e6-6de5-4887-8013-2736cd5031f6,92.4,35.6
+Euro 2025,4020077,Germany Women's,Selina Cerci,117,4,Open Play,Off T,0.05454805,8346c78b-c2b1-4fcb-a3a2-f1e3df39405f,109.5,36.7
+Euro 2025,4020077,Spain Women's,Salma Paralluelo Ayingono,120,4,Open Play,Saved,0.101391226,,103.7,28.8
+Euro 2025,4020005,England Women's,Lauren James,10,1,Open Play,Saved,0.13763943,,106.9,41.3
+Euro 2025,4020005,England Women's,Alessia Russo,19,1,Open Play,Off T,0.123430714,,108.5,39.4
+Euro 2025,4020005,Italy Women's,Sofia Cantore,20,1,Open Play,Wayward,0.045431316,39a647b1-fa21-4fe1-8223-68330744e1af,96.2,31.2
+Euro 2025,4020005,England Women's,Lauren Hemp,22,1,Open Play,Off T,0.059988502,7df667f4-5fd0-498a-a55b-6aa447a9e35e,110.6,31.8
+Euro 2025,4020005,Italy Women's,Cristiana Girelli,32,1,Open Play,Wayward,0.41662762,da73c0ba-af64-44c5-bcb3-61801c25c92e,114.2,43.0
+Euro 2025,4020005,Italy Women's,Barbara Bonansea,32,1,Open Play,Goal,0.09690126,,114.2,33.3
+Euro 2025,4020005,England Women's,Lauren James,37,1,Open Play,Saved,0.091876104,5c918002-3f6b-447d-a1d5-e9de394ad581,104.8,43.7
+Euro 2025,4020005,Italy Women's,Arianna Caruso,43,1,Open Play,Blocked,0.008236191,d155e4c4-4b28-4134-8194-594544d0cec4,88.0,27.8
+Euro 2025,4020005,England Women's,Alex Greenwood,48,2,Open Play,Saved Off Target,0.020626368,,100.6,26.7
+Euro 2025,4020005,England Women's,Lauren Hemp,50,2,Open Play,Off T,0.15246725,f05db546-98e0-4bba-918c-18307d225de1,115.5,33.1
+Euro 2025,4020005,England Women's,Keira Walsh,51,2,Open Play,Blocked,0.05683132,1d1ab3c9-d9dc-42fa-8f34-a36d09f68c4d,100.5,38.3
+Euro 2025,4020005,England Women's,Lauren Hemp,51,2,Open Play,Saved,0.242595,,109.3,31.8
+Euro 2025,4020005,Italy Women's,Sofia Cantore,52,2,Open Play,Saved,0.045035295,6cc29570-b50d-4c6e-a167-1859ae9af32a,106.9,56.6
+Euro 2025,4020005,England Women's,Keira Walsh,55,2,Open Play,Off T,0.027188806,dcea68b0-7cf8-4d29-8333-ff128412be56,94.1,53.1
+Euro 2025,4020005,England Women's,Georgia Stanway,56,2,Open Play,Blocked,0.12356619,3bee4414-b623-4a5f-bb75-6b52f9dc2624,103.8,41.2
+Euro 2025,4020005,England Women's,Alex Greenwood,59,2,Open Play,Wayward,0.18203786,ca5f5ed5-a1c2-4f4b-bcb5-ec7761ac42eb,114.1,36.2
+Euro 2025,4020005,England Women's,Ella Toone,69,2,Open Play,Off T,0.041064415,0104b5f5-9254-4fd0-a075-455dba5d19ae,96.8,39.5
+Euro 2025,4020005,England Women's,Georgia Stanway,72,2,Open Play,Off T,0.03349057,4676559d-23c0-46ad-9bdb-4b72ae4971e4,94.0,34.4
+Euro 2025,4020005,Italy Women's,Arianna Caruso,76,2,Open Play,Off T,0.012809928,6140a9f4-3938-457b-8a4c-03e3d111082e,80.4,64.5
+Euro 2025,4020005,Italy Women's,Martina Piemonte,77,2,Open Play,Off T,0.12254368,2e05b7c5-0596-4fc3-8648-08093707b14b,110.7,41.1
+Euro 2025,4020005,England Women's,Chloe Kelly,78,2,Open Play,Blocked,0.03181569,3e171622-8445-420f-8512-e31d280ef3fd,104.3,55.8
+Euro 2025,4020005,England Women's,Lucy Bronze,79,2,Open Play,Blocked,0.045580313,28e4c492-e8dd-46f1-b9af-0691c7f2e9ed,113.3,49.3
+Euro 2025,4020005,Italy Women's,Michela Cambiaghi,85,2,Open Play,Saved,0.0775313,2b470ce7-61d8-464e-b4f4-972d76c6ab84,111.3,46.1
+Euro 2025,4020005,Italy Women's,Emma Severini,85,2,Open Play,Saved,0.32903278,,116.1,39.9
+Euro 2025,4020005,Italy Women's,Elisabetta Oliviero,91,2,Open Play,Off T,0.008095162,8b01f231-1dca-49e8-b2b2-9c5c7a255713,90.6,61.4
+Euro 2025,4020005,England Women's,Keira Walsh,93,2,Open Play,Blocked,0.018964224,632aaf29-fd86-410d-b1e9-90fed46f6882,102.0,26.9
+Euro 2025,4020005,England Women's,Michelle Agyemang,95,2,Open Play,Goal,0.09691288,,111.7,47.4
+Euro 2025,4020005,England Women's,Agnes Beever-Jones,98,2,Open Play,Off T,0.05472218,ee08a760-93e6-46ad-9ec5-a8cecd83c3da,109.2,32.7
+Euro 2025,4020005,Italy Women's,Giada Greggi,96,3,Open Play,Saved,0.021866526,06e4a22f-1b72-4b9b-a683-38b212d72dda,94.7,28.0
+Euro 2025,4020005,England Women's,Chloe Kelly,97,3,Open Play,Off T,0.082567,2ec68cb2-e143-4750-a860-d7890fe33eaf,104.6,52.0
+Euro 2025,4020005,England Women's,Lucy Bronze,108,4,Open Play,Saved,0.020905986,fab57f0f-6b8d-48aa-8365-7c9978b88585,107.6,33.2
+Euro 2025,4020005,England Women's,Alex Greenwood,114,4,Open Play,Blocked,0.037192676,cbf9d9a6-1fa8-49db-a50e-a05d455d51b9,107.3,36.7
+Euro 2025,4020005,England Women's,Michelle Agyemang,116,4,Open Play,Post,0.045986976,f4302b4f-b5b1-4b97-a810-be0e79ebc482,112.3,53.9
+Euro 2025,4020005,England Women's,Chloe Kelly,118,4,Penalty,Saved,0.7835,,108.1,40.1
+Euro 2025,4020005,England Women's,Chloe Kelly,118,4,Open Play,Goal,0.5417955,,114.6,36.9
+Euro 2025,4018357,Germany Women's,Jule Brand,8,1,Open Play,Off T,0.04497543,,101.0,45.4
+Euro 2025,4018357,France Women's,Onema Grace Geyoro,14,1,Penalty,Goal,0.7835,,108.1,40.1
+Euro 2025,4018357,France Women's,Marie-Antoinette Katoto,20,1,Open Play,Saved,0.13044341,688bfbcd-0b28-4466-96f5-5e4ebe7ca8fa,112.0,39.4
+Euro 2025,4018357,France Women's,Kadidiatou Diani,23,1,Open Play,Off T,0.029138802,9043b032-b387-4359-8043-b4b6f5466836,101.6,24.0
+Euro 2025,4018357,Germany Women's,Sjoeke Nüsken,24,1,Open Play,Goal,0.08840973,098a468c-bf89-462d-9740-88e150814ac9,115.4,32.3
+Euro 2025,4018357,France Women's,Delphine Cascarino,27,1,Free Kick,Saved,0.008510993,,105.6,15.0
+Euro 2025,4018357,France Women's,Delphine Cascarino,55,2,Open Play,Saved,0.060398906,345b32bf-39ec-4905-aff4-0a4c32e31b17,96.6,35.8
+Euro 2025,4018357,France Women's,Marie-Antoinette Katoto,56,2,Open Play,Saved,0.31555992,8c336138-bed9-4379-aa9c-c68de1081053,113.8,42.3
+Euro 2025,4018357,France Women's,Kadidiatou Diani,61,2,Open Play,Blocked,0.068140954,da3cdb1f-c6c5-4005-9ae0-f350dd01cb31,103.9,32.7
+Euro 2025,4018357,France Women's,Kadidiatou Diani,61,2,Open Play,Saved,0.061028253,2bed8bed-4497-459b-b843-6493e4d58c14,112.4,29.0
+Euro 2025,4018357,Germany Women's,Sjoeke Nüsken,68,2,Penalty,Saved,0.7835,,108.1,40.1
+Euro 2025,4018357,Germany Women's,Klara Bühl,69,2,Open Play,Blocked,0.046486195,,110.7,25.9
+Euro 2025,4018357,Germany Women's,Jule Brand,70,2,Open Play,Blocked,0.04338335,8b72d572-bc1b-410e-8a4a-5237585e4b81,100.4,34.0
+Euro 2025,4018357,Germany Women's,Klara Bühl,70,2,Open Play,Off T,0.09814468,,101.3,30.7
+Euro 2025,4018357,France Women's,Onema Grace Geyoro,76,2,Open Play,Blocked,0.034541696,e0bfb612-885f-4c40-a7dc-a6fada13e059,105.5,56.5
+Euro 2025,4018357,France Women's,Sakina Karchaoui,85,2,Open Play,Saved,0.028069349,e880cb02-1bb1-4786-b0f1-2461d9c8777f,96.4,28.1
+Euro 2025,4018357,France Women's,Elisa De Almeida,88,2,Open Play,Saved,0.044335194,46330234-e51d-42ed-9ebc-ddd780b96a6c,103.2,50.2
+Euro 2025,4018357,France Women's,Selma Bacha,92,2,Open Play,Blocked,0.016613046,23166039-0796-41fc-baf3-6d182b83008c,87.5,30.6
+Euro 2025,4018357,Germany Women's,Jule Brand,94,2,Open Play,Off T,0.03926183,,99.2,50.9
+Euro 2025,4018357,France Women's,Sandy Baltimore,95,2,Open Play,Blocked,0.03298015,,94.7,39.1
+Euro 2025,4018357,France Women's,Sandy Baltimore,102,3,Open Play,Blocked,0.03571369,,98.0,46.6
+Euro 2025,4018357,France Women's,Maëlle Lakrar,104,3,Open Play,Off T,0.12864618,578c54b8-68e5-4f9d-a030-e3f76c07f1f3,119.2,34.5
+Euro 2025,4018357,France Women's,Melvine Malard,105,3,Open Play,Blocked,0.042539176,92758c9b-8824-4d31-bb12-7d770529957c,103.3,32.7
+Euro 2025,4018357,France Women's,Melvine Malard,106,3,Open Play,Saved,0.09479077,f6e55e4f-944a-4962-87ca-80f3072b055b,111.2,36.3
+Euro 2025,4018357,France Women's,Melvine Malard,122,4,Open Play,Post,0.00711156,98dd1e30-b48b-475c-a1d7-096fc5a216c3,87.6,27.5
+Euro 2025,4018356,Switzerland Women's,Lia Wälti,0,1,Open Play,Off T,0.018683188,,88.3,47.5
+Euro 2025,4018356,Spain Women's,Aitana Bonmati Conca,6,1,Open Play,Wayward,0.12509719,0b048091-052a-4240-8eb9-c774fefb58df,110.3,45.3
+Euro 2025,4018356,Spain Women's,María Francesca Caldentey Oliver,8,1,Penalty,Off T,0.7835,,108.0,40.0
+Euro 2025,4018356,Switzerland Women's,Ana-Maria Crnogorčević,13,1,Open Play,Wayward,0.009650117,,99.6,59.0
+Euro 2025,4018356,Spain Women's,Esther Gonzalez Rodríguez,16,1,Open Play,Wayward,0.056352567,9a7693fd-9e7c-4429-97a8-166f47008775,108.4,34.3
+Euro 2025,4018356,Spain Women's,Claudia Pina Medina,17,1,Free Kick,Saved,0.009983052,,95.4,20.9
+Euro 2025,4018356,Spain Women's,Irene Paredes Hernandez,18,1,Open Play,Off T,0.07984554,e1c57c55-7562-40c1-9db0-22bb5ee5cf90,114.6,47.3
+Euro 2025,4018356,Spain Women's,Claudia Pina Medina,23,1,Open Play,Saved,0.051490404,,101.2,26.6
+Euro 2025,4018356,Spain Women's,Claudia Pina Medina,27,1,Open Play,Off T,0.08511865,8aa5d904-ddc6-4467-a8e3-65d114136789,104.3,37.3
+Euro 2025,4018356,Spain Women's,Aitana Bonmati Conca,28,1,Open Play,Off T,0.036224533,94acacea-350f-4fc3-a794-52650eae4c4e,93.9,45.0
+Euro 2025,4018356,Spain Women's,Aitana Bonmati Conca,30,1,Open Play,Blocked,0.09009882,d0577a00-148d-4d0d-8c1c-fd11f3e1eefc,102.2,43.7
+Euro 2025,4018356,Spain Women's,Olga  Carmona García,33,1,Open Play,Off T,0.057147976,186809eb-6aca-4837-9428-94e86e0f6b2e,98.7,34.4
+Euro 2025,4018356,Spain Women's,Esther Gonzalez Rodríguez,35,1,Open Play,Off T,0.23181897,024eda3b-2c8c-4249-9037-406e570481fd,115.4,35.8
+Euro 2025,4018356,Spain Women's,Irene Paredes Hernandez,42,1,Open Play,Post,0.057051633,2c81154c-25d4-435a-b7a5-1f22f5191dd0,111.6,45.4
+Euro 2025,4018356,Spain Women's,Patricia Guijarro Gutiérrez,45,2,Open Play,Saved,0.05318782,,102.1,39.2
+Euro 2025,4018356,Switzerland Women's,Sydney Schertenleib,50,2,Open Play,Off T,0.0043088906,,79.9,64.8
+Euro 2025,4018356,Spain Women's,Claudia Pina Medina,56,2,Open Play,Off T,0.075712726,f39125ee-126e-4182-bdf8-ba7a6da21845,102.7,48.6
+Euro 2025,4018356,Spain Women's,Esther Gonzalez Rodríguez,58,2,Open Play,Off T,0.06692457,e9a0b493-58b2-4ed6-b8ac-0f2fe4ed1909,109.1,43.4
+Euro 2025,4018356,Spain Women's,Patricia Guijarro Gutiérrez,60,2,Open Play,Post,0.03348607,1fbe38ff-75df-416c-81a7-79b4099777f9,109.1,29.5
+Euro 2025,4018356,Spain Women's,Esther Gonzalez Rodríguez,60,2,Open Play,Post,0.39543322,,116.9,37.5
+Euro 2025,4018356,Spain Women's,Irene Paredes Hernandez,60,2,Open Play,Blocked,0.20833245,,113.2,38.0
+Euro 2025,4018356,Spain Women's,Athenea del Castillo Belvide,65,2,Open Play,Goal,0.2751694,c7094dae-23cf-4b40-afeb-6422585ae56b,107.0,33.2
+Euro 2025,4018356,Spain Women's,Claudia Pina Medina,68,2,Open Play,Blocked,0.06471921,,105.5,32.5
+Euro 2025,4018356,Spain Women's,Claudia Pina Medina,70,2,Open Play,Goal,0.049007278,,99.0,32.8
+Euro 2025,4018356,Switzerland Women's,Leila Wandeler,76,2,Open Play,Off T,0.0070814053,7e650a93-535f-4725-ae00-2ec5da03671d,91.5,23.5
+Euro 2025,4018356,Spain Women's,Alexia Putellas Segura,87,2,Penalty,Saved,0.7835,,108.1,40.1
+Euro 2025,4018356,Spain Women's,Athenea del Castillo Belvide,93,2,Open Play,Off T,0.024438296,45893e7c-2dee-4280-9a50-566b7deed8d0,97.2,26.0
+Euro 2025,4018355,Sweden Women's,Kosovare Asllani,1,1,Open Play,Goal,0.262062,dfaedc52-45e0-4fa0-80a3-3073802dc2f0,107.6,48.0
+Euro 2025,4018355,Sweden Women's,Emma Stina Blackstenius,4,1,Open Play,Blocked,0.13563293,,114.8,30.1
+Euro 2025,4018355,England Women's,Lauren Hemp,5,1,Open Play,Saved to Post,0.03454295,,103.2,24.5
+Euro 2025,4018355,Sweden Women's,Emma Stina Blackstenius,24,1,Open Play,Goal,0.28601122,e57dc250-74aa-4cb7-8bd4-c7f0a5fe95c5,113.5,49.8
+Euro 2025,4018355,England Women's,Ella Toone,27,1,Open Play,Blocked,0.063342206,480adcb4-6fa4-47cb-be52-191a04801289,101.4,43.0
+Euro 2025,4018355,England Women's,Lauren James,38,1,Open Play,Blocked,0.028288899,,95.6,33.4
+Euro 2025,4018355,Sweden Women's,Fridolina Rolfö,45,1,Open Play,Saved,0.08270639,2b7e00a8-a5f2-409c-a9ae-b8bf692dd7a9,104.0,42.6
+Euro 2025,4018355,England Women's,Lauren Hemp,50,2,Open Play,Off T,0.07977866,b6030de8-a430-4f21-9575-cd933d037624,114.1,32.3
+Euro 2025,4018355,Sweden Women's,Emma Stina Blackstenius,54,2,Open Play,Saved,0.39117333,ac4706e4-c61d-4735-bf2d-8c175424c6bc,104.1,39.4
+Euro 2025,4018355,England Women's,Lauren James,58,2,Open Play,Blocked,0.0321295,a2297749-edee-4ae2-9685-10f61b506457,97.1,42.4
+Euro 2025,4018355,England Women's,Georgia Stanway,58,2,Open Play,Blocked,0.04025518,,102.9,34.9
+Euro 2025,4018355,Sweden Women's,Johanna Rytting-Kaneryd,64,2,Open Play,Off T,0.057559036,d5c97807-cc8e-4728-bf0c-2c1e60db33a6,106.7,52.4
+Euro 2025,4018355,England Women's,Ella Toone,66,2,Open Play,Blocked,0.057787847,eb2225db-e412-4487-a488-e61837dacf61,102.5,47.4
+Euro 2025,4018355,England Women's,Michelle Agyemang,72,2,Open Play,Blocked,0.03268166,dd1a0e81-997f-44d4-8db7-6fe24742cb09,109.1,36.1
+Euro 2025,4018355,England Women's,Lauren Hemp,72,2,Open Play,Saved,0.1185305,,114.4,36.7
+Euro 2025,4018355,England Women's,Michelle Agyemang,75,2,Open Play,Off T,0.028825706,329edbc9-cf17-4caf-9679-1d604c967376,109.9,31.5
+Euro 2025,4018355,England Women's,Lucy Bronze,78,2,Open Play,Goal,0.3577363,c9512da5-2964-434c-ab9b-04d860ed0b17,118.1,45.1
+Euro 2025,4018355,England Women's,Bethany Mead,80,2,Open Play,Blocked,0.19102228,a48c062d-f141-4334-a260-c7714f9d4ec1,114.2,37.3
+Euro 2025,4018355,England Women's,Michelle Agyemang,80,2,Open Play,Goal,0.4997025,,115.3,36.0
+Euro 2025,4018355,Sweden Women's,Madelen Fatimma Maria Janogy,87,2,Open Play,Saved,0.08567687,,110.4,29.3
+Euro 2025,4018355,England Women's,Alessia Russo,92,2,Open Play,Blocked,0.17311251,68d2cc91-a5ee-492c-abca-bff1f5d4af35,106.2,45.1
+Euro 2025,4018355,England Women's,Lauren James,94,3,Open Play,Blocked,0.01853047,,95.1,27.2
+Euro 2025,4018355,Sweden Women's,Ingrid Filippa Angeldal,95,3,Open Play,Saved Off Target,0.014418916,f90a3525-d65a-4e24-ab71-a15cbec2614d,84.9,36.1
+Euro 2025,4018355,Sweden Women's,Gun Nathalie Björn,97,3,Open Play,Off T,0.043490734,2561172f-a772-42f4-ae3c-99f281fa090a,111.4,45.9
+Euro 2025,4018355,England Women's,Lucy Bronze,99,3,Open Play,Blocked,0.020434776,5aaef676-d013-455c-a7d1-4dbbe67f8c76,106.0,25.3
+Euro 2025,4018355,Sweden Women's,Emma Stina Blackstenius,104,3,Open Play,Blocked,0.09388511,2c0ca50a-69d4-4529-8eb5-39eb6817f33a,108.8,38.8
+Euro 2025,4018355,Sweden Women's,Madelen Fatimma Maria Janogy,109,4,Open Play,Blocked,0.05967086,,102.9,31.8
+Euro 2025,4018355,Sweden Women's,Lina Mona Andréa Hurtig,109,4,Open Play,Blocked,0.15947537,dd4d5324-357d-4ad4-a85c-8395110a8313,114.1,42.6
+Euro 2025,4018355,Sweden Women's,Gun Nathalie Björn,110,4,Open Play,Blocked,0.056428157,27e8c765-f446-4288-b941-47e7b9ccb979,109.8,42.7
+Euro 2025,4018355,England Women's,Alessia Russo,121,4,Open Play,Off T,0.03806189,f27f3f49-420b-4ae5-b757-6e021ee55327,110.1,25.3
+Euro 2025,4018355,England Women's,Alessia Russo,122,4,Open Play,Off T,0.09635302,,107.1,45.2
+Euro 2025,3998858,England Women's,Georgia Stanway,12,1,Penalty,Goal,0.7835,,108.0,40.0
+Euro 2025,3998858,Wales W,Jessica Fishlock,19,1,Open Play,Off T,0.020157922,f19b5c98-325a-4e68-9074-f64264577b2e,88.4,36.9
+Euro 2025,3998858,England Women's,Ella Toone,20,1,Open Play,Blocked,0.67210984,cf01290d-4778-49df-891e-63d72e815b53,114.9,39.4
+Euro 2025,3998858,England Women's,Ella Toone,20,1,Open Play,Goal,0.5909761,,116.2,39.8
+Euro 2025,3998858,England Women's,Keira Walsh,23,1,Open Play,Off T,0.051609535,d53138f4-b9ce-4882-96bc-86963308a791,96.9,40.2
+Euro 2025,3998858,England Women's,Lauren James,25,1,Open Play,Off T,0.039598726,1bfb88e5-e941-4a1a-af7d-75d260409d05,104.8,44.1
+Euro 2025,3998858,Wales W,Angharad James,26,1,Open Play,Saved,0.10269824,c0eab149-c4c9-4c64-ae60-eb945186484b,102.9,35.8
+Euro 2025,3998858,England Women's,Alessia Russo,27,1,Open Play,Off T,0.08669564,34b56170-9b8e-4f08-8b65-1eeeefc6ebd6,112.0,44.3
+Euro 2025,3998858,England Women's,Lauren Hemp,29,1,Open Play,Goal,0.17684019,5ad7f658-fd2e-4b03-a50f-1a0f338859ee,116.9,34.5
+Euro 2025,3998858,England Women's,Keira Walsh,31,1,Open Play,Blocked,0.056727037,d041ddd1-ed42-4be0-b982-9626024180f4,101.2,34.4
+Euro 2025,3998858,England Women's,Leah Williamson,32,1,Open Play,Blocked,0.052086078,10ff2001-f0ab-4d82-8c5c-9c36ef6370c5,117.1,31.2
+Euro 2025,3998858,England Women's,Lauren Hemp,38,1,Open Play,Wayward,0.15431112,44d5d482-ea1d-4ae4-996e-f585552559a0,113.4,37.8
+Euro 2025,3998858,England Women's,Alessia Russo,40,1,Open Play,Blocked,0.056579806,8c7b9c7f-9ce6-4983-93ae-a542a8b487b7,111.7,46.5
+Euro 2025,3998858,England Women's,Alessia Russo,43,1,Open Play,Goal,0.68644935,c33471d0-5db5-4096-b940-24fd08513442,113.8,40.5
+Euro 2025,3998858,England Women's,Lauren James,45,1,Open Play,Off T,0.28675836,a9aa523d-cdee-4a52-a005-c59fe4e86c0c,111.0,42.4
+Euro 2025,3998858,Wales W,Rachel Rowe,48,1,Open Play,Off T,0.046160296,,100.4,44.3
+Euro 2025,3998858,Wales W,Jessica Fishlock,49,1,Open Play,Off T,0.09856263,,101.2,42.6
+Euro 2025,3998858,England Women's,Leah Williamson,51,2,Open Play,Wayward,0.069017194,0f237f83-d7eb-4954-9f65-ae96279ebcd1,114.5,47.6
+Euro 2025,3998858,England Women's,Georgia Stanway,51,2,Open Play,Saved,0.18869601,,116.2,43.8
+Euro 2025,3998858,England Women's,Jessica Park,51,2,Open Play,Saved to Post,0.11685306,09b96d6a-b315-4371-a8a6-e18f3e39c66d,112.8,47.0
+Euro 2025,3998858,England Women's,Georgia Stanway,58,2,Open Play,Saved,0.24227732,1b320af7-1fc1-4524-b795-4c23eafbd705,113.2,48.5
+Euro 2025,3998858,England Women's,Lucy Bronze,59,2,Open Play,Blocked,0.08300818,e7414b05-62a1-4104-bb04-8e500955aefb,113.8,45.2
+Euro 2025,3998858,Wales W,Jessica Fishlock,62,2,Open Play,Blocked,0.07008953,005c60d2-72d1-465d-8122-f782aec997d9,110.5,41.1
+Euro 2025,3998858,England Women's,Georgia Stanway,63,2,Open Play,Blocked,0.03358623,a7716249-8335-4202-8277-ff0a76cb8175,97.7,35.6
+Euro 2025,3998858,England Women's,Chloe Kelly,66,2,Open Play,Wayward,0.07326549,4e524c8b-8738-4a81-8709-6506c39d9422,103.5,33.7
+Euro 2025,3998858,England Women's,Bethany Mead,71,2,Open Play,Goal,0.34548658,61bf8c07-d66d-4aed-b486-bfadd71c4282,108.0,38.0
+Euro 2025,3998858,England Women's,Chloe Kelly,73,2,Open Play,Off T,0.04240585,a5ca9e5a-8917-4d4e-ab0a-17d7f52167ee,99.5,49.7
+Euro 2025,3998858,Wales W,Hannah Cain,75,2,Open Play,Goal,0.2947986,b605a3a2-9253-4756-a0d6-40339303f7ed,112.4,32.7
+Euro 2025,3998858,England Women's,Agnes Beever-Jones,88,2,Open Play,Goal,0.43334556,069831f7-fe9e-43b4-a051-737f9da3a1a2,115.9,37.5
+Euro 2025,3998858,England Women's,Keira Walsh,91,2,Open Play,Saved,0.064985014,7923edc6-8d81-4dc3-b8a6-b42788b1b1fb,100.2,38.4
+Euro 2025,3998856,Germany Women's,Jule Brand,0,1,Open Play,Saved,0.07965808,,104.4,44.2
+Euro 2025,3998856,Germany Women's,Lea Schüller,1,1,Open Play,Off T,0.048322756,48ac0f63-9cbb-4b42-9da0-501640ebe353,98.9,33.0
+Euro 2025,3998856,Sweden Women's,Kosovare Asllani,2,1,Open Play,Off T,0.21016571,69569527-d95b-43aa-b265-7bcf12933a9a,110.8,48.8
+Euro 2025,3998856,Germany Women's,Lea Schüller,4,1,Open Play,Off T,0.17535955,b6586aaa-08e6-4180-93b5-d13c717a6e4b,114.5,38.5
+Euro 2025,3998856,Germany Women's,Jule Brand,6,1,Open Play,Goal,0.19288042,e5f09a5b-960f-4806-8521-025e8dd06048,107.1,47.0
+Euro 2025,3998856,Germany Women's,Lea Schüller,9,1,Open Play,Blocked,0.073497,0f319a3e-0e4f-46a6-a7e8-c44358753e05,103.1,39.7
+Euro 2025,3998856,Sweden Women's,Emma Stina Blackstenius,11,1,Open Play,Goal,0.12851956,e96aff44-e33a-4fa7-856f-d06b195e7380,104.0,48.4
+Euro 2025,3998856,Germany Women's,Klara Bühl,17,1,Open Play,Saved,0.08271586,2c1bb5f1-8a73-4b0b-9b4d-a86949a5e76e,107.5,31.0
+Euro 2025,3998856,Sweden Women's,Smilla Holmberg,24,1,Open Play,Goal,0.09091374,,114.4,51.3
+Euro 2025,3998856,Sweden Women's,Emma Stina Blackstenius,29,1,Open Play,Off T,0.07296159,e23b5762-359f-432f-8162-ac89b9b56064,106.1,53.4
+Euro 2025,3998856,Sweden Women's,Fridolina Rolfö,30,1,Open Play,Blocked,0.5249184,c231a867-a8d4-44f8-8aad-13d95b3f32ca,111.7,40.8
+Euro 2025,3998856,Sweden Women's,Fridolina Rolfö,33,1,Penalty,Goal,0.7835,,108.0,40.0
+Euro 2025,3998856,Germany Women's,Lea Schüller,37,1,Open Play,Saved,0.032305542,19825195-2e45-4834-be15-6e7581e0c1fe,92.9,32.7
+Euro 2025,3998856,Sweden Women's,Kosovare Asllani,38,1,Open Play,Off T,0.09002422,,100.1,37.3
+Euro 2025,3998856,Sweden Women's,Magdalena Lilly Eriksson,46,2,Open Play,Off T,0.12698957,ddd9a31b-ca81-45d3-a9d4-9a4c569012f0,114.6,36.8
+Euro 2025,3998856,Sweden Women's,Smilla Holmberg,50,2,Open Play,Blocked,0.023363832,,91.3,46.7
+Euro 2025,3998856,Sweden Women's,Emma Stina Blackstenius,64,2,Open Play,Blocked,0.08723342,bc385f7a-8b88-469a-adf4-8c59a21f7998,112.6,44.5
+Euro 2025,3998856,Sweden Women's,Ingrid Filippa Angeldal,65,2,Open Play,Off T,0.15284409,,108.3,31.0
+Euro 2025,3998856,Germany Women's,Giovanna Hoffmann,72,2,Open Play,Off T,0.02646013,,95.3,40.3
+Euro 2025,3998856,Sweden Women's,Johanna Rytting-Kaneryd,75,2,Open Play,Saved,0.039750207,f5e2e333-95e0-4bc5-811e-7bc0a2952311,108.7,52.7
+Euro 2025,3998856,Sweden Women's,Lina Mona Andréa Hurtig,79,2,Open Play,Goal,0.5746127,bf3be980-93e7-4bef-84cb-2f16ed0a6af8,116.8,43.8
+Euro 2025,3998856,Germany Women's,Selina Cerci,84,2,Open Play,Off T,0.16358313,4ec2a236-d4f7-43d7-9997-e30cfb13b052,109.3,26.5
+Euro 2025,3998855,Italy Women's,Arianna Caruso,5,1,Open Play,Wayward,0.022531956,,97.0,49.8
+Euro 2025,3998855,Italy Women's,Elena Linari,8,1,Open Play,Post,0.073265135,901880e8-752f-41b5-b5e8-cf25ec2e1854,112.1,41.3
+Euro 2025,3998855,Italy Women's,Martina Piemonte,9,1,Open Play,Wayward,0.079127714,,108.8,39.5
+Euro 2025,3998855,Italy Women's,Lisa Boattin,9,1,Open Play,Blocked,0.029644232,,98.9,28.1
+Euro 2025,3998855,Italy Women's,Martina Piemonte,9,1,Open Play,Wayward,0.060806826,e8b0dbab-34bc-412a-9e79-3d58133ed508,106.7,29.6
+Euro 2025,3998855,Italy Women's,Elisabetta Oliviero,9,1,Open Play,Goal,0.42367482,,111.4,43.1
+Euro 2025,3998855,Spain Women's,Athenea del Castillo Belvide,13,1,Open Play,Goal,0.06852605,b0512ed0-910b-4e49-b919-de919524a44b,102.2,42.0
+Euro 2025,3998855,Spain Women's,Patricia Guijarro Gutiérrez,14,1,Open Play,Off T,0.02191954,cee4133c-1b12-400a-967b-17180ad939d1,88.2,40.2
+Euro 2025,3998855,Spain Women's,Alexia Putellas Segura,18,1,Open Play,Blocked,0.074892886,fe4000a6-d143-45f7-83f8-a9f6f316f9d9,111.3,29.1
+Euro 2025,3998855,Spain Women's,Patricia Guijarro Gutiérrez,19,1,Open Play,Off T,0.044526134,22457c3a-ec67-4ca1-986d-1ffe7b472168,94.7,36.6
+Euro 2025,3998855,Spain Women's,Aitana Bonmati Conca,26,1,Open Play,Off T,0.04055748,,99.2,48.7
+Euro 2025,3998855,Spain Women's,Irene Paredes Hernandez,28,1,Open Play,Wayward,0.07472925,f5ee6449-75d4-41b9-b2d5-aecc9945c1e5,110.9,38.5
+Euro 2025,3998855,Spain Women's,María Méndez Fernández,36,1,Open Play,Wayward,0.096035115,f94e75e7-4864-473d-bcea-eddd5787c352,112.2,40.8
+Euro 2025,3998855,Spain Women's,Jana Fernandez Velasco,39,1,Open Play,Blocked,0.041364804,30dc031b-ae46-4f3e-bdc4-c52f17a8e326,98.8,49.9
+Euro 2025,3998855,Italy Women's,Barbara Bonansea,42,1,Open Play,Off T,0.21590416,c000d61f-1502-43fe-8bd5-ffa31ad1b357,113.8,45.3
+Euro 2025,3998855,Italy Women's,Arianna Caruso,45,2,Open Play,Blocked,0.0321686,355c7652-c0ed-4c97-9fc4-cfb3cdd1291b,102.5,31.3
+Euro 2025,3998855,Spain Women's,Patricia Guijarro Gutiérrez,48,2,Open Play,Goal,0.03505809,,96.4,44.3
+Euro 2025,3998855,Spain Women's,Aitana Bonmati Conca,54,2,Open Play,Blocked,0.044586,4e4f53e9-c5fb-47c7-a36a-41016af82f50,108.7,51.8
+Euro 2025,3998855,Spain Women's,Irene Paredes Hernandez,57,2,Open Play,Blocked,0.053053346,56e810a5-ad18-451b-b932-7183da046413,114.5,31.7
+Euro 2025,3998855,Italy Women's,Sofia Cantore,60,2,Open Play,Saved,0.029608773,f144fc51-c390-4d10-8125-c4a83bd024df,105.0,25.8
+Euro 2025,3998855,Spain Women's,Alexia Putellas Segura,60,2,Open Play,Off T,0.07337302,1f952574-fece-4445-b03b-abf2497af4b5,103.3,36.1
+Euro 2025,3998855,Spain Women's,Salma Paralluelo Ayingono,61,2,Open Play,Off T,0.03361922,6efc6f49-3621-493f-b711-c0a88eccfe46,95.4,33.7
+Euro 2025,3998855,Spain Women's,Alexia Putellas Segura,70,2,Open Play,Saved,0.108048685,66f21ca1-3557-4187-a748-86432d6edc0b,103.4,43.7
+Euro 2025,3998855,Spain Women's,Patricia Guijarro Gutiérrez,72,2,Open Play,Saved,0.10618672,46eaad27-5276-4d87-9114-eb2bf1ca9c21,103.9,48.0
+Euro 2025,3998855,Spain Women's,Alexia Putellas Segura,73,2,Open Play,Saved,0.051292602,,98.8,38.8
+Euro 2025,3998855,Spain Women's,Aitana Bonmati Conca,74,2,Open Play,Saved,0.04603091,21061211-121f-43bb-bccb-0942b444e74a,100.7,49.6
+Euro 2025,3998855,Spain Women's,María Méndez Fernández,77,2,Open Play,Off T,0.12828135,283fd035-181d-4c6a-b4bc-9881beee9f47,114.6,41.6
+Euro 2025,3998855,Italy Women's,Cristiana Girelli,82,2,Open Play,Wayward,0.16795136,1661e812-77bc-4317-9c07-f602f8f4de2d,106.5,38.4
+Euro 2025,3998855,Italy Women's,Annamaria Serturini,85,2,Open Play,Blocked,0.026301477,,96.1,45.3
+Euro 2025,3998855,Spain Women's,Claudia Pina Medina,87,2,Open Play,Saved,0.033188567,d96c0eae-f97d-4814-8bec-2c0a3f5ef3d9,111.2,54.5
+Euro 2025,3998855,Spain Women's,Esther Gonzalez Rodríguez,89,2,Open Play,Off T,0.1411324,2659dcb7-5cd6-455a-a3ad-b18562be2a77,110.5,44.5
+Euro 2025,3998855,Spain Women's,Esther Gonzalez Rodríguez,90,2,Open Play,Goal,0.22980581,30a9b9aa-5456-40ae-a619-d3b4eb06a90a,111.6,42.5
+Euro 2025,3998855,Italy Women's,Arianna Caruso,93,2,Open Play,Blocked,0.050341096,6cc2135e-871c-4247-9386-578e3c944b4d,110.2,26.4
+Euro 2025,3998855,Italy Women's,Elisabetta Oliviero,94,2,Open Play,Off T,0.006264587,8c6951bf-932c-45a7-a5a7-fb7e551406ff,80.6,36.3
+Euro 2025,3998851,England Women's,Lauren James,3,1,Open Play,Off T,0.15645443,336089a8-2d58-48e5-929b-4533d084c5fe,115.9,45.7
+Euro 2025,3998851,England Women's,Alessia Russo,8,1,Open Play,Off T,0.29619226,1133b156-7077-467d-927a-4f077d8ad748,113.9,41.9
+Euro 2025,3998851,England Women's,Lauren James,21,1,Open Play,Goal,0.07064835,45a630d5-20d8-48d5-9d58-7bb6a347f6ab,103.0,43.2
+Euro 2025,3998851,Netherlands Women's,Jill Roord,25,1,Open Play,Off T,0.04543275,43fe8c22-d48b-4e23-b6ef-117164f1476d,100.5,37.4
+Euro 2025,3998851,England Women's,Lauren Hemp,35,1,Open Play,Blocked,0.13001947,d73d5eb2-5e58-4ddf-af90-3c442862c8c8,112.2,39.4
+Euro 2025,3998851,England Women's,Alessia Russo,37,1,Open Play,Saved,0.041583642,fe077866-f9db-4a9e-8817-5e9ac0acdf83,108.4,37.3
+Euro 2025,3998851,England Women's,Lauren James,37,1,Open Play,Blocked,0.056364562,,118.0,47.1
+Euro 2025,3998851,England Women's,Alessia Russo,40,1,Open Play,Saved Off Target,0.07208927,ed0fd682-f09f-4af6-b752-1e5dba727c4e,112.2,35.8
+Euro 2025,3998851,England Women's,Alessia Russo,41,1,Open Play,Off T,0.08385708,8a562bee-bc4f-403f-8844-eb842523dd29,112.1,38.5
+Euro 2025,3998851,England Women's,Georgia Stanway,43,1,Open Play,Blocked,0.0529295,0e498e01-7c84-4090-a421-909fa6a102c8,98.4,40.4
+Euro 2025,3998851,England Women's,Lauren James,44,1,Open Play,Blocked,0.12680161,5a3b48e6-4073-44cb-a6c4-a3841b007cc5,104.4,47.6
+Euro 2025,3998851,England Women's,Georgia Stanway,46,1,Open Play,Goal,0.025737682,72899082-ab25-4453-b526-6ccf98fc8e44,96.1,31.3
+Euro 2025,3998851,Netherlands Women's,Victoria Pelova,54,2,Open Play,Blocked,0.053810593,,102.6,47.3
+Euro 2025,3998851,England Women's,Ella Toone,59,2,Open Play,Blocked,0.60967857,,108.9,36.1
+Euro 2025,3998851,England Women's,Lauren James,59,2,Open Play,Goal,0.18024932,,110.3,40.6
+Euro 2025,3998851,England Women's,Ella Toone,66,2,Open Play,Goal,0.07765715,24eb0f53-d080-41ef-9128-f6b243580e8e,106.1,31.5
+Euro 2025,3998851,England Women's,Bethany Mead,76,2,Open Play,Blocked,0.06162352,551019b3-8682-44b4-8b06-9e0100e3e43d,107.6,29.1
+Euro 2025,3998851,Netherlands Women's,Sherida Spitse,78,2,Open Play,Saved,0.012254896,,116.9,54.8
+Euro 2025,3998851,England Women's,Alessia Russo,81,2,Open Play,Saved,0.3144121,712a4ebd-0814-42e3-9ddc-f4b0bcb69472,110.2,41.9
+Euro 2025,3998851,England Women's,Lucy Bronze,82,2,Open Play,Off T,0.04357729,59ea3621-cd91-4542-9c45-4e7db95dd1e0,109.2,39.6
+Euro 2025,3998851,Netherlands Women's,Wieke Hendrikje Maria Kaptein,83,2,Open Play,Off T,0.052457847,ec995b2a-a098-48bb-b8b7-ec62018e945c,96.6,32.6
+Euro 2025,3998849,Germany Women's,Klara Bühl,1,1,Open Play,Blocked,0.06154986,9ac5144c-0392-4bf6-a0cd-5ea93d8ff229,108.9,28.7
+Euro 2025,3998849,Germany Women's,Klara Bühl,10,1,Open Play,Blocked,0.07313162,9dbbb4b4-9d85-4ab8-8b30-0d66bd552c8c,109.3,29.3
+Euro 2025,3998849,Germany Women's,Klara Bühl,17,1,Open Play,Blocked,0.08900484,,104.0,32.4
+Euro 2025,3998849,Germany Women's,Klara Bühl,17,1,Open Play,Wayward,0.06407818,76c8a2a0-cd0e-47c5-8616-5df5896f6951,102.2,37.5
+Euro 2025,3998849,Denmark Women's,Amalie Jørgensen Vangsgaard,25,1,Open Play,Goal,0.1039813,,106.4,51.2
+Euro 2025,3998849,Denmark Women's,Pernille Mosegaard Harder,27,1,Open Play,Saved,0.06378303,d3825d68-b8fa-482f-bf7c-3822cb4531b5,110.5,53.2
+Euro 2025,3998849,Denmark Women's,Janni Thomsen,28,1,Open Play,Off T,0.059180163,,98.8,45.9
+Euro 2025,3998849,Germany Women's,Klara Bühl,39,1,Free Kick,Blocked,0.010534537,,116.3,17.4
+Euro 2025,3998849,Germany Women's,Sarai Linder,40,1,Open Play,Saved,0.017786637,,93.6,35.3
+Euro 2025,3998849,Germany Women's,Carlotta Wamser,40,1,Open Play,Saved,0.038863935,479f2d65-ebc1-48ea-8f6e-ea17b0b746e9,98.0,45.0
+Euro 2025,3998849,Germany Women's,Klara Bühl,40,1,Open Play,Blocked,0.040853757,,109.5,25.5
+Euro 2025,3998849,Germany Women's,Linda Dallmann,41,1,Open Play,Wayward,0.039198276,,102.7,48.1
+Euro 2025,3998849,Germany Women's,Sjoeke Nüsken,41,1,Open Play,Off T,0.14213695,,110.3,33.8
+Euro 2025,3998849,Germany Women's,Klara Bühl,42,1,Open Play,Blocked,0.04393427,,103.3,31.5
+Euro 2025,3998849,Denmark Women's,Sara Holmgaard,43,1,Open Play,Saved,0.02108098,c1ba8d65-e0ec-4834-b0dc-b41bb708b91d,105.1,21.9
+Euro 2025,3998849,Denmark Women's,Sara Holmgaard,44,1,Open Play,Saved,0.16868399,dde1dda9-86c6-4c21-85a4-1dd03aa18ad0,116.4,35.6
+Euro 2025,3998849,Germany Women's,Klara Bühl,44,1,Open Play,Blocked,0.030154252,a8c4a760-1f58-43d7-ab01-d1d44732fc06,103.4,26.2
+Euro 2025,3998849,Germany Women's,Klara Bühl,45,1,Open Play,Blocked,0.02737292,47085f05-fa7d-49ae-b7f4-b0ff4d1cc5a9,100.3,37.5
+Euro 2025,3998849,Germany Women's,Sjoeke Nüsken,46,1,Open Play,Blocked,0.14574385,2a742a92-114c-44aa-a896-2a927153a19b,116.1,45.2
+Euro 2025,3998849,Germany Women's,Sjoeke Nüsken,46,1,Open Play,Blocked,0.0653394,,116.9,46.7
+Euro 2025,3998849,Germany Women's,Sarai Linder,47,1,Open Play,Off T,0.018183427,520a7fb9-8008-4891-90c6-e92624f443d2,87.9,32.5
+Euro 2025,3998849,Germany Women's,Jule Brand,46,2,Open Play,Blocked,0.060457006,e7889b7c-1344-4bb5-9a6e-407ea8560c09,102.9,48.2
+Euro 2025,3998849,Germany Women's,Carlotta Wamser,50,2,Open Play,Saved,0.03315497,,100.0,48.7
+Euro 2025,3998849,Germany Women's,Sjoeke Nüsken,55,2,Penalty,Goal,0.7835,,108.1,40.1
+Euro 2025,3998849,Germany Women's,Lea Schüller,65,2,Open Play,Goal,0.34206623,f22387e5-d00a-4f4b-9c61-5364d877ecda,108.7,34.1
+Euro 2025,3998849,Germany Women's,Lea Schüller,69,2,Open Play,Off T,0.13738438,66af902e-ea9e-414e-a03f-c3bb1f0f367e,110.8,41.4
+Euro 2025,3998849,Germany Women's,Giovanna Hoffmann,75,2,Open Play,Off T,0.09375351,c98aaf35-365d-4be4-8cf1-d891edcbc8bb,112.8,35.1
+Euro 2025,3998849,Germany Women's,Giovanna Hoffmann,82,2,Open Play,Saved,0.173736,284e8c0a-8f5c-430e-be0d-445c9ea5df65,112.9,39.5
+Euro 2025,3998849,Germany Women's,Klara Bühl,89,2,Open Play,Off T,0.05376168,452e8dc0-53e2-4236-944b-06295a1b3a9a,97.3,33.8
+Euro 2025,3998849,Germany Women's,Laura Freigang,90,2,Open Play,Blocked,0.045783803,2aa5f12f-e14a-4c37-9bcd-786129837bc4,95.7,39.4
+Euro 2025,3998849,Germany Women's,Klara Bühl,95,2,Open Play,Blocked,0.008353199,6c2ae32f-5c77-4044-b38a-a5f953c911c0,111.3,60.3
+Euro 2025,3998849,Germany Women's,Klara Bühl,97,2,Open Play,Off T,0.051433187,38da53dd-936d-49de-8958-678f9e40adf7,107.1,25.9
+Euro 2025,3998847,Spain Women's,Victoria López,1,1,Open Play,Off T,0.082917064,8414ff34-a34a-4ebd-9040-79aad1dbe909,98.5,45.7
+Euro 2025,3998847,Belgium Women's,Mariam Abdulai Toloba,4,1,Open Play,Off T,0.072076954,bae320ad-bf10-47a0-a203-c33496cc0f31,101.3,31.8
+Euro 2025,3998847,Spain Women's,Claudia Pina Medina,8,1,Open Play,Blocked,0.06742306,1a3c1508-5bda-41c1-b878-95472cbfe674,103.1,35.2
+Euro 2025,3998847,Spain Women's,Olga  Carmona García,10,1,Open Play,Off T,0.032000203,1f68d435-c2c0-4575-9603-b5a84bd9decf,92.4,39.9
+Euro 2025,3998847,Spain Women's,Olga  Carmona García,18,1,Open Play,Off T,0.008488446,ca45706d-e2e2-4af5-9d78-1b92e17b3e54,92.6,23.9
+Euro 2025,3998847,Spain Women's,Victoria López,20,1,Open Play,Blocked,0.059303578,7b0b8298-42f6-4dc6-a9b2-ec74da101db9,97.0,46.0
+Euro 2025,3998847,Spain Women's,Alexia Putellas Segura,21,1,Open Play,Goal,0.1763977,604a43c9-339f-4128-9cc2-0c3460f10d4d,107.4,47.6
+Euro 2025,3998847,Belgium Women's,Justine Vanhaevermaet,23,1,Open Play,Goal,0.20984499,0967a073-9104-4b53-9fe3-55d9ccaf475f,116.9,36.4
+Euro 2025,3998847,Spain Women's,Esther Gonzalez Rodríguez,26,1,Open Play,Off T,0.062316082,a6972f4d-9d04-4c9f-a2ac-9ca718aaba69,111.9,35.7
+Euro 2025,3998847,Spain Women's,Esther Gonzalez Rodríguez,30,1,Open Play,Blocked,0.03937072,,99.5,41.8
+Euro 2025,3998847,Spain Women's,Irene Paredes Hernandez,31,1,Open Play,Off T,0.07067196,ba5d6b77-5c2f-4a59-aab9-ae92fd3a9e73,112.2,47.1
+Euro 2025,3998847,Spain Women's,Claudia Pina Medina,34,1,Open Play,Blocked,0.025119117,,93.2,46.1
+Euro 2025,3998847,Spain Women's,Esther Gonzalez Rodríguez,35,1,Open Play,Blocked,0.12446231,8dfdcdd1-d7b9-43f1-a334-4cb9f80db11d,113.4,44.9
+Euro 2025,3998847,Spain Women's,Irene Paredes Hernandez,38,1,Open Play,Goal,0.049756017,cf697625-c0fc-4261-a9b2-29bb8deac1eb,111.8,34.1
+Euro 2025,3998847,Spain Women's,Alexia Putellas Segura,43,1,Open Play,Blocked,0.08763721,b24202b1-69e7-4552-a13c-278ae666a48a,104.1,41.4
+Euro 2025,3998847,Spain Women's,Aitana Bonmati Conca,48,2,Open Play,Off T,0.06916214,288e700b-8c17-4365-badb-c16b94312247,98.7,44.4
+Euro 2025,3998847,Belgium Women's,Hannah Eurlings,49,2,Open Play,Goal,0.33749804,a573a9ee-cdb5-4ea1-87b0-57c2c2d7751c,105.7,45.8
+Euro 2025,3998847,Spain Women's,Esther Gonzalez Rodríguez,51,2,Open Play,Goal,0.28001806,896616da-fade-48b6-b89d-7386c9e4794c,109.5,48.5
+Euro 2025,3998847,Spain Women's,Esther Gonzalez Rodríguez,60,2,Open Play,Blocked,0.24891983,1f65e210-863d-4f0d-8d19-96dce3fff3c0,116.5,38.5
+Euro 2025,3998847,Spain Women's,María Francesca Caldentey Oliver,60,2,Open Play,Goal,0.16854393,,113.6,38.3
+Euro 2025,3998847,Spain Women's,Claudia Pina Medina,62,2,Open Play,Saved,0.10923643,e7c167a4-543f-4608-9a70-798357e8ef8f,116.6,47.1
+Euro 2025,3998847,Spain Women's,Alexia Putellas Segura,62,2,Open Play,Blocked,0.092163265,,113.2,48.9
+Euro 2025,3998847,Spain Women's,Aitana Bonmati Conca,62,2,Open Play,Blocked,0.08618497,,106.8,44.2
+Euro 2025,3998847,Spain Women's,Aitana Bonmati Conca,64,2,Open Play,Blocked,0.07047228,,104.8,31.0
+Euro 2025,3998847,Spain Women's,María Francesca Caldentey Oliver,66,2,Open Play,Blocked,0.05716926,717e0b66-7751-4388-b6c9-387638195718,104.2,30.0
+Euro 2025,3998847,Spain Women's,Patricia Guijarro Gutiérrez,66,2,Open Play,Blocked,0.028877446,b620782a-4c10-4934-80c2-05cb9fa5765a,95.1,47.6
+Euro 2025,3998847,Spain Women's,María Francesca Caldentey Oliver,67,2,Open Play,Blocked,0.050773103,fe24a52c-c154-417d-9103-71f82551d382,103.9,29.0
+Euro 2025,3998847,Belgium Women's,Elena Dhont,68,2,Open Play,Off T,0.02006672,,104.3,52.5
+Euro 2025,3998847,Spain Women's,Alexia Putellas Segura,69,2,Open Play,Post,0.20152408,dc6ab586-9b8a-420d-af3b-808ab15b929e,111.1,36.7
+Euro 2025,3998847,Spain Women's,María Francesca Caldentey Oliver,71,2,Open Play,Saved,0.348308,1cd5e304-30cb-4264-b2d9-4e413f60b292,111.1,42.3
+Euro 2025,3998847,Spain Women's,Athenea del Castillo Belvide,73,2,Open Play,Blocked,0.06993441,2de54bbd-48e8-4b9f-b08f-fde5ddcab9d9,112.6,29.6
+Euro 2025,3998847,Spain Women's,Patricia Guijarro Gutiérrez,75,2,Open Play,Off T,0.033049807,2fa7c8c0-4d37-4dd5-9a0d-5e22a44aa318,98.9,51.1
+Euro 2025,3998847,Belgium Women's,Janice Cayman,76,2,Open Play,Saved,0.028387278,,93.4,34.1
+Euro 2025,3998847,Spain Women's,Claudia Pina Medina,79,2,Open Play,Saved,0.10599425,fe20aa7e-f9b4-40cc-897b-4fb93fbb41d9,115.2,29.2
+Euro 2025,3998847,Spain Women's,Claudia Pina Medina,80,2,Open Play,Goal,0.041845027,f93dc7f5-8452-4ff7-9fe9-c7345b264b36,97.6,32.3
+Euro 2025,3998847,Spain Women's,Leila Ouahabi El Ouahabi,85,2,Open Play,Wayward,0.027956653,,100.4,29.5
+Euro 2025,3998847,Spain Women's,Alexia Putellas Segura,85,2,Open Play,Goal,0.07544898,,111.7,35.8
+Euro 2025,3998847,Spain Women's,Alexia Putellas Segura,91,2,Open Play,Off T,0.047422223,fb845ad1-bee3-41b6-8630-55e4d4545e8d,98.9,45.1
+Euro 2025,3998847,Spain Women's,Alexia Putellas Segura,92,2,Open Play,Off T,0.057457887,811e0e62-a649-4d43-82e9-5e51577a455a,100.7,45.5
+Euro 2025,3998843,England Women's,Lauren James,0,1,Open Play,Off T,0.07322338,2f0b9a75-2ec4-4464-89a9-f67f32b2e6fd,111.0,52.7
+Euro 2025,3998843,France Women's,Selma Bacha,20,1,Open Play,Blocked,0.019616859,c623ac08-7dcf-4d55-abed-5eead472330e,88.7,36.9
+Euro 2025,3998843,France Women's,Oriane Jean-François,20,1,Open Play,Off T,0.03217131,,95.8,38.5
+Euro 2025,3998843,England Women's,Lauren James,22,1,Open Play,Off T,0.064003974,1709a73b-f214-436a-a13f-cc5396744560,108.8,36.6
+Euro 2025,3998843,France Women's,Sakina Karchaoui,23,1,Open Play,Off T,0.0086007435,7b216e28-053e-43c0-9c9d-53c073da2a55,92.0,59.9
+Euro 2025,3998843,France Women's,Sakina Karchaoui,24,1,Open Play,Off T,0.034185946,2b8ed0c5-d6de-4940-b1f4-a87cdb0ba8d0,97.9,22.5
+Euro 2025,3998843,France Women's,Marie-Antoinette Katoto,26,1,Open Play,Saved,0.050929975,8b625a7f-343f-48bb-b737-fc301f31fba4,110.7,36.6
+Euro 2025,3998843,France Women's,Selma Bacha,28,1,Open Play,Saved,0.037722036,5a0d59a4-cee6-4f29-bfa0-487a13218579,100.3,51.8
+Euro 2025,3998843,France Women's,Marie-Antoinette Katoto,35,1,Open Play,Goal,0.62059164,d4f8a25a-301a-4a9d-8c5a-360a70362429,113.8,38.3
+Euro 2025,3998843,France Women's,Sandy Baltimore,38,1,Open Play,Goal,0.1898939,,115.3,30.2
+Euro 2025,3998843,England Women's,Georgia Stanway,49,1,Open Play,Blocked,0.02526788,5d0a6824-9fba-4765-95a1-1c45616611b6,91.0,41.7
+Euro 2025,3998843,France Women's,Elisa De Almeida,49,2,Open Play,Wayward,0.010560125,dcd5dcb7-c718-46d7-a91e-e503dc4f8e2b,87.5,54.2
+Euro 2025,3998843,France Women's,Elisa De Almeida,50,2,Open Play,Off T,0.015068616,90662478-f36e-4984-8526-3873ef606e22,110.4,57.4
+Euro 2025,3998843,France Women's,Onema Grace Geyoro,53,2,Open Play,Saved,0.16479349,83b79594-2d93-4857-8aba-60d87dd81780,106.3,30.5
+Euro 2025,3998843,England Women's,Lauren Hemp,56,2,Open Play,Blocked,0.018480575,97bd45c8-767e-47c8-a08e-ed9a8d6ea0a7,114.9,53.5
+Euro 2025,3998843,France Women's,Kadidiatou Diani,64,2,Open Play,Blocked,0.23568825,,115.2,38.0
+Euro 2025,3998843,France Women's,Oriane Jean-François,75,2,Open Play,Blocked,0.06902699,2379a192-a4d4-497f-8584-2adafb7b4057,105.5,42.2
+Euro 2025,3998843,France Women's,Kadidiatou Diani,76,2,Open Play,Off T,0.15916066,66403548-e491-4523-8afd-cb3d3f14898b,114.1,37.6
+Euro 2025,3998843,England Women's,Ella Toone,85,2,Open Play,Blocked,0.093458645,80db7d88-e38d-4fce-b6bd-24ea41047482,108.0,35.2
+Euro 2025,3998843,England Women's,Ella Toone,85,2,Open Play,Blocked,0.06371972,b73e7fa0-be84-4fb9-93fa-7f952daea6f7,104.2,39.4
+Euro 2025,3998843,England Women's,Keira Walsh,86,2,Open Play,Goal,0.06356522,,101.5,36.2
+Euro 2025,3998843,England Women's,Grace Clinton,89,2,Open Play,Blocked,0.038878713,,97.9,33.8
+Euro 2025,3998843,England Women's,Michelle Agyemang,89,2,Open Play,Blocked,0.13677366,4db650ce-12f1-4baf-9e42-171501c80eb2,114.4,30.6
+Euro 2025,3998843,England Women's,Alessia Russo,92,2,Open Play,Blocked,0.061254237,,100.4,39.0
+Euro 2025,3998843,England Women's,Lauren Hemp,94,2,Open Play,Blocked,0.053681348,,113.4,29.0
+Euro 2025,3998843,England Women's,Grace Clinton,95,2,Open Play,Off T,0.039441664,,98.4,40.5
+Euro 2025,3998840,Germany Women's,Linda Dallmann,2,1,Open Play,Wayward,0.079979666,,101.2,51.4
+Euro 2025,3998840,Germany Women's,Klara Bühl,7,1,Open Play,Off T,0.037232324,c70d5ae5-2eaf-4763-9c7f-67392b15797a,103.5,29.5
+Euro 2025,3998840,Poland Women's,Emilia Urszula Szymczak,13,1,Open Play,Off T,0.09523363,df563cfb-6d6f-4c76-8561-dfcc1b9d9acf,114.3,29.4
+Euro 2025,3998840,Germany Women's,Linda Dallmann,18,1,Open Play,Blocked,0.1413277,d98a75d6-5c4f-4e1a-b7e2-ab41d40158a7,106.2,44.8
+Euro 2025,3998840,Germany Women's,Jule Brand,23,1,Open Play,Saved,0.07793738,d446dc88-772a-47e4-9fdd-a989cf09ac06,107.7,52.6
+Euro 2025,3998840,Germany Women's,Rebecca Knaak,32,1,Open Play,Wayward,0.08400307,d9e8e530-1c1e-41eb-8acf-918becc6f939,112.2,39.3
+Euro 2025,3998840,Germany Women's,Giulia Gwinn,32,1,Open Play,Saved,0.060517315,4852d7fd-eb24-4868-8bca-e92faea3a622,108.9,47.7
+Euro 2025,3998840,Poland Women's,Paulina Tomasiak,34,1,Open Play,Blocked,0.010157472,13030e4f-4bbe-4bc8-bd4f-ca64ea0ba986,104.2,61.3
+Euro 2025,3998840,Poland Women's,Ewelina Kamczyk,35,1,Open Play,Blocked,0.024341427,,98.0,26.3
+Euro 2025,3998840,Poland Women's,Ewa Pajor,35,1,Open Play,Wayward,0.013551016,,93.4,26.8
+Euro 2025,3998840,Poland Women's,Natalia Padilla-Bidas,35,1,Open Play,Blocked,0.025518952,1bba95ec-3d24-4a32-99ad-e9700b869878,92.5,46.6
+Euro 2025,3998840,Poland Women's,Ewa Pajor,35,1,Open Play,Blocked,0.1324522,,107.0,40.2
+Euro 2025,3998840,Germany Women's,Janina Minge,40,1,Open Play,Off T,0.04197658,4fd456a1-93db-4d0a-bf8d-0207c85ccbb4,110.9,45.9
+Euro 2025,3998840,Germany Women's,Sjoeke Nüsken,42,1,Open Play,Blocked,0.026638309,,97.0,32.2
+Euro 2025,3998840,Germany Women's,Klara Bühl,46,1,Free Kick,Off T,0.04016375,,96.9,56.2
+Euro 2025,3998840,Germany Women's,Lea Schüller,47,1,Open Play,Off T,0.3183725,9cefed63-4f5d-41b5-9635-9ce38828df14,109.4,40.3
+Euro 2025,3998840,Germany Women's,Sjoeke Nüsken,45,2,Open Play,Blocked,0.10750954,fe902bdf-b442-42f0-99e5-9eb12fc0d1f1,112.4,49.6
+Euro 2025,3998840,Germany Women's,Jule Brand,45,2,Open Play,Saved,0.045270506,eef1b332-ec31-403e-8515-3a26bfd11ffa,108.6,45.8
+Euro 2025,3998840,Germany Women's,Linda Dallmann,47,2,Open Play,Off T,0.066164955,,99.9,42.7
+Euro 2025,3998840,Germany Women's,Sjoeke Nüsken,50,2,Open Play,Off T,0.07733557,b6185f20-0820-416a-92da-659e095d1993,111.7,44.9
+Euro 2025,3998840,Germany Women's,Jule Brand,51,2,Open Play,Goal,0.030847214,5202cf7a-78a7-4628-97b3-b47d91161d84,100.6,53.0
+Euro 2025,3998840,Poland Women's,Sylwia Matysik,60,2,Open Play,Wayward,0.00473038,,73.9,49.5
+Euro 2025,3998840,Germany Women's,Sjoeke Nüsken,60,2,Open Play,Off T,0.18456429,1cdbabb5-026c-4389-9ce0-606dc5f28f5d,118.3,45.9
+Euro 2025,3998840,Germany Women's,Klara Bühl,62,2,Open Play,Off T,0.05612729,1df9710b-dc0a-48ac-aab6-216d31933bba,104.2,29.0
+Euro 2025,3998840,Poland Women's,Ewa Pajor,63,2,Open Play,Saved,0.09470412,7e2e9e1b-cd8e-40bc-9cf1-f0b77a4085c7,106.0,50.4
+Euro 2025,3998840,Germany Women's,Lea Schüller,63,2,Open Play,Off T,0.31455034,5b9478bd-1aaf-4271-89a4-bb2ed7759c02,114.6,42.2
+Euro 2025,3998840,Germany Women's,Lea Schüller,65,2,Open Play,Goal,0.22547805,6693f2e1-5942-4760-838f-492890806da1,114.4,34.8
+Euro 2025,3998840,Poland Women's,Kayla Joan Zophia Adamek,68,2,Open Play,Off T,0.02366625,2e82c346-5378-4b93-a034-9096ce1390dd,99.1,22.9
+Euro 2025,3998840,Germany Women's,Sjoeke Nüsken,71,2,Open Play,Blocked,0.07179645,be635bbe-adbd-4f16-93db-17313ebe97d5,113.4,45.4
+Euro 2025,3998840,Poland Women's,Tanja Pawollek,77,2,Open Play,Off T,0.06562846,5c038119-5e2f-49ce-a3fd-a459e4ca88cf,112.0,46.6
+Euro 2025,3998840,Germany Women's,Jule Brand,78,2,Open Play,Wayward,0.09685731,ca831a7c-2726-4b35-a4b6-19eba83e2255,109.8,41.1
+Euro 2025,3998840,Poland Women's,Ewa Pajor,80,2,Open Play,Saved,0.118617676,681e1de9-0eb3-4136-b975-b4dd0b37797a,112.9,41.1
+Euro 2025,3998840,Germany Women's,Sjoeke Nüsken,83,2,Open Play,Saved,0.01668939,,89.0,48.7
+Euro 2025,3998840,Germany Women's,Sjoeke Nüsken,85,2,Open Play,Off T,0.07370499,38afc4a7-21ce-40ca-bb8e-0014e1e01111,101.2,36.4
+Euro 2025,3998840,Germany Women's,Selina Cerci,89,2,Open Play,Blocked,0.011123675,dec10385-4bd0-4a83-8f26-0d5c255edf26,105.9,20.6
+Euro 2025,3998840,Germany Women's,Giovanna Hoffmann,92,2,Open Play,Off T,0.009287105,7adc039a-642d-4539-bb1c-63da438fc55c,100.8,58.9
+Euro 2025,3998839,Spain Women's,Esther Gonzalez Rodríguez,1,1,Open Play,Goal,0.20179321,3a663d99-1a07-4706-aee7-dced5254b00a,113.0,35.7
+Euro 2025,3998839,Spain Women's,Victoria López,6,1,Open Play,Goal,0.5675244,e1707316-2467-4bc5-9f91-f82a3ee20161,115.0,39.7
+Euro 2025,3998839,Spain Women's,Esther Gonzalez Rodríguez,15,1,Open Play,Saved,0.057982214,,112.3,54.6
+Euro 2025,3998839,Spain Women's,Claudia Pina Medina,17,1,Open Play,Saved,0.113796026,193414c7-052a-4e21-a3ae-633db87aaa9b,103.8,29.7
+Euro 2025,3998839,Spain Women's,Esther Gonzalez Rodríguez,18,1,Open Play,Blocked,0.057900213,6a789f9f-0bf4-4628-9b90-bbe58c898ac6,104.8,39.1
+Euro 2025,3998839,Spain Women's,Alexia Putellas Segura,20,1,Open Play,Off T,0.10457949,d96b2668-dee8-48c3-851d-b0c7f120154b,104.5,40.3
+Euro 2025,3998839,Spain Women's,Victoria López,23,1,Open Play,Off T,0.021873645,a31c520c-2322-4a79-a7f3-c932f23b6f1c,94.7,24.3
+Euro 2025,3998839,Portugal Women's,Carole da Silva Costa,26,1,Open Play,Wayward,0.023910778,49979992-25b3-4ab6-9cbd-a7622e710bb5,107.3,32.1
+Euro 2025,3998839,Portugal Women's,Beatriz Pina Fonseca,26,1,Open Play,Blocked,0.032692973,72f6f9f6-5e12-4c0d-a30e-cb7e667d11d5,102.5,32.8
+Euro 2025,3998839,Spain Women's,Esther Gonzalez Rodríguez,28,1,Open Play,Blocked,0.064476766,4f833615-74a4-4ae4-b45a-17bad6d4238e,115.6,33.4
+Euro 2025,3998839,Spain Women's,Claudia Pina Medina,34,1,Open Play,Saved,0.21467435,5281fe58-4f0d-486f-9ffe-47dbd48015bd,108.6,31.0
+Euro 2025,3998839,Spain Women's,Alexia Putellas Segura,40,1,Open Play,Goal,0.16787322,49126864-044f-457b-af69-ca07a4d0949c,111.3,34.5
+Euro 2025,3998839,Spain Women's,Esther Gonzalez Rodríguez,42,1,Open Play,Blocked,0.06441572,265b8c69-554b-4ae8-81d1-b9b2974acb15,106.1,42.0
+Euro 2025,3998839,Spain Women's,Esther Gonzalez Rodríguez,42,1,Open Play,Goal,0.72276735,5eeb485b-d242-42e4-af9e-6f37bd9c9501,117.9,40.8
+Euro 2025,3998839,Spain Women's,Alexia Putellas Segura,46,2,Open Play,Off T,0.11348284,f061fe92-46f3-4b35-9c06-f08074668bbb,111.8,47.6
+Euro 2025,3998839,Portugal Women's,Jéssica da Silva,48,2,Open Play,Wayward,0.0064592687,db03d1b9-9d11-451b-9561-f7271937d3f1,80.6,65.7
+Euro 2025,3998839,Spain Women's,Olga  Carmona García,58,2,Open Play,Off T,0.021218397,f2b23aa8-6786-437b-8bde-2c9e9579fbe6,87.8,32.3
+Euro 2025,3998839,Spain Women's,María Francesca Caldentey Oliver,60,2,Open Play,Blocked,0.04153897,98be2124-72e4-4586-b02c-e27869916e99,102.1,32.2
+Euro 2025,3998839,Spain Women's,Alexia Putellas Segura,60,2,Open Play,Off T,0.06583432,544dc72e-8827-4977-ac32-4b45c0e59739,107.6,41.8
+Euro 2025,3998839,Portugal Women's,Andreia Alexandra Norton,64,2,Open Play,Blocked,0.020211317,d61f1330-7366-47e6-a289-692c839e8d71,91.9,50.9
+Euro 2025,3998839,Portugal Women's,Ana Ines Palma Capeta,74,2,Open Play,Off T,0.14030053,a5f6c25e-3c0b-4e71-8ed7-b0a185b74b04,111.1,31.8
+Euro 2025,3998839,Spain Women's,Jana Fernandez Velasco,79,2,Open Play,Off T,0.020843945,035868e6-ac30-4936-bd52-bf254de5f6b1,88.6,48.9
+Euro 2025,3998839,Spain Women's,Patricia Guijarro Gutiérrez,84,2,Open Play,Off T,0.039412823,,99.5,49.2
+Euro 2025,3998839,Spain Women's,Cristina Martín-Prieto Gutierrez,85,2,Open Play,Saved,0.43679002,ce387ddf-cff2-47c3-941a-6540f0119ae3,111.9,39.4
+Euro 2025,3998839,Spain Women's,Olga  Carmona García,86,2,Open Play,Off T,0.027190598,,100.6,28.5
+Euro 2025,3998839,Portugal Women's,Ana Ines Palma Capeta,88,2,Open Play,Blocked,0.027938487,e1431e18-ceb0-47bd-984b-adeb5f3acbf8,105.7,57.5
+Euro 2025,3998839,Portugal Women's,Andreia Martins Faria,89,2,Open Play,Saved,0.06415349,,105.6,44.4
+Euro 2025,3998839,Spain Women's,Salma Paralluelo Ayingono,90,2,Open Play,Blocked,0.041598216,486f39e9-7632-4f91-a14a-027ea2feeb1d,99.2,29.1
+Euro 2025,3998839,Spain Women's,Cristina Martín-Prieto Gutierrez,92,2,Open Play,Goal,0.24645637,644deceb-fe02-4180-8bea-eca113610bfe,114.3,42.2

@@ -26,6 +26,20 @@ an attacking core dangerous in both roles. Removing penalties changed
 the picture: Chloe Kelly's saved penalty against Italy had made her
 look wasteful, when her real strength was creating chances.
 
+![Road to Euro 2029: xG difference per match across four tournaments](road_to_2029_trend.png)
+
+**Looking ahead to Euro 2029:** Spain have become the most dominant team
+in the data, while Germany, the hosts, dropped sharply at Euro 2025.
+England win tournaments through clinical finishing rather than dominance,
+and have allowed more chances at every tournament since 2019.
+
+![England's attack by age at Euro 2029](england_age_2029.png)
+
+England's attack is ageing: 9 of 17 attacking contributors will be 30
+or older by 2029, accounting for 49.8% of their attacking involvement
+at Euro 2025. A third straight title may depend on younger players
+stepping up.
+
 ## Interactive dashboard
 
 The analysis is packaged as a Streamlit dashboard with three sections:
@@ -101,6 +115,7 @@ Data provided by [StatsBomb](https://github.com/statsbomb/open-data).
 - [x] Build first visualisation (shot map of the Euro 2025 final)
 - [x] Build further visualisations (player analysis)
 - [x] Assemble the interactive Streamlit dashboard
+- [x] Looking ahead to Euro 2029 (trends and squad ages)
 - [ ] Publish the dashboard online
 - [ ] Stretch goal: build a simple expected goals (xG) model
 - [ ] Record a short demo video walkthrough
@@ -111,17 +126,25 @@ Data provided by [StatsBomb](https://github.com/statsbomb/open-data).
 
 ```
 womens-football-dashboard/
-├── 01_exploration.ipynb           # Exploring the StatsBomb data
-├── 02_shot_map.ipynb              # Shot map and xG analysis of the final
-├── 03_england_journey.ipynb       # England's six matches: xG and goals
-├── england_journey_xg.png         # Tournament overview chart
-├── shot_map_euro2025_final.png    # Saved shot map image
-├── app.py   # The Streamlit dashboard
-├── DEVLOG.md                      # Session-by-session development log
-├── requirements.txt               # Python libraries needed to run the project
-├── .gitignore                     # Files excluded from the repository
-└── README.md                      # You are here
-
+├── app.py                              # The Streamlit dashboard
+├── 01_exploration.ipynb                # Exploring the StatsBomb data
+├── 02_shot_map.ipynb                   # Shot map and xG analysis of the final
+├── 03_england_journey.ipynb            # England's six matches and player analysis
+├── 04_looking_ahead.ipynb              # Trends and squad ages for Euro 2029
+├── data/
+│   ├── shots_2019_2025.csv             # Shots from four tournaments
+│   ├── england_ages.csv                # Player birthdates
+│   └── england_players_euro2025.csv    # England player stats
+├── shot_map_euro2025_final.png         # Shot map of the final
+├── england_journey_xg.png              # Tournament overview chart
+├── england_players_npxg.png            # Top 10 by non-penalty xG
+├── england_shooters_vs_creators.png    # Shooters vs creators chart
+├── road_to_2029_trend.png              # Rivals trend chart
+├── england_age_2029.png                # Squad age chart
+├── DEVLOG.md                           # Session-by-session development log
+├── requirements.txt                    # Python libraries needed
+├── .gitignore                          # Files excluded from the repository
+└── README.md                           # You are here
 ```
 
 ---

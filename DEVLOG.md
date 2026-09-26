@@ -237,3 +237,54 @@ stats table). Moved my notebook code into functions and cached the data.
   as my analysis. Many teams use both, choosing the right tool for the job.
 
 **Next time:** Session 7: Looking ahead to Euro 2029.
+
+## Session 7
+
+**Goal:** Answer question 5: what does the data suggest about England's
+chances of a third straight Euros title at Euro 2029 in Germany?
+
+**What I did:** Downloaded every open-play shot from England, Spain and
+Germany's matches across four tournaments (World Cup 2019 to Euro 2025)
+and saved them to a CSV. Compared each team's xG difference per match
+over time. Added a second data source (birthdates from Wikipedia) to
+work out England players' ages at Euro 2029. Built a trend chart and an
+age chart, and added a fourth "Looking ahead to 2029" tab to the dashboard.
+
+**What I learned:**
+
+- Dictionaries store pairs of keys and values, like tournament names and IDs.
+- Loops inside loops: going through each tournament, then each match inside it.
+- Saving data to CSV means downloading once and loading instantly after.
+- transform("sum") gives each row its group's total, which let me work
+  out xG against.
+- Categorical ordering keeps tournaments in time order, not alphabetical.
+- Combining two data sources by matching names, and checking none are
+  missing with sets.
+- np.where works like an IF formula in Excel.
+- Indentation errors: pasting with the cursor on an indented line can
+  push code into the wrong place.
+
+**Open question:**
+
+- What will England do now that their attack is ageing?
+  The data shows the problem but can't answer it yet. Possible answers:
+  younger squad players like Lauren James, Aggie Beever-Jones and
+  Michelle Agyemang stepping up, or new players coming through the WSL.
+  Future idea: use StatsBomb's WSL 2023/24 data to find young English
+  players performing well at club level, like a scouting tool.
+
+**Things I noticed in the data:**
+
+- Spain went from 0.78 to around 2.0 xG difference per match: the team
+  on the rise.
+- England have allowed more chances at every tournament since 2019,
+  but consistently score more than their xG.
+- Germany dropped from around 1.2 to 0.02 at Euro 2025.
+- 9 of England's 17 attacking contributors will be 30+ by 2029, making
+  up 49.8% of their attacking involvement. Toone is just under the line,
+  so the result is sensitive to the threshold.
+- Caveats: short trend, different opponents at World Cups and Euros,
+  small samples, and an assumed tournament date.
+
+**Next time:** Session 8: publish the dashboard online, polish the
+README, and record a demo video.

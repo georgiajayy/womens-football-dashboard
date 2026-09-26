@@ -88,6 +88,51 @@ def build_players(shots, events):
     return players.sort_values("npxg", ascending=False)
 
 
+TOURNAMENT_ORDER = ["World Cup 2019",
+                    "Euro 2022", "World Cup 2023", "Euro 2025"]
+RIVALS = ["England", "Spain", "Germany"]
+
+
+@st.cache_data
+def build_trend():
+    past = pd.read_csv("data/shots_2019_2025.csv")
+    past["is_goal"] = past["shot_outcome"] == "Goal"
+
+    match_team = past.groupby(["tournament", "match_id", "team"]).agg(
+        xg=("shot_statsbomb_xg", "sum"),
+        goals=("is_goal", "sum")
+    ).reset_index()
+
+    totals = match_team.groupby("match_id")[["xg", "goals"]].transform("sum")
+    match_team["xg_against"] = totals["xg"] - match_team["xg"]
+    match_team["goals_against"] = totals["goals"] - match_team["goals"]
+
+    ours = match_team[match_team["team"].str.contains("|".join(RIVALS))].copy()
+    ours["team"] = ours["team"].str.replace(r" (Women's|W)$", "", regex=True)
+
+    trend = ours.groupby(["team", "tournament"]).agg(
+        xg_for=("xg", "mean"),
+        xg_against=("xg_against", "mean"),
+        goals_for=("goals", "mean"),
+        goals_against=("goals_against", "mean")
+    ).reset_index()
+
+    trend["xg_difference"] = trend["xg_for"] - trend["xg_against"]
+    trend["goal_difference"] = trend["goals_for"] - trend["goals_against"]
+    trend["tournament"] = pd.Categorical(
+        trend["tournament"], categories=TOURNAMENT_ORDER, ordered=True)
+    return trend.sort_values(["team", "tournament"]).round(2)
+
+
+def build_squad(players):
+    ages = pd.read_csv("data/england_ages.csv", parse_dates=["birth_date"])
+    squad = players.merge(ages, left_index=True, right_on="player")
+    squad["age_2029"] = ((pd.Timestamp("2029-07-01") -
+                         squad["birth_date"]).dt.days / 365.25).round(1)
+    squad["involvement"] = squad["npxg"] + squad["xg_assisted"]
+    return squad
+
+
 # ---------- CHARTS ----------
 
 def style_axes(ax):
@@ -200,6 +245,50 @@ def creators_chart(players):
     return fig
 
 
+def trend_chart(trend):
+    colours = {"England": PINK, "Spain": "white", "Germany": "#888888"}
+    offsets = {"England": 14, "Spain": 14, "Germany": -20}
+
+    fig, ax = plt.subplots(figsize=(12, 6.5))
+    fig.set_facecolor(DARK)
+    ax.set_facecolor(DARK)
+
+    for team in RIVALS:
+        data = trend[trend["team"] == team]
+        ax.plot(data["tournament"].astype(str), data["xg_difference"],
+                marker="o", linewidth=2.5, markersize=8, color=colours[team], label=team)
+        for i, (xgd, gd) in enumerate(zip(data["xg_difference"], data["goal_difference"])):
+            ax.annotate(f"{xgd:.2f} ({gd:+.2f})", (i, xgd), xytext=(0, offsets[team]),
+                        textcoords="offset points", color=colours[team], fontsize=9, ha="center")
+
+    ax.axhline(0, color=GREY, linestyle="--", linewidth=1)
+    ax.set_ylabel("xG difference per match", color="white")
+    style_axes(ax)
+    ax.legend(facecolor=DARK, edgecolor=GREY, labelcolor="white")
+    return fig
+
+
+def age_chart(squad):
+    fig, ax = plt.subplots(figsize=(11, 6.5))
+    fig.set_facecolor(DARK)
+    ax.set_facecolor(DARK)
+
+    ax.axvspan(30, squad["age_2029"].max() + 1, color=PINK, alpha=0.08)
+    ax.text(30.3, squad["involvement"].max(), "30 or older\nby Euro 2029",
+            color=PINK, fontsize=10, va="top")
+
+    ax.scatter(squad["age_2029"], squad["involvement"], s=120,
+               color=PINK, edgecolors="white", zorder=3)
+    for _, row in squad[squad["involvement"] >= 0.5].iterrows():
+        ax.annotate(row["player"].split()[-1], (row["age_2029"], row["involvement"]),
+                    xytext=(7, 5), textcoords="offset points", color="white", fontsize=9)
+
+    ax.set_xlabel("Age at Euro 2029", color="white")
+    ax.set_ylabel("Attacking involvement at Euro 2025", color="white")
+    style_axes(ax)
+    return fig
+
+
 # ---------- PAGE ----------
 
 st.title("England's Euro 2025 journey")
@@ -215,8 +304,9 @@ with st.spinner("Loading match data..."):
 
 journey = build_journey(shots, england)
 
-tab_overview, tab_match, tab_players = st.tabs(
-    ["Tournament overview", "Match explorer", "Player view"]
+tab_overview, tab_match, tab_players, tab_future = st.tabs(
+    ["Tournament overview", "Match explorer",
+        "Player view", "Looking ahead to 2029"]
 )
 
 with tab_overview:
@@ -279,3 +369,48 @@ with tab_players:
         }),
         use_container_width=True
     )
+
+with tab_future:
+    st.subheader("Can England win a third straight Euros in 2029?")
+    st.write(
+        "Euro 2029 will be held in Germany. Data can't predict a tournament, "
+        "but it can show who is trending up, and how England's squad is ageing."
+    )
+
+    st.markdown(
+        "**Who's trending up?** England, Spain and Germany across the last four tournaments")
+    st.pyplot(trend_chart(build_trend()))
+    st.caption(
+        "Labels show xG difference per match, with actual goal difference per match in brackets.")
+    st.write(
+        "Spain have become the most dominant team in the data. England win tournaments "
+        "through clinical finishing rather than dominance, and have allowed more chances "
+        "at every tournament since 2019. Germany dropped sharply at Euro 2025."
+    )
+
+    st.markdown("**Is England's attack ageing?**")
+    squad = build_squad(build_players(shots, events))
+    older = squad[squad["age_2029"] >= 30]
+    share = older["involvement"].sum() / squad["involvement"].sum() * 100
+
+    col1, col2 = st.columns(2)
+    col1.metric("Attackers aged 30+ by Euro 2029",
+                f"{len(older)} of {len(squad)}")
+    col2.metric("Share of attacking involvement from that group",
+                f"{share:.1f}%")
+
+    st.pyplot(age_chart(squad))
+    st.write(
+        "England's core trio of Russo, Toone and Hemp will all be around 30 by 2029. "
+        "A third straight title may depend on younger players like Lauren James, "
+        "Aggie Beever-Jones and Michelle Agyemang stepping up."
+    )
+
+    with st.expander("About this analysis"):
+        st.write(
+            "Four tournaments is a short trend, and World Cups and Euros have different "
+            "opponents. Some samples are small. The age line at 30 is a simple threshold, "
+            "not a scientific cut-off, and Ella Toone sits just under it. Euro 2029 dates "
+            "aren't confirmed, so 1 July 2029 is used for ages. Birthdates come from the "
+            "Wikipedia Euro 2025 squads page."
+        )
