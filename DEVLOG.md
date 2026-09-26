@@ -1,6 +1,6 @@
 # Devlog – Women's Football Dashboard
 
-## Session 1 – 24/09/2026
+## Session 1
 
 **Goal:** Set up my workspace and load real football data into Python for the first time.
 
@@ -22,7 +22,7 @@ It's a local file that can be accessed as a viewing screen on the browser; it's 
 
 **Next time:** Put the project on GitHub and load my first full match.
 
-## Session 2 – 26/09/2026
+## Session 2
 
 **Goal:** Load a full match from Euro 2025 and explore its event data.
 
@@ -67,3 +67,51 @@ to England's six games, loaded every event from the final against Spain
 - StatsBomb minutes are elapsed time, so the 25th-minute goal shows as 24.
 
 **Next time:** Plot every shot from the final on a football pitch using mplsoccer.
+
+## Session 3
+
+**Goal:** Create my first visualisation: a shot map of the Euro 2025 final.
+
+**What I did:** Started a new notebook, filtered the final's shots (excluding
+the penalty shootout), split each shot's location into x and y coordinates,
+flipped Spain's shots to the opposite end, and built a styled shot map sized
+by xG with goals shown as stars. Then compared both teams' xG with groupby
+and tested who shot from inside the box.
+
+**What I learned:**
+
+- Coordinates: StatsBomb's pitch is 120 x 80, and every team attacks left
+  to right. To show both teams, I flipped one by subtracting from 120 and 80,
+  like rotating the pitch 180 degrees.
+- mplsoccer: Pitch() draws the pitch, and pitch.scatter() places dots on it.
+  fig is the whole canvas, ax is the area the pitch is drawn on.
+- Styling: hex codes set colours, alpha makes dots see-through, zorder controls
+  layering (like track order in an edit), and comments starting with #
+  label sections of code.
+- groupby: splits data into groups and calculates something for each one,
+  like a pivot table in Excel.
+
+**What confused me:**
+
+- A NameError when drawing the chart.
+  Resolved: the cells creating england_shots hadn't been run. NameError means
+  something hasn't been created yet. Run All Cells runs everything in order.
+- Why every shot appeared at the same goal on my first attempt.
+  Resolved: StatsBomb records both teams attacking the same direction, so one
+  team needs flipping.
+
+**Things I noticed in the data:**
+
+- Spain dominated volume: 23 shots and 2.14 xG, against England's 8 shots
+  and 0.88 xG.
+- But shot quality was similar: England's average xG per shot was slightly
+  higher (0.11 vs 0.09), and both teams took about 75% of shots inside the box.
+- So Spain's advantage came from volume, not better positions. My first
+  impression from the chart was only half right, which shows why visuals
+  should be checked against numbers.
+- England matched their xG; Spain scored once from over two goals' worth
+  of chances.
+- Caveat: this is one match, so it's a small sample.
+
+**Next time:** Add the shot map to my README, then decide the dashboard's
+wider focus.

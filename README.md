@@ -4,6 +4,13 @@ An interactive dashboard exploring women's football using professional match eve
 
 > 🚧 **Status: In progress.** This project is being built step by step, and documented as I go. Follow along in the [devlog](DEVLOG.md).
 
+![Shot map of the Euro 2025 final between England and Spain](shot_map_euro2025_final.png)
+
+**Latest finding:** In the Euro 2025 final, Spain took nearly three times
+as many shots as England (23 vs 8) and generated 2.14 xG to England's 0.88.
+But shot for shot, England's chances were just as good, with a slightly
+higher average xG per shot. Spain's advantage came from volume, not quality.
+
 ---
 
 ## About the project
@@ -35,15 +42,15 @@ Data provided by [StatsBomb](https://github.com/statsbomb/open-data).
 
 ## Tools and technologies
 
-| Tool | What it's used for |
-|---|---|
-| **Python** | The programming language for the whole project |
-| **pandas** | Loading, cleaning and analysing tables of data |
-| **statsbombpy** | Downloading StatsBomb data directly into Python |
-| **mplsoccer** | Drawing football pitches for shot maps, pass maps and heatmaps |
-| **matplotlib** | Creating charts and visualisations |
-| **Jupyter Notebook** | Exploring the data step by step |
-| **Streamlit** | Building the interactive web dashboard |
+| Tool                 | What it's used for                                             |
+| -------------------- | -------------------------------------------------------------- |
+| **Python**           | The programming language for the whole project                 |
+| **pandas**           | Loading, cleaning and analysing tables of data                 |
+| **statsbombpy**      | Downloading StatsBomb data directly into Python                |
+| **mplsoccer**        | Drawing football pitches for shot maps, pass maps and heatmaps |
+| **matplotlib**       | Creating charts and visualisations                             |
+| **Jupyter Notebook** | Exploring the data step by step                                |
+| **Streamlit**        | Building the interactive web dashboard                         |
 
 ---
 
@@ -51,9 +58,10 @@ Data provided by [StatsBomb](https://github.com/statsbomb/open-data).
 
 - [x] Set up the project environment and GitHub repository
 - [x] Load StatsBomb data and filter to women's competitions
-- [ ] Explore a full match and understand the event data
+- [x] Explore a full match and understand the event data
 - [ ] Choose the project's focus and key questions
-- [ ] Build visualisations (shot maps, passing networks, player comparisons)
+- [x] Build first visualisation (shot map of the Euro 2025 final)
+- [ ] Build further visualisations (passing networks, player comparisons)
 - [ ] Assemble the interactive Streamlit dashboard
 - [ ] Publish the dashboard online
 - [ ] Stretch goal: build a simple expected goals (xG) model
@@ -65,11 +73,13 @@ Data provided by [StatsBomb](https://github.com/statsbomb/open-data).
 
 ```
 womens-football-dashboard/
-├── 01_exploration.ipynb    # Exploring the StatsBomb data
-├── DEVLOG.md               # Session-by-session development log
-├── requirements.txt        # Python libraries needed to run the project
-├── .gitignore              # Files excluded from the repository
-└── README.md               # You are here
+├── 01_exploration.ipynb           # Exploring the StatsBomb data
+├── 02_shot_map.ipynb              # Shot map and xG analysis of the final
+├── shot_map_euro2025_final.png    # Saved shot map image
+├── DEVLOG.md                      # Session-by-session development log
+├── requirements.txt               # Python libraries needed to run the project
+├── .gitignore                     # Files excluded from the repository
+└── README.md                      # You are here
 ```
 
 ---
@@ -77,12 +87,14 @@ womens-football-dashboard/
 ## How to run it yourself
 
 1. Clone the repository:
+
    ```
    git clone https://github.com/georgiajayy/womens-football-dashboard.git
    cd womens-football-dashboard
    ```
 
 2. Create and activate a virtual environment:
+
    ```
    python -m venv .venv
 
@@ -94,6 +106,7 @@ womens-football-dashboard/
    ```
 
 3. Install the required libraries:
+
    ```
    pip install -r requirements.txt
    ```
