@@ -26,6 +26,19 @@ an attacking core dangerous in both roles. Removing penalties changed
 the picture: Chloe Kelly's saved penalty against Italy had made her
 look wasteful, when her real strength was creating chances.
 
+## Interactive dashboard
+
+The analysis is packaged as a Streamlit dashboard with three sections:
+
+- **Tournament overview:** England's xG and goals across all six matches.
+- **Match explorer:** pick any of England's matches to see its key stats
+  and shot map.
+- **Player view:** who drove England's attack, with a sortable stats table.
+
+To run it locally (after the setup steps below):
+
+    streamlit run app.py
+
 ---
 
 ## About the project
@@ -87,7 +100,7 @@ Data provided by [StatsBomb](https://github.com/statsbomb/open-data).
 - [x] Build tournament overview chart (xG and goals, match by match)
 - [x] Build first visualisation (shot map of the Euro 2025 final)
 - [x] Build further visualisations (player analysis)
-- [ ] Assemble the interactive Streamlit dashboard
+- [x] Assemble the interactive Streamlit dashboard
 - [ ] Publish the dashboard online
 - [ ] Stretch goal: build a simple expected goals (xG) model
 - [ ] Record a short demo video walkthrough
@@ -103,6 +116,7 @@ womens-football-dashboard/
 ├── 03_england_journey.ipynb       # England's six matches: xG and goals
 ├── england_journey_xg.png         # Tournament overview chart
 ├── shot_map_euro2025_final.png    # Saved shot map image
+├── app.py   # The Streamlit dashboard
 ├── DEVLOG.md                      # Session-by-session development log
 ├── requirements.txt               # Python libraries needed to run the project
 ├── .gitignore                     # Files excluded from the repository

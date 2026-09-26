@@ -204,3 +204,36 @@ Streamlit dashboard with three sections: a tournament overview
 (England's journey chart), a match explorer (pick any of England's
 six matches to see its shot map), and a player view (top 10 and
 shooters vs creators charts).
+
+## Session 6
+
+**Goal:** Turn my notebook analysis into an interactive Streamlit dashboard.
+
+**What I did:** Built app.py with three tabs: a tournament overview
+(England's journey chart), a match explorer (a dropdown to pick any
+of England's six matches, with a stats strip and shot map), and a
+player view (top 10 chart, shooters vs creators scatter, and a sortable
+stats table). Moved my notebook code into functions and cached the data.
+
+**What I learned:**
+
+- A Streamlit app is a Python file that reruns top to bottom every time
+  someone clicks something.
+- Caching (@st.cache_data) remembers the data after the first load,
+  so the app stays fast.
+- Decorators: the @ line above a function gives it an extra power.
+- Colour constants (PINK, DARK, GREY) store my palette in one place.
+- Streamlit building blocks: st.tabs, st.selectbox, st.columns,
+  st.metric, st.pyplot and st.dataframe.
+- .iloc[0] picks a row by position.
+
+**What confused me:**
+
+- How Streamlit works, and why use it instead of Power BI.
+  Resolved: Streamlit turns a Python file into a web page, rerunning
+  the file whenever someone clicks something. Power BI is drag-and-drop
+  and great for business reporting, but Streamlit can show anything
+  Python can make, like pitch maps and ML models, using the same code
+  as my analysis. Many teams use both, choosing the right tool for the job.
+
+**Next time:** Session 7: Looking ahead to Euro 2029.
