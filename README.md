@@ -2,7 +2,9 @@
 
 An interactive dashboard exploring women's football using professional match event data from StatsBomb.
 
-> 🚧 **Status: In progress.** This project is being built step by step, and documented as I go. Follow along in the [devlog](DEVLOG.md).
+**🔗 [Open the live dashboard](https://lionesses-euro2025.streamlit.app/)**
+
+> ✅ **Status: Live.** Explore the [interactive dashboard](https://lionesses-euro2025.streamlit.app/), or follow the build in the [devlog](DEVLOG.md).
 
 ![Shot map of the Euro 2025 final between England and Spain](shot_map_euro2025_final.png)
 
@@ -116,7 +118,7 @@ Data provided by [StatsBomb](https://github.com/statsbomb/open-data).
 - [x] Build further visualisations (player analysis)
 - [x] Assemble the interactive Streamlit dashboard
 - [x] Looking ahead to Euro 2029 (trends and squad ages)
-- [ ] Publish the dashboard online
+- [x] Publish the dashboard online
 - [ ] Stretch goal: build a simple expected goals (xG) model
 - [ ] Record a short demo video walkthrough
 
@@ -177,10 +179,13 @@ womens-football-dashboard/
    ```
 
 4. Open the notebook:
+
    ```
    jupyter notebook
    ```
+
    pip install jupyter
+
    ```
 
    ```
