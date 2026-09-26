@@ -1,67 +1,22 @@
-# Women's Football Dashboard ⚽
+# England's Euro 2025 Journey ⚽
 
-An interactive dashboard exploring women's football using professional match event data from StatsBomb.
+An interactive dashboard analysing how England won Women's Euro 2025, and what the data suggests about their chances of a third straight title at Euro 2029, using professional match event data from StatsBomb.
 
 **🔗 [Open the live dashboard](https://lionesses-euro2025.streamlit.app/)**
 
-> ✅ **Status: Live.** Explore the [interactive dashboard](https://lionesses-euro2025.streamlit.app/), or follow the build in the [devlog](DEVLOG.md).
-
-![Shot map of the Euro 2025 final between England and Spain](shot_map_euro2025_final.png)
-
-**Latest finding:** In the Euro 2025 final, Spain took nearly three times
-as many shots as England (23 vs 8) and generated 2.14 xG to England's 0.88.
-But shot for shot, England's chances were just as good, with a slightly
-higher average xG per shot. Spain's advantage came from volume, not quality.
+> ✅ **Status: Live.** Explore the [interactive dashboard](https://lionesses-euro2025.streamlit.app/), or follow the full build, session by session, in the [devlog](DEVLOG.md).
 
 ![England's Euro 2025 journey: xG and goals match by match](england_journey_xg.png)
-
-**England's journey:** England were out-created in their opening defeat
-to France, dominated the Netherlands and Wales, were level on chances
-with Sweden, and were clearly stronger than Italy. In the final, Spain
-created more than twice England's xG, but England held on and won on penalties.
-
-![Shooters vs creators: England at Euro 2025](england_shooters_vs_creators.png)
-
-**Who drove England's attack?** Alessia Russo led England in both
-shooting threat and assists, with Ella Toone and Lauren Hemp completing
-an attacking core dangerous in both roles. Removing penalties changed
-the picture: Chloe Kelly's saved penalty against Italy had made her
-look wasteful, when her real strength was creating chances.
-
-![Road to Euro 2029: xG difference per match across four tournaments](road_to_2029_trend.png)
-
-**Looking ahead to Euro 2029:** Spain have become the most dominant team
-in the data, while Germany, the hosts, dropped sharply at Euro 2025.
-England win tournaments through clinical finishing rather than dominance,
-and have allowed more chances at every tournament since 2019.
-
-![England's attack by age at Euro 2029](england_age_2029.png)
-
-England's attack is ageing: 9 of 17 attacking contributors will be 30
-or older by 2029, accounting for 49.8% of their attacking involvement
-at Euro 2025. A third straight title may depend on younger players
-stepping up.
-
-## Interactive dashboard
-
-The analysis is packaged as a Streamlit dashboard with three sections:
-
-- **Tournament overview:** England's xG and goals across all six matches.
-- **Match explorer:** pick any of England's matches to see its key stats
-  and shot map.
-- **Player view:** who drove England's attack, with a sortable stats table.
-
-To run it locally (after the setup steps below):
-
-    streamlit run app.py
 
 ---
 
 ## About the project
 
-Men's football is one of the most heavily analysed sports in the world, but the women's game receives a fraction of that attention, despite rapidly growing audiences, investment and professionalism. This project aims to help close that gap by turning detailed match data into clear, interactive visuals that anyone can explore.
+Men's football is one of the most heavily analysed sports in the world, but the women's game receives a fraction of that attention, despite rapidly growing audiences, investment and professionalism. This project uses free, professional-grade event data, where every pass, shot and tackle is recorded with its location on the pitch, to tell the story of England's Euro 2025 win and look ahead to the next tournament.
 
-The dashboard will cover competitions including the FA Women's Super League, the UEFA Women's Euros and the FIFA Women's World Cup, using event data where every pass, shot, tackle and carry is recorded with its location on the pitch.
+### Why I built this
+
+I moved into data from a background in media production. This project brings the two together: the analytical side of working with real, messy data, and the storytelling and visual design skills from my creative work. Every chart follows the same visual identity, and the dashboard is structured like a story, from the tournament itself to the players behind it, and then to the future.
 
 ### Guiding questions
 
@@ -69,58 +24,90 @@ The dashboard will cover competitions including the FA Women's Super League, the
 2. Did England deserve their results?
 3. Who drove England's attack?
 4. How did England defend?
-5. Looking ahead: what does the data suggest about England's chances
-   of a third consecutive title at Euro 2029 in Germany?
-
-### Why I'm building this
-
-I moved into data from a background in media production. This project brings together the two: the analytical side of working with real, messy data, and the storytelling and visual design skills from my creative work. The goal is a dashboard that isn't just accurate, but genuinely engaging to use.
+5. Looking ahead: what does the data suggest about England's chances of a third consecutive title at Euro 2029 in Germany?
 
 ---
 
-## Data
+## Key findings
 
-This project uses **StatsBomb Open Data**, a free collection of professional football event data. Each match contains roughly 3,000 to 4,000 individual events, tagged by analysts watching match footage.
+### 1. England grew into the tournament, then survived
 
-Women's competitions available include:
+England were out-created in their opening 2–1 defeat to France, dominated the Netherlands and Wales, were level on chances with Sweden, and were clearly stronger than Italy. In the final, Spain created more than twice England's xG (2.14 vs 0.88), but England held on and won on penalties.
 
-- FA Women's Super League (2018/19 to 2023/24)
-- UEFA Women's Euro (2022, 2025)
-- FIFA Women's World Cup (2019, 2023)
-- Frauen Bundesliga, Liga F, Serie A Women and the NWSL
+### 2. Volume vs quality in the final
 
-Data provided by [StatsBomb](https://github.com/statsbomb/open-data).
+![Shot map of the Euro 2025 final](shot_map_euro2025_final.png)
+
+Spain took nearly three times as many shots as England in the final (23 vs 8). But shot for shot, England's chances were just as good, with a slightly higher average xG per shot, and both teams took around 75% of their shots from inside the box. Spain's advantage came from volume, not quality.
+
+### 3. Russo was a complete forward, and penalties distorted the raw numbers
+
+![Shooters vs creators: England at Euro 2025](england_shooters_vs_creators.png)
+
+Alessia Russo led England in both shooting threat and assists, with Ella Toone and Lauren Hemp completing an attacking core dangerous in both roles. Removing penalties (non-penalty xG) changed the picture: Chloe Kelly's saved penalty against Italy had made her look wasteful, when her real strength was creating chances. Lauren Hemp created the most xG for teammates but finished with no assists.
+
+### 4. Spain are rising, and England's defence is a concern
+
+![Road to Euro 2029: xG difference per match across four tournaments](road_to_2029_trend.png)
+
+Across the last four major tournaments, Spain have become the most dominant team in the data, while Germany, the Euro 2029 hosts, dropped sharply at Euro 2025. England win tournaments through clinical finishing rather than dominance, and have allowed more chances at every tournament since 2019.
+
+### 5. England's attack is heading towards 30
+
+![England's attack by age at Euro 2029](england_age_2029.png)
+
+9 of England's 17 attacking contributors will be 30 or older by Euro 2029, accounting for 49.8% of their attacking involvement at Euro 2025. A third straight title may depend on younger players like Lauren James, Aggie Beever-Jones and Michelle Agyemang stepping up.
+
+---
+
+## The dashboard
+
+The [live dashboard](https://lionesses-euro2025.streamlit.app/) has four sections:
+
+- **Tournament overview:** England's chances created and goals scored across all six matches.
+- **Match explorer:** pick any of England's matches to see its key stats and an interactive shot map.
+- **Player view:** who drove England's attack, with a sortable table of every player's stats.
+- **Looking ahead to 2029:** how England compare with Spain and Germany over time, and how the squad is ageing.
+
+---
+
+## Data and methods
+
+**Match data:** [StatsBomb Open Data](https://github.com/statsbomb/open-data), covering Women's Euro 2025, Euro 2022 and the 2019 and 2023 Women's World Cups.
+
+**Player birthdates:** the Wikipedia "UEFA Women's Euro 2025 squads" page, which cites the FA's official squad announcement.
+
+**Key measures:**
+
+- **xG (expected goals):** the probability a shot becomes a goal, from 0 to 1, based on thousands of historical shots. It measures the quality of chances, not just the result.
+- **npxG (non-penalty xG):** xG with penalties removed, for a fairer comparison of open-play threat.
+- **xG assisted:** the total xG of shots a player set up with the pass right before them.
+- **xG difference:** xG created minus xG allowed per match, a measure of how dominant a team was.
+
+**Choices and assumptions:**
+
+- Penalty shootouts are excluded from all analysis, as they don't reflect open play.
+- Euro 2029 dates aren't confirmed, so player ages use 1 July 2029.
+- "30 or older" is a simple threshold for the age analysis, not a scientific cut-off.
+
+### Limitations
+
+This analysis describes what happened; it doesn't predict the future. Four tournaments is a short trend, World Cups and Euros involve different opponents, and some samples are small (Germany played only three matches at the 2023 World Cup). Individual finishing numbers come from few shots and would likely settle over a longer period. The age finding is sensitive to the threshold: Ella Toone will be 29.8, just under the line.
 
 ---
 
 ## Tools and technologies
 
-| Tool                 | What it's used for                                             |
-| -------------------- | -------------------------------------------------------------- |
-| **Python**           | The programming language for the whole project                 |
-| **pandas**           | Loading, cleaning and analysing tables of data                 |
-| **statsbombpy**      | Downloading StatsBomb data directly into Python                |
-| **mplsoccer**        | Drawing football pitches for shot maps, pass maps and heatmaps |
-| **matplotlib**       | Creating charts and visualisations                             |
-| **Jupyter Notebook** | Exploring the data step by step                                |
-| **Streamlit**        | Building the interactive web dashboard                         |
-
----
-
-## Project roadmap
-
-- [x] Set up the project environment and GitHub repository
-- [x] Load StatsBomb data and filter to women's competitions
-- [x] Explore a full match and understand the event data
-- [x] Choose the project's focus (England's Euro 2025 journey)
-- [x] Build tournament overview chart (xG and goals, match by match)
-- [x] Build first visualisation (shot map of the Euro 2025 final)
-- [x] Build further visualisations (player analysis)
-- [x] Assemble the interactive Streamlit dashboard
-- [x] Looking ahead to Euro 2029 (trends and squad ages)
-- [x] Publish the dashboard online
-- [ ] Stretch goal: build a simple expected goals (xG) model
-- [ ] Record a short demo video walkthrough
+| Tool                 | What it's used for                              |
+| -------------------- | ----------------------------------------------- |
+| **Python**           | The programming language for the whole project  |
+| **pandas**           | Loading, cleaning, joining and analysing data   |
+| **statsbombpy**      | Downloading StatsBomb data directly into Python |
+| **mplsoccer**        | Drawing football pitches for shot maps          |
+| **matplotlib**       | Creating charts and visualisations              |
+| **Jupyter Notebook** | Exploring the data step by step                 |
+| **Streamlit**        | Building and hosting the interactive dashboard  |
+| **Git and GitHub**   | Version control and sharing                     |
 
 ---
 
@@ -178,23 +165,38 @@ womens-football-dashboard/
    pip install -r requirements.txt
    ```
 
-4. Open the notebook:
+4. Run the dashboard:
 
    ```
-   jupyter notebook
+   streamlit run app.py
    ```
 
+5. To open the notebooks, install Jupyter too:
+   ```
    pip install jupyter
-
-   ```
-
+   jupyter notebook
    ```
 
 ---
 
-## Devlog
+## What I learned
 
-I'm documenting each session of this project, including what I built, what I learned and what confused me along the way. Read it in [DEVLOG.md](DEVLOG.md).
+This was my first full data project after moving into tech from media production. Along the way I learned to work with messy real-world data, test theories against numbers rather than first impressions, combine data from different sources, and turn analysis into a live product. Some of the most valuable moments came from the data correcting me, like discovering that Spain's dominance in the final came from volume rather than quality. The full story, including everything that confused me and how I solved it, is in the [devlog](DEVLOG.md).
+
+---
+
+## Roadmap
+
+- [x] Set up the project environment and GitHub repository
+- [x] Explore a full match and understand the event data
+- [x] Choose the project's focus (England's Euro 2025 journey)
+- [x] Build the tournament overview, shot map and player analysis
+- [x] Build the interactive Streamlit dashboard
+- [x] Look ahead to Euro 2029 (trends and squad ages)
+- [x] Publish the dashboard online
+- [ ] Record a demo video walkthrough
+- [ ] Future: use WSL data to find young English players performing well at club level, like a scouting tool
+- [ ] Future: build my own expected goals (xG) model
 
 ---
 
@@ -205,4 +207,4 @@ I'm documenting each session of this project, including what I built, what I lea
 
 ---
 
-**Georgia** · [GitHub](https://github.com/georgiajayy)
+**Georgia J Summers** · Junior Data Analyst · [GitHub](https://github.com/georgiajayy) · [LinkedIn](https://www.linkedin.com/in/georgiajayysummers/)
