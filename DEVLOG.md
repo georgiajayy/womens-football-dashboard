@@ -157,3 +157,50 @@ and built a styled chart of England's journey with xG and goals labelled.
 - England's 16 goals matched their real tournament total, a good sanity check.
 
 **Next time:** Session 5, the player view: who drove England's attack?
+
+## Session 5
+
+**Goal:** Answer "Who drove England's attack?" with a player-level analysis.
+
+**What I did:** Summarised every England player's shots, xG and goals,
+tested a theory about Chloe Kelly's penalty, recalculated everything
+without penalties (npxG), traced shots back to the passes that created
+them (xG assisted), and built two charts: top 10 by npxG, and a
+shooters vs creators scatter plot.
+
+**What I learned:**
+
+- Functions: a reusable block of code with def and return, like saving
+  an effects preset.
+- npxG: removing penalties gives a fairer comparison of open-play threat.
+- Key passes and xG assisted: the pass before a shot, and the value of
+  the chances a player created.
+- dropna removes missing values; fillna fills them in.
+- join with how="outer" keeps players who appear in either table.
+- != means "not equal to".
+
+**What confused me:**
+
+- How the shooters vs creators chart works.
+  Resolved: each dot is a player. Further right means she took more
+  good shots, higher up means she set up more good shots for others.
+  The dashed lines are the team average, splitting the chart into
+  four boxes: shooters, providers, players who do both, and players
+  who help now and then.
+
+**Things I noticed in the data:**
+
+- Kelly's saved penalty against Italy made her look wasteful. Without
+  it, she finished slightly above expectations.
+- One of Stanway's two goals was a penalty, halving her xG once removed.
+- Russo led England in both shooting threat and assists: a complete forward.
+- Hemp created the most xG for others but got no assists, and
+  underperformed as a shooter, so she was the unluckiest attacker.
+- Agyemang scored 2 goals from 0.84 xG as a super-sub, but from only
+  6 shots, so it's a small sample.
+
+**Next time:** Session 6: turn the notebooks into an interactive
+Streamlit dashboard with three sections: a tournament overview
+(England's journey chart), a match explorer (pick any of England's
+six matches to see its shot map), and a player view (top 10 and
+shooters vs creators charts).

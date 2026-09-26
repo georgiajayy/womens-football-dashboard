@@ -18,6 +18,14 @@ to France, dominated the Netherlands and Wales, were level on chances
 with Sweden, and were clearly stronger than Italy. In the final, Spain
 created more than twice England's xG, but England held on and won on penalties.
 
+![Shooters vs creators: England at Euro 2025](england_shooters_vs_creators.png)
+
+**Who drove England's attack?** Alessia Russo led England in both
+shooting threat and assists, with Ella Toone and Lauren Hemp completing
+an attacking core dangerous in both roles. Removing penalties changed
+the picture: Chloe Kelly's saved penalty against Italy had made her
+look wasteful, when her real strength was creating chances.
+
 ---
 
 ## About the project
@@ -78,7 +86,7 @@ Data provided by [StatsBomb](https://github.com/statsbomb/open-data).
 - [x] Choose the project's focus (England's Euro 2025 journey)
 - [x] Build tournament overview chart (xG and goals, match by match)
 - [x] Build first visualisation (shot map of the Euro 2025 final)
-- [ ] Build further visualisations (passing networks, player comparisons)
+- [x] Build further visualisations (player analysis)
 - [ ] Assemble the interactive Streamlit dashboard
 - [ ] Publish the dashboard online
 - [ ] Stretch goal: build a simple expected goals (xG) model
